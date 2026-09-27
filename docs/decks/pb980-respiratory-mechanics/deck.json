@@ -1,0 +1,184 @@
+{
+ "id": "pb980-respiratory-mechanics",
+ "title": "Respiratory Mechanics を読む",
+ "subtitle": "Puritan Bennett 980 で何が測れて、いつ測れるのか（呼吸器シリーズ #1）",
+ "date": "2026-09-27",
+ "rev": "6c34bfd9ab",
+ "aspect": 1.7778,
+ "slides": [
+  {
+   "img": "s01.webp",
+   "thumb": "t01.webp",
+   "text": "研修医向けレクチャー Respiratory Mechanics を読む Puritan Bennett 980 で何が測れて、いつ測れるのか 呼吸器シリーズ #1 Yasuyuki Suzuki, MD, PhD Dept. of Anaesthesiology, Saiseikai Matsuyama Hospital",
+   "notes": ""
+  },
+  {
+   "img": "s02.webp",
+   "thumb": "t02.webp",
+   "text": "WHY RM は「ベッドサイドの問い」に数字で答える機能 知りたいこと RM の測定値 ど う や って 肺は硬いのか 静的コンプライアンス（Cstat） 吸気ポーズ 気道は狭いのか 静的気道抵抗（Rstat） 吸気ポーズ 息を吐き切れているか 内因性 PEEP（PEEPi） 呼気ポーズ 呼吸中枢はどれだけ駆動しているか P0.1 吸気開始の短い閉塞 吸気筋はどれだけ力を出せるか NIF（最大吸気圧） 数秒〜20 秒の閉塞 深呼吸はどれくらいできるか 肺活量（VC） 最大吸気からゆっくり呼出 上 3 つは患者が吸わない状態で測る（受動）。下 3 つは患者の努力そのものを測る（能動）。 → 測る前に、何を知りたいのかを決める。問いによって使う測定が違う。 研修医レクチャー | Suzuki 2",
+   "notes": ""
+  },
+  {
+   "img": "s03.webp",
+   "thumb": "t03.webp",
+   "text": "BASICS すべての測定は 1 本の式から読める Paw + Pmus ＝ V / C + R × 流量 + PEEPtot Paw Pmus V/C R × 流量 人工呼吸器がかける圧（画 面の気道内圧） 患者の呼吸筋が出す圧（吸 気で陽圧側に働く） 弾性成分：膨らませた量 ÷ コンプライアンス 抵抗成分：気道とチューブ を流れるための圧 受動（Pmus ＝ 0）で流量を止める 能動（流量 0・容量一定）で閉塞する • 吸気ポーズ：Paw ＝ V/C ＋ PEEPtot → Cstat • Ppeak との差から R × 流量 → Rstat • V も流量も変わらないので Paw の低下 ＝ Pmus • 吸気開始 100 ms の低下 → P0.1（駆動） • 呼気ポーズ：残った圧 ＝ PEEPtot → PEEPi • 最大努力での最低値 → NIF（筋力） Lucangelo 2005 [2]; Hess 2014 [3] → 流量を 0 にする（閉塞する）と、抵抗の項が消えて、測りたいものだけが残る。 研修医レクチャー | Suzuki 3",
+   "notes": "運動方程式（equation of motion）。RM のすべての測定は『流量を止める』ことで抵抗項を消し、残った項を読む。受動の測定では Pmus が 0 であることが前提になり、能動の測定では Pmus そのものを測る。この対比を最初に押さえると、どの測定で自発呼吸が要るのか・要らないのかが自然に理解できる。"
+  },
+  {
+   "img": "s04.webp",
+   "thumb": "t04.webp",
+   "text": "PA R T 1 受動の測定 ― 流量を止めて肺と気道を見る 患者が吸わないときだけ、正しい値が出る。 → 吸気ポーズで Cstat と Rstat、呼気ポーズで PEEPi。 研修医レクチャー | Suzuki 4",
+   "notes": ""
+  },
+  {
+   "img": "s05.webp",
+   "thumb": "t05.webp",
+   "text": "PA R T 1 · I N S P I R AT O R Y PA U S E 吸気ポーズで、圧を「抵抗」と「弾性」に分ける Cstat Rstat 駆動圧 VT ／（Pplat − PEEPtot） mL/cmH₂O （Ppeak − Pplat）／ 吸気流量 cmH₂O/L/s Pplat − PEEP cmH₂O Rstat の計算には「一定の吸気流量」が要る。流量が 刻々と変わる PC・漸減波では、この式がそのままは使 えない。 概念図（VC 矩形波、VT 500 mL、流量 60 L/min、R 15、C 40 を仮定）。Lucangelo 2005 [2]; Hess 2014 [3] → Ppeak は抵抗と弾性の合計。Pplat まで下がった分が抵抗、残りが弾性。 研修医レクチャー | Suzuki 5",
+   "notes": "吸気終末で流量を止めると、抵抗成分（R×流量）が消えて Pplat が残る。Ppeak から Pplat への急な低下が抵抗、その後のゆっくりした低下（P1→P2）は応力緩和や肺内の再分布。Cstat の分母は本来 PEEPtot（内因性 PEEP を含む）。"
+  },
+  {
+   "img": "s06.webp",
+   "thumb": "t06.webp",
+   "text": "PA R T 1 · PAT T E R N Ppeak が上がったら、まず Pplat を見る 概念図。Hess 2014 [3]; Henderson 2017 [4] → Ppeak だけ上がれば気道・チューブの問題、Pplat も上がれば肺・胸郭の問題。 研修医レクチャー | Suzuki 6",
+   "notes": "高圧アラームが鳴ったときの切り分け。Ppeak−Pplat が開いていれば抵抗の問題（吸引、気管支拡張薬、チューブ位置・屈曲の確認）。Pplat も上がっていればコンプライアンスの問題（気胸、肺水腫、無気肺、腹腔内圧上昇、片肺挿管）。"
+  },
+  {
+   "img": "s07.webp",
+   "thumb": "t07.webp",
+   "text": "PA R T 1 · C O M P L I A N C E Cstat は PV 曲線の「一回換気の区間」の傾き 同じ肺でも Cstat は変わる • PEEP が低すぎる：虚脱域にかかり傾き↓ • VT・PEEP が高すぎる：過膨張域で傾き↓ • 胸壁（肥満・腹部膨満）も含んだ値 DRIVING PRESSURE RR 1.41 ARDS で駆動圧が 1 SD（約 7 cmH₂O）高いごとの死亡の相対リス ク（95%CI 1.31–1.51） 概念図。Henderson 2017 [4]; Amato 2015 [5] → Cstat は肺の硬さそのものではなく、今の PEEP と VT で使っている区間の傾き。 研修医レクチャー | Suzuki 7",
+   "notes": "駆動圧 ＝ Pplat − PEEP ＝ VT / Cstat。Amato 2015（NEJM）の個別データ解析で、駆動圧が死亡と最も強く関連した。Cstat は PV 曲線上のどこで換気しているかで変わるので、PEEP 設定の評価にも使える。"
+  },
+  {
+   "img": "s08.webp",
+   "thumb": "t08.webp",
+   "text": "PA R T 1 · L O O P S 画面の PV ループは「動的」― 静的な PV 曲線とは別物 A：吸気脚は静的な関係より「流量 × R」だけ右にずれる。B：吸気終末で傾きが寝るのは過膨張を疑う所見（確定には静的な評価が要る）。Lucangelo 2005 [2] → ループの傾きや幅には抵抗と流量が混ざる。静的な値はポーズで測る。 研修医レクチャー | Suzuki 8",
+   "notes": "人工呼吸器のモニターに出る PV ループは、流れている最中の圧（Paw）と容量の関係なので、抵抗成分を含む。VC の矩形波なら吸気脚は静的曲線と平行に右へずれるだけだが、PC や自発呼吸では形が大きく変わる。ループの形は変化の気づきには役立つが、静的な数値の代わりにはならない。"
+  },
+  {
+   "img": "s09.webp",
+   "thumb": "t09.webp",
+   "text": "PA R T 1 · W H E N I T FA I L S 自発努力があると、ポーズの値は信用できない 吸気努力で下がる 呼気努力・リークで乱れる Pplat が低く出る → Cstat を過大評価 Pplat が高く出る・下がり続ける → 値が不定 → plateau が平らでなければ、その Cstat・Rstat は捨てる。 研修医レクチャー | Suzuki 9",
+   "notes": "運動方程式で Pmus ≠ 0 のままだと、ポーズ中の Paw は V/C を表さない。確認は波形で行う：ポーズ中の圧が平らに安定しているか。カフリークや気管支胸膜瘻があると、ポーズ中に圧が下がり続ける。"
+  },
+  {
+   "img": "s10.webp",
+   "thumb": "t10.webp",
+   "text": "PA R T 1 · E X P I R AT O R Y PA U S E 呼気ポーズで、吐き残した圧（PEEPi）を測る PEEPi ＝ PEEPtot − 設定 PEEP • 呼気終末に回路を閉じると、肺胞に残った圧が口 元に現れる • 患者が吸おうとしている間は測れない PEEPi が起きやすい • 気道抵抗↑（COPD・喘息）で呼気が遅い • 呼吸数↑・VT↑・吸気時間↑で呼気時間が足りな い 概念図。Pepe & Marini 1982 [6]; Blanch 2005 [7] → 呼気終末に流量が 0 に戻っていなければ、PEEPi を疑って呼気ポーズで測る。 研修医レクチャー | Suzuki 10",
+   "notes": "流量波形で呼気流量が 0 に戻る前に次の吸気が始まっていれば、エアトラッピング。呼気ポーズで測る値は、肺胞圧の平均的な値（不均一な肺では最も閉塞した領域の圧は反映されにくい）。"
+  },
+  {
+   "img": "s11.webp",
+   "thumb": "t11.webp",
+   "text": "PA R T 1 · W H Y P E E P i M AT T E R S PEEPi は、トリガーと循環の両方に効く トリガーしにくい 循環が落ちる 吸気を始めるには、まず PEEPi 分の陰圧を自分で作る必要が ある → 空振り（ineffective effort）・呼吸仕事量↑ 胸腔内圧↑ → 静脈還流↓。PEEP を上げたのと同じ効果が 「見えない形」で起きる Cstat を誤る 対応 分母に設定 PEEP を使うと、PEEPi の分だけ駆動圧を大きく 見積もり、Cstat を過小評価する 呼吸数↓・VT↓・吸気流量↑で呼気時間↑、気管支拡張薬、 吸引。自発呼吸下では外部 PEEP で打ち消す方法もある Pepe & Marini 1982 [6]; Blanch 2005 [7] → 呼気時間を延ばすのが基本。PEEPi は画面の PEEP には表示されない。 研修医レクチャー | Suzuki 11",
+   "notes": "PEEPi は『auto-PEEP』『occult PEEP』とも呼ばれ、画面の PEEP 表示には出ない（Pepe & Marini 1982 の題名どおり occult）。前回の講義（PEEP と heart–lung interaction）とつながる点：PEEPi も胸腔内圧を上げて静脈還流を減らす。"
+  },
+  {
+   "img": "s12.webp",
+   "thumb": "t12.webp",
+   "text": "PA R T 2 能動の測定 ― 患者の力を測る 今度は、患者が吸ってくれないと測れない。 → P0.1 は駆動、NIF は筋力、VC は換気の予備力。 研修医レクチャー | Suzuki 12",
+   "notes": ""
+  },
+  {
+   "img": "s13.webp",
+   "thumb": "t13.webp",
+   "text": "PA R T 2 · P 0 . 1 P0.1 ― 吸い始め 100 ms の「引く力」で呼吸中枢の駆動を見る TELIAS 2020 ・ 補助換気中 > 3.5 ≤ 1.0 高い吸気努力を検出 感度 80%・特異度 77% 低い吸気努力を検出 感度 100%・特異度 92% 読み方 • 高い：過剰な努力（P-SILI・横隔膜の過負荷）→ 補助↑・ 鎮静を検討 • 低い：補助が過剰・過鎮静 → 補助↓を検討 単位 cmH₂O。基準の努力量は食道内圧で測った PTP。Whitelaw 1975 [8]; Telias 2020 [9]; Bertoni 2019 [10] → P0.1 は本人の意思や筋力の影響を受けにくく、毎呼吸の負担なく測れる。 研修医レクチャー | Suzuki 13",
+   "notes": "P0.1 は吸気開始直後に気道を閉塞し、100 ms 後の気道内圧の低下を読む。閉塞時間が短いので患者は閉塞に気づいて反応する前であり、意思や筋力より呼吸中枢の出力（drive）を反映するとされる（Whitelaw 1975）。Telias 2020 では、P0.1 >3.5 cmH2O が高い努力、≤1.0 cmH2O が低い努力を検出した。"
+  },
+  {
+   "img": "s14.webp",
+   "thumb": "t14.webp",
+   "text": "PA R T 2 · N I F NIF ― 閉塞下で最大に吸わせ、吸気筋力を見る 測り方で値が変わる • 呼気だけ通す一方向弁で 20 秒閉塞すると、協力が乏 しくても最大値に近づく • 閉塞が短い・努力が弱いと浅く出る YANG & TOBIN 1991 特異度 0.11 最大吸気圧（PImax）で離脱の成否を予測したときの特異 度（感度 1.00、AUC 0.61） 符号の表し方（−30 と 30）は機種や文献で異なる。Truwit & Marini 1992 [12]; Caruso 1999 [13]; Yang & Tobin 1991 [15]; ATS/ERS 2002 [11] → NIF は患者の協力と測り方で大きく変わる。単独で抜管を決める値ではない。 研修医レクチャー | Suzuki 14",
+   "notes": "NIF（negative inspiratory force）は MIP・PImax とも呼ばれる。Truwit & Marini 1992 では呼気のみを通す一方向弁で 20 秒閉塞する方法を検証した。Yang & Tobin 1991 では PImax は感度は高いが特異度が 0.11 と低く、『NIF が十分でも離脱に失敗する』ことが多い。"
+  },
+  {
+   "img": "s15.webp",
+   "thumb": "t15.webp",
+   "text": "PA R T 2 · V I TA L C A PA C I T Y 肺活量 ― 最大に吸って、ゆっくり吐き切る わかること • 換気の予備力：咳・深呼吸がどこまでできるか • 神経筋疾患（ギラン・バレーなど）の経過観察 低く出る原因 • 理解・協力が不十分、疼痛（術後） • 呼吸筋力の低下、肺・胸郭の拘束 • リーク（カフ・回路） ATS/ERS 2002 [11]; Laghi & Tobin 2003 [14]; Boles 2007 [16] → VC は完全に患者の協力しだい。意識・理解・疼痛を整えてから測る。 研修医レクチャー | Suzuki 15",
+   "notes": "slow vital capacity は最大吸気位からゆっくり最大呼気位まで吐いた量。努力肺活量（FVC）と違い、速く吐く必要はない。値は協力に強く依存するので、低い値が出たときは測定条件を先に疑う。"
+  },
+  {
+   "img": "s16.webp",
+   "thumb": "t16.webp",
+   "text": "PA R T 3 PB980 で測る ― いつ測れて、いつ測れないか モードと呼吸の種類で、使える測定が決まる。 → 受動の測定は強制換気、能動の測定は自発吸気が要る。 研修医レクチャー | Suzuki 16",
+   "notes": ""
+  },
+  {
+   "img": "s17.webp",
+   "thumb": "t17.webp",
+   "text": "PA R T 3 · H O W T O RM はメニュータブから呼び出す 1 画面左の Menu タブ タッチまたはスワイプで開く 2 RM をタッチ 吸気ポーズ・呼気ポーズ・NIF・P0.1・VC のタブが並ぶ 3 目的のタブを選び、画面の指示に従う 吸気・呼気ポーズは本体の専用キーでも開始できる 4 波形を確認して Accept / Reject Accept した値だけが保存・表示される キー操作：短く押すと自動ポーズ、押し続けると手動ポーズ。RM が標準搭載かオプションかは当院の機器で確認する。PB980 Operator's Manual [1] 4-26〜4-28 → 結果は波形を見てから「Accept」。plateau が平らでなければ「Reject」。 研修医レクチャー | Suzuki 17",
+   "notes": "取扱説明書 4.9 節。Menu → RM → 各タブ → 画面の指示 → Accept/Reject。吸気・呼気ポーズは GUI 下部の専用キー（inspiratory pause key / expiratory pause key）でも実行できる。RM が標準機能かソフトウェアオプションかは資料から確定できなかったので、実機の Options 画面で確認する。"
+  },
+  {
+   "img": "s18.webp",
+   "thumb": "t18.webp",
+   "text": "PA R T 3 · AVA I L A B I L I T Y どの測定が、どの条件で使えるか 測定 必要な呼吸 使えるモード 患者の協力 時間の上限 得られる値 吸気ポーズ 強制換気 1 回 A/C・SIMV・BiLevel・ SPONT* 不要（努力なしが前提） 自動 0.5〜3 秒 手動 最長 7 秒 Pplat・Cstat・Rstat 呼気ポーズ 次の強制換気の直前 A/C・SIMV・BiLevel （SPONT 不可） 不要（自動は努力で打ち 切り） 自動 0.5〜3 秒 手動 最長 15 秒 PEEPtot・PEEPi NIF 自発吸気 BiLevel 以外 要（声かけで最大吸気） 30 秒吸気がなければ中 止 PEEP からの最大陰圧 P0.1 自発吸気（トリガーで 開始） BiLevel 以外 通常の吸気で測る 7 秒トリガーがなけれ ば終了 最初の 100 ms の圧低 下 VC 自発吸気 BiLevel 以外 要（最大吸気→ゆっくり 呼出） 15 秒吸気がなければ中 止 呼気量 すべての測定が使えない：NIV、新生児回路、無呼吸換気、Safety PCV、OSC、SVO、スタンバイ。同じ呼吸で 2 つ目の測定は不可。↑PPEAK・ ↑PVENT・↑VTI アラームで自動的に中止。 * SPONT では手動吸気（manual inspiration）キーで強制換気を 1 回入れて行う。PB980 Operator's Manual [1] 2-15, 4-26〜4-28, 10-40〜10-46 → NIV・新生児回路では RM は使えない。BiLevel では NIF・P0.1・VC が使えない。 研修医レクチャー | Suzuki 18",
+   "notes": "取扱説明書 10.14 節の条件をまとめた。上 2 行（白）は受動の測定、下 3 行（緑）は能動の測定。呼気ポーズは SPONT モードでは要求が無視される。NIF・P0.1・VC は BiLevel では使えない。NIV と新生児回路ではすべて使えない。"
+  },
+  {
+   "img": "s19.webp",
+   "thumb": "t19.webp",
+   "text": "PA R T 3 · T W O S I T U AT I O N S 今の患者で、何が測れて何が測れないか A. 鎮静下・A/C（VC 矩形波） B. 覚醒・SPONT（PSV） 自発努力がない。受動の測定に向く 離脱を考える場面。能動の測定に向く ○ 吸気ポーズ Cstat・Rstat とも出る ○ P0.1 モードを変えずに測れる ○ 呼気ポーズ PEEPi が測れる ○ NIF・VC 声かけに応じられれば × P0.1 吸気努力がない（トリガーされず終 了） △ 吸気ポーズ 手動吸気で 1 回。努力で乱れやすく Rstat は VC 矩形波のみ × NIF 吸気努力がなく意味がない × 呼気ポーズ SPONT では使えない × VC 協力が得られない PEEPi 必要なら一時的に A/C へ。PAV+ 中は推 定値が出る △ ○ 測れる △ 条件つき × 測れない・意味がない。PB980 Operator's Manual [1] 10-40〜10-46, 6-40〜6-41 → 受動の値が欲しいのか、能動の値が欲しいのかで、測るタイミングとモードを選ぶ。 研修医レクチャー | Suzuki 19",
+   "notes": "研修医が迷うのは『今のモードで測れるか』。受動の測定（Cstat・Rstat・PEEPi）は患者が吸っていないことが前提なので、深い鎮静や筋弛緩下の A/C が最も信頼できる。能動の測定（P0.1・NIF・VC）は逆に自発呼吸と協力が要るので、SPONT での離脱評価の場面で使う。"
+  },
+  {
+   "img": "s20.webp",
+   "thumb": "t20.webp",
+   "text": "PA R T 3 · I N S P I R AT O R Y PA U S E O N P B 9 8 0 PB980 の Cstat・Rstat を読むときの注意 Rstat は VC の矩形波でだけ出る Cstat は回路の伸びを差し引いた値 • それ以外（PC・漸減波・自発呼吸）では「------」 • 人工気道（気管チューブ）と呼吸器系を合わせた抵抗 • 回路コンプライアンスは SST の結果から求める • 回路を替えたら SST をやり直す 式の PEEP は「呼気終末の実測圧」 表示の記号 • PEEPtot ではないので、PEEPi があると Cstat は低く出る • 閉塞性の患者では呼気ポーズも一緒に測る (値) 計算に使った変数が疑わしい 点滅 範囲外 ------ Rstat を計算できない 手動ポーズはキーを 2 秒以上押すか、圧が安定してから離す。PB980 Operator's Manual [1] 6-40〜6-41, 10-41〜10-43 → Rstat が「------」なら矩形波の VC ではない。値に（ ）が付いたら信用しない。 研修医レクチャー | Suzuki 20",
+   "notes": "取扱説明書 6.6.29：Cstat = Vpt/(Pckt − PEEP) − Cckt。PEEP は『呼気終末に測った回路内圧』、Cckt は SST で求めた回路コンプライアンス。Rstat は Cstat を計算した後に、VC・矩形波を前提として求める。Rstat は artificial airway と respiratory system を合わせた全吸気抵抗と定義されている。"
+  },
+  {
+   "img": "s21.webp",
+   "thumb": "t21.webp",
+   "text": "PA R T 3 · O T H E R M A N E U V E R S 呼気ポーズ・NIF・P0.1・VC の要点 呼気ポーズ NIF • 次の強制換気の直前の呼気終末に入る • PEEPi・PEEPtot は保持中も更新される → 落ち着いたら終える • 吸気弁・呼気弁を両方閉じて、声かけで最大吸気 • 表示は PEEP からの最大陰圧（圧-時間波形がリアルタイムに出 る） • 終了後に PEEP を戻す呼吸が入る • 自動ポーズは患者のトリガー努力で打ち切られる P0.1 VC • 患者のトリガーで閉塞した吸気の最初の 100 ms の圧低下 • 7 秒以内にトリガーがなければ終了 • 設定に関係なく PSUPP 0・Rise 50%・ESENS 0 の自発吸気を 1 回 入れる • 最大に吸って、ゆっくり吐き切った呼気量を表示 • 取扱説明書では「呼吸の神経筋ドライブの推定値」 • 終了後に PEEP を戻す呼吸が入る PB980 Operator's Manual [1] 10-43〜10-46 → PEEPi は値が落ち着くまで保持。NIF と VC の後には PEEP を戻す呼吸が入る。 研修医レクチャー | Suzuki 21",
+   "notes": "NIF と VC は coached maneuver（声かけで誘導する測定）。NIF は吸気弁と呼気弁の両方を閉じるので、呼気のみを通す一方向弁法（Truwit & Marini 1992）とは違う。P0.1 は声かけを要する測定としては書かれていない。"
+  },
+  {
+   "img": "s22.webp",
+   "thumb": "t22.webp",
+   "text": "PA R T 3 · C O N T I N U O U S D ATA ポーズをしなくても出る値 ― ただし「推定」 強制換気のたびに計算される 自発呼吸で出る • Cdyn・Rdyn：Cstat・Rstat の動的な推定 • C20/C：吸気の最後 20% と全体のコンプライアンスの比（終末 で傾きが寝る＝過膨張の手がかり） • f/VT（浅く速い呼吸の指標） • PSF（自発呼吸の最大吸気流量）、TI/TTOT PAV+ 使用中 4〜10 呼吸ごとにランダムに短い吸気終末ポーズを入れ、CPAV・RPAV・EPAV・RTOT・PEEPi PAV・WOB を推定する。成人（PBW 25 kg 以上）、チューブ内径 6〜10 mm で使える。自発呼吸のまま肺・気道の変化を追えるが、値は推定である。 PB980 Operator's Manual [1] 6-39〜6-42, 10-40, 11-17〜11-20, 付録 C; Younes 2001 [17] [18] → ポーズで測った Cstat・Rstat と、毎呼吸の推定値や PAV+ の推定値を区別する。 研修医レクチャー | Suzuki 22",
+   "notes": "Cdyn・Rdyn は流れている最中の値を含むので、ポーズで測る Cstat・Rstat とは一致しない。PAV+ は自発呼吸中にランダムな短い吸気終末ポーズで C と R を推定する（Younes 2001）。取扱説明書でも PAV+ 由来の値は推定値として扱われている。"
+  },
+  {
+   "img": "s23.webp",
+   "thumb": "t23.webp",
+   "text": "PA R T 3 · L O O P S O N P B 9 8 0 PB980 のループ表示で見るもの 表示できるもの 静的 PV 曲線は自動では描かない • PV ループと FV（流量-容量）ループ、最大 2 つ同時 • 画面を止めてカーソルで値を読める • 低流量で PV 曲線を描く専用ツールは、7.6.1.0 版の取扱説 明書に記載がない • 新しいソフトウェア版の機能は当院の機器で確認する くちばし状 吸気終末で傾きが寝る → 過膨張を疑う（C20/C も併せて） ループが開く 吸気と呼気の脚が離れる → 抵抗↑（痰・攣縮） 呼気が 0 に戻らない FV ループで呼気流量が 0 に届く前に吸気 → PEEPi 容量が戻らない 呼気の脚が 0 に戻らない → リーク PB980 Operator's Manual [1] 3-39, 5-2 → ループは変化に気づくための道具。数値は吸気ポーズで確かめる。 研修医レクチャー | Suzuki 23",
+   "notes": "PB980 には Hamilton の P/V Tool のような低流量 PV 曲線の自動測定は、少なくとも 7.6.1.0 版の取扱説明書には記載がない（新しいソフトウェア版は未確認）。"
+  },
+  {
+   "img": "s24.webp",
+   "thumb": "t24.webp",
+   "text": "PA R T 3 · P I T FA L L S 値がおかしいときに疑うこと 患者の努力 リーク 回路の交換 plateau が平らでない。Cstat が高すぎ る・低すぎる。鎮静・同調を確認して取 り直す カフ漏れ・気管支胸膜瘻・回路の外れで 圧が下がり続け、plateau が決まらない 回路コンプライアンスは SST から求める。 交換後に SST をしていないと Cstat がず れる PEEPi 流量波形 チューブと痰 式の PEEP は呼気終末の実測圧。PEEPi が あれば Cstat を過小評価する 漸減波・PC では Rstat が出ない。Rstat が 必要なら VC の矩形波で一時的に測る Rstat は気管チューブを含む。細いチュー ブ・痰・屈曲でも上がる PB980 Operator's Manual [1] 6-40〜6-41, 10-41〜10-43; Hess 2014 [3] → 数字を信じる前に、波形・リーク・回路・患者の努力を確かめる。 研修医レクチャー | Suzuki 24",
+   "notes": ""
+  },
+  {
+   "img": "s25.webp",
+   "thumb": "t25.webp",
+   "text": "PA R T 4 離脱の評価にどう使うか 数字は、自発呼吸トライアルの代わりにはならない。 → どの値も単独では予測能が限られる。 研修医レクチャー | Suzuki 25",
+   "notes": ""
+  },
+  {
+   "img": "s26.webp",
+   "thumb": "t26.webp",
+   "text": "PA R T 4 · W E A N I N G 離脱の指標は「組み合わせ」と「SBT」で使う YANG & TOBIN 1991 ・ 離脱の成否の予測 組み合わせて見る f/VT PImax（NIF） AUC 0.89 AUC 0.61 特異度 0.64 特異度 0.11 • 駆動：P0.1（高すぎ・低すぎ） • 筋力：NIF・VC • 負荷：Cstat・Rstat・PEEPi • 呼吸パターン：f/VT 離脱の手順は SBT が中心 • 原因疾患の改善・循環の安定・十分な酸素化を満たしたら、自発呼吸トライアル（SBT）で確かめる • RM の値は「SBT に進めるか」「失敗した理由は何か（駆動・筋力・負荷）」を考える材料にする Yang & Tobin 1991 [15]; Boles 2007 [16]; Laghi & Tobin 2003 [14] → RM の値は SBT に進めるかの判断材料。抜管の可否は SBT の結果で決める。 研修医レクチャー | Suzuki 26",
+   "notes": "Yang & Tobin 1991（NEJM）：f/VT の AUC 0.89、PImax は感度 1.00 だが特異度 0.11、AUC 0.61。NIF や VC が良くても離脱に失敗する例は多い。SBT に失敗したとき、P0.1（駆動）・NIF と VC（筋力）・Cstat と Rstat と PEEPi（負荷）を見ると、どこに問題があるかを整理できる。"
+  },
+  {
+   "img": "s27.webp",
+   "thumb": "t27.webp",
+   "text": "CLOSING Take-home message 受動 吸気・呼気ポーズで Cstat・Rstat・PEEPi。患者が吸っていないことが前提 能動 P0.1・NIF・VC は自発吸気と協力が要る。BiLevel・NIV では使えない PB980 Rstat は VC 矩形波のみ。Cstat の PEEP は実測の呼気終末圧。SPONT で呼気ポーズ不可 読み方 波形を見てから Accept。値は単独でなく、組み合わせと SBT で判断する → 何を知りたいかを決めてから、測れる条件で測る。 研修医レクチャー | Suzuki 27",
+   "notes": ""
+  },
+  {
+   "img": "s28.webp",
+   "thumb": "t28.webp",
+   "text": "REFERENCES References（1/2） [1] Medtronic. Puritan Bennett 980 Ventilator Series Operator's Manual. Part No. PT00101843 Rev A. 2019-04（ソフトウェア 7.6.1.0 以降） [2] Lucangelo U, Bernabè F, Blanch L. Respiratory mechanics derived from signals in the ventilator circuit. Respir Care. 2005;50(1):55-65. PMID 15636645 [3] Hess DR. Respiratory mechanics in mechanically ventilated patients. Respir Care. 2014;59(11):1773-1794. PMID 25336536 [4] Henderson WR, Chen L, Amato MBP, et al. Fifty years of research in ARDS. Respiratory mechanics in acute respiratory distress syndrome. Am J Respir Crit Care Med. 2017;196(7):822-833. PMID 28306327 [5] Amato MB, Meade MO, Slutsky AS, et al. Driving pressure and survival in the acute respiratory distress syndrome. N Engl J Med. 2015;372(8):747-755. PMID 25693014 [6] P",
+   "notes": ""
+  },
+  {
+   "img": "s29.webp",
+   "thumb": "t29.webp",
+   "text": "REFERENCES References（2/2） [11] American Thoracic Society/European Respiratory Society. ATS/ERS Statement on respiratory muscle testing. Am J Respir Crit Care Med. 2002;166(4):518-624. PMID 12186831 [12] Truwit JD, Marini JJ. Validation of a technique to assess maximal inspiratory pressure in poorly cooperative patients. Chest. 1992;102(4):1216-1219. PMID 1395771 [13] Caruso P, Friedrich C, Denari SD, et al. The unidirectional valve is the best method to determine maximal inspiratory pressure during weaning. Chest. 1999;115(4):1096-1101. PMID 10208214 [14] Laghi F, Tobin MJ. Disorders of the respiratory muscles. Am J Respir Crit Care Med. 2003;168(1):10-48. PMID 12826594 [15] Yang KL, Tobin MJ. A prospective study of indexes predicting the outcome of trials of weaning from mechanical venti",
+   "notes": ""
+  }
+ ]
+}

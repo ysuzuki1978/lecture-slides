@@ -9,6 +9,16 @@
       "thumb": "t01.webp",
       "aspect": 1.7778,
       "rev": "c8a7a7746e"
+    },
+    {
+      "id": "pb980-respiratory-mechanics",
+      "title": "Respiratory Mechanics を読む",
+      "subtitle": "Puritan Bennett 980 で何が測れて、いつ測れるのか（呼吸器シリーズ #1）",
+      "date": "2026-09-27",
+      "slides": 29,
+      "thumb": "t01.webp",
+      "aspect": 1.7778,
+      "rev": "6c34bfd9ab"
     }
   ]
 }
