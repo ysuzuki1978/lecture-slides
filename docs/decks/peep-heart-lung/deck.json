@@ -1,0 +1,238 @@
+{
+ "id": "peep-heart-lung",
+ "title": "PEEP は「循環治療」でもある",
+ "subtitle": "Severe MR ＋ Severe TR ＋ 急性肺水腫に対する PEEP と循環管理",
+ "date": "2026-09-27",
+ "rev": "c8a7a7746e",
+ "aspect": 1.7778,
+ "slides": [
+  {
+   "img": "s01.webp",
+   "thumb": "t01.webp",
+   "text": "PEEP は「循環治療」でもある Severe MR ＋ Severe TR ＋ 急性肺水腫に対する PEEP と循環管理 heart–lung interaction を 4 つのグラフで読む Yasuyuki Suzuki, MD, PhD Dept. of Anaesthesiology, Saiseikai Matsuyama Hospital 研修医向けレクチャー",
+   "notes": "導入：PEEP は肺だけの設定ではなく、LV には有利、RV には不利になり得る循環作動的な介入である。最後に『数字（PEEP 15）ではなく反応で判断する』に持っていく。"
+  },
+  {
+   "img": "s02.webp",
+   "thumb": "t02.webp",
+   "text": "CASE PEEP を下げると、酸素化が落ちる Severe MR ＋ Severe TR ・ 急性肺水腫で挿管 ・ 人工呼吸管理中 PEEP 15 酸素化は維持されている PEEP 12 酸素化が低下する PEEP 10 明らかな derecruitment 再現性がある：上げれば戻り、下げれば落ちる 問い PEEP 15 は高すぎるのか？ SpO₂ だけを見て決めてよいか 見るべきは「PEEP 15 で肺・RV・LV・全身灌流が それぞれどう変わったか」 → PEEP 15 が「必要」とは言える。「最適」かどうかは酸素化だけでは決まらない。 研修医レクチャー | Suzuki 2",
+   "notes": "症例提示。PEEP を 15→12→10 と下げると酸素化が再現性をもって悪化する。これで『15 が必要』とは言えるが、『15 が最適』とは言えない。"
+  },
+  {
+   "img": "s03.webp",
+   "thumb": "t03.webp",
+   "text": "ROADMAP 今日使う 4 つのグラフ 1 Frank–Starling 前負荷と SV 2 圧容量（PV）loop 前負荷・後負荷・収縮性 3 Guyton 静脈還流と CO 4 肺容量と PVR PEEP と RV 後負荷 すべて定性的な概念図。数値は形を示すための仮定値で、実測データではない。 → 定義をそろえ、左心 → 静脈還流 → 右心 → 鎮静・鎮痛の順に見ていく。 研修医レクチャー | Suzuki 3",
+   "notes": "グラフはすべて教育用の schematic であることを最初に断る。"
+  },
+  {
+   "img": "s04.webp",
+   "thumb": "t04.webp",
+   "text": "BASICS 前負荷と後負荷 ― まず定義をそろえる 前負荷（preload） 後負荷（afterload） • 収縮直前の心筋の伸展 ≒ 拡張末期容積（EDV） • LVEDP・PCWP・CVP は容積の間接指標にすぎない • 駆出中に心室壁が受ける負荷 ＝ 収縮期の壁応力 • 代用：Ea（実効動脈エラスタンス）、SVR、RV では PVR • 陽圧換気下では測定圧に胸腔内圧が上乗せされる • 壁の内外圧差（transmural pressure）で決まる LAPLACE の法則 壁応力 σ ∝ Ptransmural × r / 2h P_transmural ≈ 心室内圧 − 胸腔内圧（Ppl） r：内腔半径 拡大した LV（MR）は r が大きく、 もともと後負荷が高い h：壁厚 Patterson & Starling 1914 [1]; Suga & Sagawa 1974 [4]; Sunagawa 1983 [5]; Pinsky 2018 [8] → 後負荷は「動脈圧」ではなく壁の内外圧差で決まる。だから胸腔内圧が効く。 研修医レクチャー | Suzuki 4",
+   "notes": "前負荷と後負荷を容積と壁応力で定義し直す。Laplace に transmural pressure が出てくることが、後半の『PEEP = LV 後負荷軽減』の伏線。"
+  },
+  {
+   "img": "s05.webp",
+   "thumb": "t05.webp",
+   "text": "PA R T 1 左心 ― PEEP は LV の後負荷を下げる 収縮力を上げるのではない。越えるべき圧を下げる。 → Frank–Starling と PV loop で確かめる。 研修医レクチャー | Suzuki 5",
+   "notes": ""
+  },
+  {
+   "img": "s06.webp",
+   "thumb": "t06.webp",
+   "text": "PA R T 1 · F R A N K – S TA R L I N G 前負荷を減らしても、心不全の LV は SV を失いにくい 急峻部 ― 前負荷依存 前負荷↓ で SV が大きく落ちる。脱水や、RV が 前負荷に頼っている状態。 平坦部 ― うっ血性心不全 前負荷を減らしても SV はほぼ保たれ、うっ血 （LVEDP）だけが下がる。 Patterson & Starling 1914 [1]; Pinsky 2018 [8]; Mahmood & Pinsky 2018 [9] → 本症例の LV は平坦部にいる。静脈還流の低下は、LV には利益になりやすい。 研修医レクチャー | Suzuki 6",
+   "notes": "同じ静脈還流の低下でも、曲線上の位置で SV の変化が違う。前負荷依存の患者では PEEP で血圧が落ちるが、うっ血性心不全では落ちにくい。RV 側は PART 3 で別に考える。"
+  },
+  {
+   "img": "s07.webp",
+   "thumb": "t07.webp",
+   "text": "PA R T 1 · P R E S S U R E – V O L U M E L O O P PV loop で前負荷・後負荷・収縮性を分けて見る EDV ESPVR（Ees） EDPVR Ea ＝ Pes / SV SV ＝ EDV − ESV 前負荷。loop の右下の角 収縮性 拡張能（コンプライアンス） 後負荷。橙の直線の傾き loop の幅 Suga & Sagawa 1974 [4]; Sunagawa 1983 [5] → 収縮末期点は ESPVR と Ea の交点。後負荷が変わると ESV と SV が動く。 研修医レクチャー | Suzuki 7",
+   "notes": "PV loop の読み方。ESPVR の傾き Ees が収縮性、Ea が後負荷。SV は Ees と Ea のバランス（ventricular–arterial coupling）で決まる。"
+  },
+  {
+   "img": "s08.webp",
+   "thumb": "t08.webp",
+   "text": "PA R T 1 · P V L O O P 前負荷は loop の右端を、後負荷は左上の角を動かす 左：Ea 一定で EDV を変える。右：EDV 一定で Ea を変える。Suga & Sagawa 1974 [4]; Sunagawa 1983 [5]; Buda 1979 [7] → PEEP は右図の緑。ESPVR は変わらない ― 強心ではなく後負荷軽減。 研修医レクチャー | Suzuki 8",
+   "notes": "前負荷の変化は EDV の移動。後負荷の変化は Ea の傾きの変化。PEEP で LV の transmural pressure が下がると、実効 Ea が低下したのと同じ効果になる。"
+  },
+  {
+   "img": "s09.webp",
+   "thumb": "t09.webp",
+   "text": "PA R T 1 · T R A N S M U R A L P R E S S U R E なぜ PEEP で LV の後負荷が下がるのか PLV, transmural ≈ PLV − Ppleural PEEP↑ → Ppl↑ → transmural↓ → LV 後負荷↓ Buda 1979 [7]; Pinsky 2018 [8]; Mahmood & Pinsky 2018 [9] PEEP 15 cmH₂O ≠ Ppl +15 Ppl への伝達は肺と胸壁のコンプライアンス比で決まる。肺が 硬い（肺水腫）と伝達は小さい。図の数値は例示。 1 cmH₂O ≈ 0.74 mmHg → LV を外から押すが、収縮力は増えない。越える圧較差が小さくなるだけ。 研修医レクチャー | Suzuki 9",
+   "notes": "自発呼吸の強い吸気努力（胸腔内圧が大きく陰圧）は LV 後負荷を増やし、陽圧換気は減らす。ただし PEEP 値がそのまま胸腔内圧になるわけではない。食道内圧が測れれば Ppl の推定に使える。"
+  },
+  {
+   "img": "s10.webp",
+   "thumb": "t10.webp",
+   "text": "PA R T 1 · M I T R A L R E G U R G I TAT I O N Severe MR では PEEP が有利に働きやすい LV の出口が 2 つある • LV → 大動脈（前方）と LV → LA（低圧の逆流路） • 実効後負荷↓ → 前方へ流れやすく、逆流しにくい方向 • 静脈還流↓ → LV 容積↓ → 弁輪径↓ → 機能性 MR↓ の方 向 EVIDENCE ― 機能性 MR・小規模 Bellone 2002 n=10。CPAP 30 分で MR 面積 10.0 → 8.0 cm² Kato 2017 n=20。CPAP 8 cmH₂O で MR jet area fraction 0.37 → 0.30。前方 SV は全体では不変 Masip 2005 急性心原性肺水腫の NIV：死亡 RR 0.55（0.40– 0.78） 器質性（一次性）MR への外挿は未確立。Masip 2005 [20]; ESC HF 2021 [21]; Bellone 2002 [22]; Kato 2017 [23] 左図は概念図 → MR は減る方向。前方 SV が増えるかは、まだ仮説として扱う。 研修医レクチャー | Suzuki 10",
+   "notes": "MR では等容収縮期に既に LA へ逆流が始まる。PEEP の後負荷軽減と前負荷軽減はどちらも逆流を減らす方向。ただし臨床データは機能性 MR の小規模研究で、MR は減っても前方 SV が全体では増えなかった研究もある（Kato 2017）。"
+  },
+  {
+   "img": "s11.webp",
+   "thumb": "t11.webp",
+   "text": "PA R T 2 静脈還流 ― Guyton で考える CO は 2 本の曲線の交点で決まる。 → 同じ PEEP でも、心臓の状態で答えが変わる。 研修医レクチャー | Suzuki 11",
+   "notes": ""
+  },
+  {
+   "img": "s12.webp",
+   "thumb": "t12.webp",
+   "text": "PA R T 2 · G U Y T O N 心拍出量は「静脈還流曲線」と「心機能曲線」の交点 静脈還流曲線 VR ＝ (Pms − RAP) / RVR。Pms は血管内容量による「張 り」、RVR は静脈還流抵抗。 心機能曲線 Frank–Starling 曲線を RAP 軸で描いたもの。収縮力 ↑・後負荷↓ で上方へ動く。 Guyton 1955 [2]; Guyton 1957 [3]; Magder 2016 [11] → RAP（CVP）は原因ではなく結果。2 本の曲線の交点として決まる。 研修医レクチャー | Suzuki 12",
+   "notes": "静脈還流は Pms と RAP の差を駆動圧とする。心臓は RAP を下げて還流を引き込むポンプ。CVP 単独で前負荷や輸液反応性を判断できない理由もここから説明できる。"
+  },
+  {
+   "img": "s13.webp",
+   "thumb": "t13.webp",
+   "text": "PA R T 2 · G U Y T O N × P E E P 同じ PEEP でも、CO の反応は心臓の状態で逆になり得る A 前負荷依存：心機能曲線の右方移動がそのまま CO↓ に B うっ血性心不全：曲線が平坦で影響小。LV 後負荷↓ も効く 概念図。Guyton 1955 [2]; Buda 1979 [7]; Pinsky 2018 [8]; Jellinek 2000 [10]; Magder 2016 [11] → 前負荷依存なら CO↓。うっ血性心不全なら CO は保たれやすい。 研修医レクチャー | Suzuki 13",
+   "notes": "PEEP は Ppl を上げ、心機能曲線を右（高 RAP 側）に移す。同時に Pms も上がり、静脈還流抵抗も変化する。前負荷依存の心臓では CO が落ち、うっ血性心不全では落ちにくい。"
+  },
+  {
+   "img": "s14.webp",
+   "thumb": "t14.webp",
+   "text": "PA R T 2 · T H E H O N E S T G A P 「PEEP → RAP↑ → 還流の圧勾配↓」だけでは説明できない Jellinek 2000 ・ 全身麻酔下 10 例 ・ 無呼吸で気道内圧 0 → 15 cmH₂O RAP PMS Pms − RAP（駆動圧） 7.3 → 10.0 10.2 → 12.7 mmHg ― ほぼ同じ幅で上昇 mmHg ― ほぼ同じ幅で上昇 LV 1 回拍出量 不変 −23% 駆動圧は保たれたのに SV は下がった。静脈還流抵抗の変化など、勾配以外の要素が関与していると考えら れる。 SV の変化は ±22%（SD）とばらつきが大きく、無呼吸下の短時間の測定。Jellinek 2000 [10]; Magder 2016 [11] → 「CVP が上がったから還流が減った」と 1 本の矢印で説明しない。 研修医レクチャー | Suzuki 14",
+   "notes": "Jellinek H, et al. J Appl Physiol 2000。Paw 15 cmH2O で Pra 7.3→10.0、Pms 10.2→12.7 mmHg と同程度に上昇し、Pms−Pra は不変。SV は 23±22% 低下。n=10。"
+  },
+  {
+   "img": "s15.webp",
+   "thumb": "t15.webp",
+   "text": "PA R T 3 右心 ― PEEP の害は RV に出る RV は後負荷の小さな上昇に弱い。 → 前負荷の低下と後負荷の上昇、2 つの経路がある。 研修医レクチャー | Suzuki 15",
+   "notes": ""
+  },
+  {
+   "img": "s16.webp",
+   "thumb": "t16.webp",
+   "text": "PA R T 3 · R V V S LV RV は後負荷に弱い • 薄い壁・高いコンプライアンス：低圧・低抵抗の肺循環に適応 した構造 • PVR のわずかな上昇で SV が大きく落ちる（左図は概念図） • 拡大すると中隔を介して LV の充満も妨げる ACUTE COR PULMONALE 22% 中等症〜重症 ARDS の肺保護換気中 752 例中 164 例（95%CI 19–25%） 危険因子：肺炎、driving pressure ≥18 cmH₂O、P/F <150、PaCO₂ ≥48 mmHg 本症例は ARDS ではないが、陽圧換気と RV 後負荷の関係を示すデータ。Jardin 2007 [13]; Mekontso Dessap 2016 [14]; Vieillard-Baron 2018 [15]; Harjola 2016 [16] → 陽圧換気中の RV 不全は珍しくない。driving pressure と CO₂ が危険因子になる。 研修医レクチャー | Suzuki 16",
+   "notes": "Mekontso Dessap 2016（Intensive Care Med）: 752 例の中等症〜重症 ARDS で ACP 22%。危険因子に driving pressure と高 CO2 が入っており、換気設定と RV 保護が直結していることを示す。"
+  },
+  {
+   "img": "s17.webp",
+   "thumb": "t17.webp",
+   "text": "PA R T 3 · T W O B U R D E N S PEEP が RV に与える 2 つの負荷 ① 前負荷の低下 PEEP↑ Ppl↑ RAP↑ （Pms も↑） 静脈還流↓ RV 前負荷↓ SV↓ 肺胞過膨張 肺胞血管の 圧排 PVR↑ RV 後負荷↑ RV 拡大 ② 後負荷の上昇 PEEP 過剰 A 測定値が上がるだけ B 本当の後負荷の上昇 Ppl が RA・PA・PCWP の測定値に上乗せされる（pressure transmission）。 過膨張による PVR↑ が RV の後負荷を実際に上げる。 Whittenberger 1960 [6]; Pinsky 2018 [8]; Mahmood & Pinsky 2018 [9]; Vieillard-Baron 2016 [12]; Jardin 2007 [13] → PA 圧の上昇 ＝ RV 後負荷の上昇、とは限らない。PVR と RV サイズで判断する。 研修医レクチャー | Suzuki 17",
+   "notes": "RV への害は 2 系統。PA 圧の上昇には、単なる胸腔内圧の伝達と、PVR 上昇による真の後負荷増加が混ざっている。区別には RV サイズ、RV/LV 比、中隔の平坦化などエコーが有用。"
+  },
+  {
+   "img": "s18.webp",
+   "thumb": "t18.webp",
+   "text": "PA R T 3 · L U N G V O L U M E A N D P V R PVR は肺容量に対して U 字を描く 小さすぎる ― 虚脱 無気肺・低酸素性肺血管収縮（HPV）・肺胞外血管の狭 小化で PVR↑ 大きすぎる ― 過膨張 肺胞壁の毛細血管が引き伸ばされ圧排されて PVR↑ FRC 付近で最小 肺水腫で虚脱した肺では、適正な PEEP が HPV を解除し て PVR を下げ得る 概念図。Whittenberger 1960 [6]; Pinsky 2018 [8]; Jardin 2007 [13] → 問題は PEEP そのものではなく「上げすぎ」。虚脱肺を開く PEEP は PVR を下げ得る。 研修医レクチャー | Suzuki 18",
+   "notes": "Whittenberger 1960 以来の古典的な関係。過膨張の目安として plateau 圧・driving pressure を合わせて見る。"
+  },
+  {
+   "img": "s19.webp",
+   "thumb": "t19.webp",
+   "text": "PA R T 3 · T R I C U S P I D R E G U R G I TAT I O N Severe TR では RV の悪循環に入りやすい RV 拡大 RV 冠灌流↓ RV 虚血 弁輪拡大 TR↑ きっかけ RV 後負荷↑ RV 前方 SV↓ CO↓・MAP↓ 中隔偏位 LV 充満↓ SEVERE TR ではエコー指標の読み方に注意 • 逆流路による unloading で TAPSE・S′ は RV 収縮能を過大評価し得る • CVP・IVC は TR だけで上がる → 輸液反応性の指標にならない • RV サイズ、RV/LV 比、中隔の形、LVOT-VTI の変化で追う TAPSE の過大評価は Schneider 2021 の背景記述（直接比較した研究ではない）。Vieillard-Baron 2018 [15]; Harjola 2016 [16]; Konstam 2018 [18]; Schneider 2021 [19] → 「肺は良くなったのに血圧が落ちた」はこの悪循環で説明できる。 研修医レクチャー | Suzuki 19",
+   "notes": "Severe TR では RV が逆流路で unload されるので、TAPSE が保たれていても RV 収縮能が保たれているとは限らない。"
+  },
+  {
+   "img": "s20.webp",
+   "thumb": "t20.webp",
+   "text": "PA R T 4 鎮静・鎮痛 ― 吸気努力も循環を動かす PEEP で下げた LV 後負荷を、強い吸気努力が打ち消す。 → 鎮静・鎮痛は人工呼吸の付属ではなく、heart–lung interaction の一部。 研修医レクチャー | Suzuki 20",
+   "notes": ""
+  },
+  {
+   "img": "s21.webp",
+   "thumb": "t21.webp",
+   "text": "PA R T 4 · I N S P I R AT O R Y E F F O R T 強い吸気努力は、PEEP と逆向きに心臓へ働く LV TRANSMURAL PRESSURE ― 例示（LV 収縮期圧 120 mmHg ） PEEP 下の陽圧換気 Ppl +6 mmHg 安静な自発吸気 Ppl −5 mmHg LV 後負荷↑ Ppl が大きく陰圧 → transmural↑ → LA 圧↑・MR↑ 114 肺水腫↑ 肺血管の内外圧差↑ → 血管外への濾過 ↑（陰圧性肺水腫と同じ向き） 肺傷害↑ 局所の経肺圧↑・pendelluft → P-SILI 125 強い吸気努力 Ppl −15 mmHg 120 − Ppl（mmHg）。横棒の起点は 100 mmHg。数値は機序を示す例示 135 交感神経↑ 心拍数↑・SVR↑（MR↑）・PVR↑・酸 素消費↑ Yoshida 2013：肺傷害ブタで背側の局所 Ppl −13.0 vs 腹側 −6.4 cmH₂O。Buda 1979 [7]; Yoshida 2013 [31]; Brochard 2017 [32]; Bhattacharya 2016 [33] → 疼痛・不穏・不同調で吸気努力が強いと、PEEP の LV 後負荷軽減は打ち消される。 研修医レクチャー | Suzuki 21",
+   "notes": "自発吸気で胸腔内圧が大きく陰圧になると、LV から見た後負荷は上がる（Buda 1979 の Müller 手技）。PEEP の効果と逆向き。肺血管の内外圧差も上がり、肺水腫を悪化させる方向（極端な形が陰圧性肺水腫）。傷害肺では横隔膜の強い収縮が背側に局所的な陰圧を作り、pendelluft と局所過伸展を起こす（Yoshida 2013）。数値の横棒は機序を示す例示で、実測値ではない。"
+  },
+  {
+   "img": "s22.webp",
+   "thumb": "t22.webp",
+   "text": "PA R T 4 · W E A N I N G - I N D U C E D P U L M O N A R Y E D E M A PEEP を下げて悪化するのは、陽圧を外した LV 不全かもしれない Lemaire 1988 ・ COPD ＋ 心疾患 15 例 ・ 人工呼吸から 10 分間の自発呼吸へ +5 → −2 8 → 25 65 → 83 食道内圧（mmHg） transmural PAOP（mmHg） LVEDVI（mL/m²） 胸腔内圧が陰圧側へ 左房圧が急上昇 LV 前負荷↑・EF は不変 本症例への読み替え 見分け方と対応 PEEP 15 → 10 で酸素化が落ちるのは、derecruitment だけでなく、 LV 後負荷↑・静脈還流↑ → LA 圧↑ → 肺水腫の再燃かもしれ ない。 エコーの LV 充満圧指標・BNP・肺エコーで確認。利尿で循環 血液量を減らした後、15 例中 9 例が離脱できた。 心係数 3.2 → 4.3、心拍数 97 → 112 も同時に上昇。Lemaire 1988 [29]; Dres 2014 [30] → PEEP を下げる前に、うっ血と後負荷を減らしておく。 研修医レクチャー | Suzuki 22",
+   "notes": "Lemaire F, Teboul JL, et al. Anesthesiology 1988。陽圧を外すと胸腔内圧が陰圧に振れ、LV 後負荷と静脈還流が同時に増え、隠れていた LV 不全が表に出る（weaning-induced pulmonary edema）。本症例の『PEEP を下げると酸素化が落ちる』の一部はこの機序で説明できる可能性がある。対策は除水・後負荷軽減を先に進めてから PEEP を下げること。"
+  },
+  {
+   "img": "s23.webp",
+   "thumb": "t23.webp",
+   "text": "PA R T 4 · S E D AT I O N A N D A N A L G E S I A 鎮静・鎮痛は、足りなくても効かせすぎても循環を崩す 不足 ― 疼痛・不穏・不同調 過量・急速投与 • 吸気努力↑ → LV 後負荷↑・肺水腫↑（前スライド） • 交感神経↑ → 心拍数↑・SVR↑（MR↑）・PVR↑ • 静脈の緊張が緩む → Pms（stressed volume）↓ → 静脈還 流↓ • SVR↓ → MAP↓ → RV の冠灌流↓ • 咳嗽・バッキング → PEEP が抜けて derecruitment • 酸素消費↑ → 低心拍出との不均衡が拡大 • 前負荷依存・RV 不全では CO↓・血圧低下に直結し得る • ボーラスで起きやすい DE WIT 2016 ・ propofol ・ 術後 17 例 血中濃度を上げると MAP・CVP・MSFP・静脈還流抵抗が低下し、CO は不変だった。比較的健常な心臓での結果で、RV 不全や前負荷 依存の患者に同じことが起きるとは限らない。 de Wit 2016 [34]; Devlin 2018（PADIS）[35] → 目標は「呼吸努力と交感神経緊張を抑え、血管は緩めすぎない」。 研修医レクチャー | Suzuki 23",
+   "notes": "鎮静薬は Guyton の静脈還流曲線で言えば Pms を下げ（曲線が左へ）、同時に静脈還流抵抗も下げる。de Wit 2016 では両者が打ち消し合って CO は保たれたが、平坦でない心機能曲線（RV 不全・前負荷依存）では CO と血圧が落ち得る。"
+  },
+  {
+   "img": "s24.webp",
+   "thumb": "t24.webp",
+   "text": "PA R T 4 · P R A C T I C E 本症例での鎮静・鎮痛の進め方 鎮痛を先に（analgesia-first） 疼痛が吸気努力と交感神経緊張の主因になりやすい。評価ス ケールで疼痛を先に評価する ボーラスを避け、少量ずつ滴定 静脈拡張による Pms↓・MAP↓ を避ける。norepinephrine を 準備してから深める 3 刺激の前に鎮痛 吸引・体位変換・処置の前に鎮痛。閉鎖式吸引で回路開放に よる PEEP の喪失を避ける 4 不同調はまず換気設定で トリガー・流量・吸気時間を合わせる。なお強い吸気努力が 続けば筋弛緩も選択肢 5 安定したら浅い鎮静へ 急性期は一時的に深めが必要なことがある。改善に合わせて 浅くする（PADIS） 1 2 ROSE 2019 42.5% vs 42.8% 中等症〜重症 ARDS 1006 例。早期の持続 筋弛緩＋深鎮静 vs 浅 い鎮静。90 日死亡に 差なし 筋弛緩は routine ではなく、個別の適応で。Devlin 2018 [35]; Moss 2019 [36] → 鎮痛を先に、少量ずつ。昇圧薬を準備してから深くする。 研修医レクチャー | Suzuki 24",
+   "notes": "PADIS 2018 は analgesia-first と浅い鎮静を推奨。ただし急性期に強い吸気努力で LV 後負荷と肺傷害が悪化している場面では、一時的に深めの鎮静や筋弛緩が必要になることがある。ROSE 2019（NEJM）では早期の routine な筋弛緩で 90 日死亡は減らなかった（42.5% vs 42.8%）。"
+  },
+  {
+   "img": "s25.webp",
+   "thumb": "t25.webp",
+   "text": "PA R T 5 ベッドサイドで判断する 「PEEP 15 は高いか」ではなく「PEEP 15 で何が起きたか」。 → 利益と害を、同じ時点で並べて見る。 研修医レクチャー | Suzuki 25",
+   "notes": ""
+  },
+  {
+   "img": "s26.webp",
+   "thumb": "t26.webp",
+   "text": "PA R T 5 · B A L A N C E PEEP 15 は「利益 ＞ 害」の点だった可能性がある 利益 害 • recruitment↑ • shunt↓・酸素化↑ • 静脈還流↓ • RV 前負荷↓ • HPV 解除 • LV 後負荷↓ • 過膨張 • PVR↑ • MR↓ の方向 • 肺うっ血↓ • RV 後負荷↑ • TR↑・中隔偏位 右図の横軸の値は本症例の仮説であって、一般的な至適値で はない。 概念図。Pinsky 2018 [8]; Mahmood & Pinsky 2018 [9]; Vieillard-Baron 2016 [12] → 最適点は患者ごと・時間ごとに動く。肺水腫の改善とともに毎日見直す。 研修医レクチャー | Suzuki 26",
+   "notes": "利益と害のバランス。肺水腫の改善とともに最適点は低い方へ動くはずなので、毎日見直す。"
+  },
+  {
+   "img": "s27.webp",
+   "thumb": "t27.webp",
+   "text": "PA R T 5 · T I T R AT I O N PEEP を動かすとき、SpO₂ 以外に何を見るか 肺 循環 SpO₂・PaO₂、コンプライアンス、driving pressure、plateau 圧 ベッドサイドで 1 つ選ぶなら MAP、脈圧、尿量、乳酸、末梢の冷感・CRT PEEP 変更前後の LV LVOT-VTI、LV サイズ、MR の程度 RV RV サイズ、RV/LV 比、中隔の平坦化、TAPSE・S′（TR 下では過大 評価に注意） LVOT-VTI 静脈系 呼吸努力 RAP/CVP、IVC（陽圧下・TR 下では解釈が難しい） SV の代用。同じ断面・同じ呼吸相で比べる。 2〜3 cmH₂O ずつ動かし、数分待って評価す る。 疼痛・鎮静スケール、不同調、P0.1、食道内圧（測れれば） Vieillard-Baron 2016 [12]; Vieillard-Baron 2018 [15]; Harjola 2016 [16] → 酸素化↑・VTI 維持・RV 拡大なし・MAP 維持がそろえば、その PEEP は合理的。 研修医レクチャー | Suzuki 27",
+   "notes": "VTI は呼吸性変動があるので測定条件を揃える。"
+  },
+  {
+   "img": "s28.webp",
+   "thumb": "t28.webp",
+   "text": "PA R T 5 · T W O PAT T E R N S PEEP 15 で何が起きたか ― 2 つのパターン パターン A パターン B SpO₂ ↑ SpO₂ ↑ コンプライアンス ↑ LVOT-VTI ↓↓ LVOT-VTI → MAP ↓ MAP → CVP ↑ 乳酸 → RV 拡大 RV サイズ → 中隔 LV 側へ偏位 PEEP 15 を維持する合理性がある → 同じ SpO₂ の改善でも、循環の組み合わせで解釈は逆になる。 研修医レクチャー | Suzuki 肺は良くなったが、RV を追い込んでいる 28",
+   "notes": "パターン B では次のスライド以降の手順で原因を探す。"
+  },
+  {
+   "img": "s29.webp",
+   "thumb": "t29.webp",
+   "text": "PA R T 5 · R V M A N A G E M E N T RV が張ってきたら、薬を足す前に原因を直す 1 前負荷 • 輸液は慎重に（RV 拡大時は悪化させ得る） • うっ血が主なら除水も選択肢 • CVP・IVC だけで判断しない 3 収縮性 • 低心拍出・低灌流があれば強心薬 • dobutamine / milrinone • 必要最小量・必要最短期間 2 後負荷 • 不要な PEEP・過膨張を避ける • 低酸素・高 CO₂・アシドーシスを補正 • 疼痛・不穏を抑える（交感神経↑で PVR↑） 4 灌流圧 • MAP を保ち RV の冠灌流を守る • norepinephrine が第一選択の 1 つ • MR では SVR↑ による逆流増加に注意 Vieillard-Baron 2018 [15]; Harjola 2016 [16]; Ventetuolo 2014 [17]; Konstam 2018 [18] → 低酸素・高 CO₂・アシドーシスは、換気で直せる PVR 上昇。 研修医レクチャー | Suzuki 29",
+   "notes": ""
+  },
+  {
+   "img": "s30.webp",
+   "thumb": "t30.webp",
+   "text": "PA R T 5 · P E R F U S I O N P R E S S U R E RV を守るには、まず体血圧（冠灌流）を保つ 体血圧↓ RV 冠灌流↓ RV 虚血 RV 収縮↓ CO↓ 悪循環 なぜ RV は低血圧に弱いか norepinephrine の位置づけ • RV 冠灌流圧 ≈ 大動脈圧 − RV 内圧 • RV 圧が高いと、正常では収縮期にも流れる RV の冠血流が 減る • 拡大・高圧の RV は酸素需要も増えている • 急性 RV 不全の昇圧で第一選択の 1 つ • 通常量では PVR への影響は比較的小さいとされる • SVR↑ は MR の逆流を増やし得る Harjola 2016 [16]; Ventetuolo 2014 [17]; Konstam 2018 [18]; Overgaard 2008 [27] → ただし本症例は Severe MR。昇圧の目標 MAP を決め、最小量で使う。 研修医レクチャー | Suzuki 30",
+   "notes": ""
+  },
+  {
+   "img": "s31.webp",
+   "thumb": "t31.webp",
+   "text": "PA R T 5 · D R U G S 循環作動薬を RV・体血圧・MR の 3 方向から比べる 薬剤 主な作用 RV / PVR 体血圧（SVR） 本症例（MR・LV 不全）での注意 iNO 換気のある肺の血管を選択的に拡 張 PVR↓ ほぼ不変 LV 不全で PCWP↑ の報告 → 肺水腫悪 化に注意 吸入 prostacyclin 吸入で選択的に肺血管拡張 PVR↓ 影響小 ARDS で予後改善は未確立。投与体制 を確認 milrinone PDE3 阻害（inodilator） 収縮↑・PVR↓ SVR↓・低血圧 後負荷↓は MR に有利。低血圧なら NE 併用 dobutamine β1 中心（β2 で軽い血管拡張） 収縮↑ やや↓〜不変 頻脈・不整脈・心筋酸素需要↑ norepinephrine α1 ＞ β1 冠灌流↑（高用量で PVR↑） SVR↑・MAP↑ SVR↑で MR の逆流↑の可能性。最小 量で 用量・適応・併用は施設のプロトコルと最新の添付文書に従う。Harjola 2016 [16]; Ventetuolo 2014 [17]; Loh 1994 [24]; Fuller 2015 [25]; Gebistorf 2016 [26]; Overgaard 2008 [27] → RV に有利な薬が、MR＋肺水腫の LV 側には不利に働くことがある。 研修医レクチャー | Suzuki 31",
+   "notes": "表の最右列が本症例特有のポイント。iNO は Loh 1994 で LV 不全患者の PCWP が 23% 上昇した。"
+  },
+  {
+   "img": "s32.webp",
+   "thumb": "t32.webp",
+   "text": "PA R T 5 · P I T FA L L S この症例ならではの落とし穴 肺血管拡張薬で左房圧が上がる 昇圧で MR が増える LV 不全 19 例に iNO 80 ppm：PVR −31% だが PCWP +23%、心係 数 −4%。RV 後負荷を下げた分が LA 圧↑ として返ってくる可 能性。 RV の冠灌流を守る norepinephrine は SVR も上げる。MR では 逆流が増え、LA 圧↑・肺水腫↑ につながり得る。 Loh 1994 [24] Overgaard 2008 [27] TR が RV 機能を隠す PEEP の効き方は肺の硬さで変わる 逆流路による unloading で TAPSE・S′ は RV 収縮能を過大評価し 得る。CVP・IVC も TR だけで上がる。 胸腔内圧に伝わる割合は肺・胸壁のコンプライアンス比で決 まる。「PEEP＝LV 後負荷軽減」の大きさは患者ごとに違う。 Schneider 2021 [19] Pinsky 2018 [8] → RV 管理の一般論を、MR＋肺水腫の患者にそのまま当てはめない。 研修医レクチャー | Suzuki 32",
+   "notes": "元の議論（RV 保護の一般論）を本症例に当てはめるときの注意点。iNO と norepinephrine は RV には有利でも、MR＋肺水腫の LV 側には不利に働き得る。"
+  },
+  {
+   "img": "s33.webp",
+   "thumb": "t33.webp",
+   "text": "PA R T 5 · E V I D E N C E 「dobutamine は予後を悪くするから使わない」は正しいか DOREMI ・ NEJM 2021 ・ 心原性ショック ・ milrinone vs dobutamine ・ 二重盲検 RCT 192 49% vs 54% 37% vs 43% 例（各群 96 例） 主要複合アウトカム 院内死亡 RR 0.90（95%CI 0.69–1.19） RR 0.85（95%CI 0.60–1.21） milrinone vs dobutamine の順 読み方 ICU での使い方 有意差なし ≠ 同等。検出力は限られる。 明確な低心拍出・低灌流に、必要最小量を必要最短期間。 → 予後改善薬でないことと、急性期に使ってはいけないことは別の話。 研修医レクチャー | Suzuki 33",
+   "notes": "Mathew R, et al. NEJM 2021;385:516-525。慢性心不全での長期強心薬投与の問題とは分けて考える。Refs [27] [28]"
+  },
+  {
+   "img": "s34.webp",
+   "thumb": "t34.webp",
+   "text": "PA R T 5 · A L G O R I T H M PEEP を上げて MAP・VTI が落ちたときの考え方 1 PEEP が過剰？ plateau 圧・driving pressure、RV 拡大と中隔偏位 → 過膨張なら PEEP を戻す 2 低酸素・高 CO₂・疼痛・不穏？ 換気の補正と鎮痛・鎮静で PVR と吸気努力を下げる（鎮静薬の血 圧低下に注意） 3 体血圧（RV 冠灌流）が不足？ norepinephrine で MAP を確保。MR の増悪を VTI・エコーで確認 4 RV 収縮が足りない？ dobutamine / milrinone（低血圧なら NE 併用） 5 それでも RV 後負荷が高い？ 吸入肺血管拡張薬を検討。LA 圧↑・肺水腫悪化に注意して反応を 確認 前提：前負荷依存（hypovolemia）でないかも同時に確認する。 → 原因の是正（1, 2）が薬（3–5）より先。各段階で VTI・MAP・RV を再評価する。 研修医レクチャー | Suzuki 34",
+   "notes": "5 の吸入肺血管拡張薬は本症例では LA 圧上昇のリスクがあるので最後に、反応を見ながら。"
+  },
+  {
+   "img": "s35.webp",
+   "thumb": "t35.webp",
+   "text": "CLOSING Take-home message 肺 recruitment↑・HPV 解除。上げすぎると過膨張で PVR↑ LV transmural pressure↓ ＝ 後負荷軽減。強心作用ではない。MR・うっ血には有利 RV 静脈還流↓・過膨張で後負荷↑。Severe TR では悪循環に入りやすい 鎮静 吸気努力と交感神経緊張を抑える。過量・急速投与は Pms↓・SVR↓ で RV を崩す 「PEEP 15 は高いか」ではなく → 「PEEP 15 で肺・RV・LV・全身灌流がどう変わったか」で決める。 研修医レクチャー | Suzuki 35",
+   "notes": "本症例の最も素直な説明は『高めの PEEP による recruitment と LV 後負荷軽減の利益が、RV への害を上回っていた可能性』。ただし仮説であり、日々の再評価で確かめる。"
+  },
+  {
+   "img": "s36.webp",
+   "thumb": "t36.webp",
+   "text": "REFERENCES References（1/3） [1] Patterson SW, Starling EH. On the mechanical factors which determine the output of the ventricles. J Physiol. 1914;48(5):357-379. PMID 16993262 [2] Guyton AC. Determination of cardiac output by equating venous return curves with cardiac response curves. Physiol Rev. 1955;35(1):123-129. PMID 14356924 [3] Guyton AC, Lindsey AW, Abernathy B, et al. Venous return at various right atrial pressures and the normal venous return curve. Am J Physiol. 1957;189(3):609-615. PMID 13458395 [4] Suga H, Sagawa K. Instantaneous pressure-volume relationships and their ratio in the excised, supported canine left ventricle. Circ Res. 1974;35(1):117-126. PMID 4841253 [5] Sunagawa K, Maughan WL, Burkhoff D, et al. Left ventricular interaction with arterial load studied in isolated",
+   "notes": "全文献は PubMed で書誌・PMID を確認済み（2026-09-26／27）。"
+  },
+  {
+   "img": "s37.webp",
+   "thumb": "t37.webp",
+   "text": "REFERENCES References（2/3） [13] Jardin F, Vieillard-Baron A. Is there a safe plateau pressure in ARDS? The right heart only knows. Intensive Care Med. 2007;33(3):444-447. PMID 17268795 [14] Mekontso Dessap A, Boissier F, Charron C, et al. Acute cor pulmonale during protective ventilation for acute respiratory distress syndrome: prevalence, predictors, and clinical impact. Intensive Care Med. 2016;42(5):862-870. PMID 26650055 [15] Vieillard-Baron A, Naeije R, Haddad F, et al. Diagnostic workup, etiologies and management of acute right ventricle failure: a state-of-the-art paper. Intensive Care Med. 2018;44(6):774-790. PMID 29744563 [16] Harjola VP, Mebazaa A, Čelutkienė J, et al. Contemporary management of acute right ventricular failure: a statement from the Heart Failure Association and t",
+   "notes": "全文献は PubMed で書誌・PMID を確認済み（2026-09-26／27）。"
+  },
+  {
+   "img": "s38.webp",
+   "thumb": "t38.webp",
+   "text": "REFERENCES References（3/3） [25] Fuller BM, Mohr NM, Skrupky L, et al. The use of inhaled prostaglandins in patients with ARDS: a systematic review and meta-analysis. Chest. 2015;147(6):1510-1522. PMID 25742022 [26] Gebistorf F, Karam O, Wetterslev J, et al. Inhaled nitric oxide for acute respiratory distress syndrome (ARDS) in children and adults. Cochrane Database Syst Rev. 2016;(6):CD002787. PMID 27347773 [27] Overgaard CB, Dzavík V. Inotropes and vasopressors: review of physiology and clinical use in cardiovascular disease. Circulation. 2008;118(10):1047-1056. PMID 18765387 [28] Mathew R, Di Santo P, Jung RG, et al. Milrinone as compared with dobutamine in the treatment of cardiogenic shock. N Engl J Med. 2021;385(6):516-525. PMID 34347952 [29] Lemaire F, Teboul JL, Cinotti L, et al. Ac",
+   "notes": "全文献は PubMed で書誌・PMID を確認済み（2026-09-26／27）。"
+  }
+ ]
+}
