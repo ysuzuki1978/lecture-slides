@@ -1,0 +1,166 @@
+{
+ "id": "as-ar-mr-gradient",
+ "title": "PG にだまされない",
+ "subtitle": "重症 AR・中等度 MR を合併した AS の重症度をどう読むか",
+ "date": "2026-09-30",
+ "rev": "a740370409",
+ "aspect": 1.7778,
+ "slides": [
+  {
+   "img": "s01.webp",
+   "thumb": "t01.webp",
+   "text": "研修医向けレクチャー PG にだまされない 重症 AR・中等度 MR を合併した AS の重症度をどう読むか 症例カンファレンス Yasuyuki Suzuki, MD, PhD Dept. of Anaesthesiology, Saiseikai Matsuyama Hospital",
+   "notes": ""
+  },
+  {
+   "img": "s02.webp",
+   "thumb": "t02.webp",
+   "text": "CASE AS は中等度か、重症か 大動脈弁 平均圧較差 重症 AR ＋ AS 30 mmHg 食い違い AVA は重症の範囲、 平均 PG は中等度の範囲 discordant（AVA と PG が食い違う）AS AVA（連続の式） LVEF 僧帽弁 0.97 cm² 60% 中等度 MR 今日の問い • 重症 AR と中等度 MR は、PG をどちらに動かすか • どの指標なら流量にだまされないか • この症例で、明日何を測るか → 「PG 30 だから中等度」も「AVA 0.97 だから重症」も、まだ早い。 研修医レクチャー | Suzuki 2",
+   "notes": "明日の症例。重症 AR と AS の合併、平均 PG 30 mmHg、AVA 0.97 cm²、LVEF 60%、中等度 MR。AVA だけ見れば重症、PG だけ見れば中等度という食い違い（discordant）がある。"
+  },
+  {
+   "img": "s03.webp",
+   "thumb": "t03.webp",
+   "text": "KEY MESSAGES 先に結論 ― 3 つ 1 PG は流量で変わる 同じ弁口面積でも、弁を通る血流が増えれば PG は上がり、減れ ば下がる。PG 単独で重症度は決められない。 2 AR は上げ、MR は下げる AR は弁を往復する血流を増やして PG を上げる。MR は前方へ出 る血流を減らして PG を下げる。両方あると打ち消し合う。 3 流量に強い指標で確かめる DVI、CT の石灰化スコアで AS 自体の重症度を確かめる。そのうえ で、弁全体の負荷（AS＋AR）を症状と左室への影響で判断する。 → PG は「狭さ」ではなく「狭さ × 流量」を見ている。 研修医レクチャー | Suzuki 3",
+   "notes": ""
+  },
+  {
+   "img": "s04.webp",
+   "thumb": "t04.webp",
+   "text": "PA R T 1 PG は「狭さ × 流量」 弁口面積が同じでも、流量で PG は何倍にも変わる。 → 重症度の基準どうしも、もともと食い違いやすい。 研修医レクチャー | Suzuki 4",
+   "notes": ""
+  },
+  {
+   "img": "s05.webp",
+   "thumb": "t05.webp",
+   "text": "PA R T 1 · C R I T E R I A 重症 AS の基準と、それぞれが流量の影響を受けるか 指標 重症の基準 流量の影響 主な誤差の原因 Vmax ≥ 4.0 m/s 強く受ける ドプラの角度（過小評価） 平均圧較差 ≥ 40 mmHg 強く受ける（流量の 2 乗に比例） 同上 AVA（連続の式） < 1.0 cm² 理論上は受けにくい LVOT 径の測定（2 乗で効く） AVA index < 0.6 cm²/m² 同上 体格補正の限界 DVI（velocity ratio） < 0.25 受けにくい LVOT の大きさ CT 石灰化スコア 男女別の閾値（PART 3） 受けない 石灰化の少ない AS 重症の基準は ASE/EACVI 2017 の Table 3。Baumgartner 2017 [1]; ESC/EACTS 2021 [2] → Vmax と平均 PG は流量に強く依存する。DVI と石灰化スコアは依存しにくい。 研修医レクチャー | Suzuki 5",
+   "notes": ""
+  },
+  {
+   "img": "s06.webp",
+   "thumb": "t06.webp",
+   "text": "PA R T 1 · F L O W A N D G R A D I E N T 同じ AVA 0.97 でも、流量で PG は大きく動く GORLIN の式（変形） 平均 PG ≈ (Q ／ 44.3・AVA)² Q：駆出期の平均流量（mL/s）＝ 弁を通る SV ／ 駆出時間 読み方 • PG は流量の 2 乗に比例して増える • 流量が 1.4 倍なら PG は約 2 倍 • 図の数値は駆出時間 0.30 秒を仮定した概算。実際 の値は心エコーの実測で確かめる Gorlin 1951 [3]; Baumgartner 2017 [1] → PG 30 を見たら、まず「弁を通る流量はいくらか」を考える。 研修医レクチャー | Suzuki 6",
+   "notes": "Gorlin の式は本来カテーテルで使う式だが、流量と圧較差の関係（圧較差は流量の 2 乗に比例）を直感的に示すのに使う。数値は仮定に依存するので概算として扱う。"
+  },
+  {
+   "img": "s07.webp",
+   "thumb": "t07.webp",
+   "text": "PA R T 1 · I N C O N S I S T E N C Y 重症度の基準は、もともと食い違いやすい MINNERS 2008 ・ 左室収縮能が正常な 2427 例・3483 検査 21 mmHg 0.75 cm² 69% vs 40% AVA 1.0 cm² に対応する平均 PG 平均 PG 40 mmHg に対応する AVA 重症と判定された割合（AVA 基準 vs 平均 PG 基準） ガイドラインも認めている この症例に当てはめると • AVA 0.8〜1.0 cm² の範囲では、AVA と Vmax・PG の基準値が 食い違いやすい（ASE/EACVI 2017） • AVA 0.97 はこの「食い違いやすい帯」の中 • 食い違いだけでは、重症とも中等度とも言えない Minners 2008 [4]; Baumgartner 2017 [1] → AVA 0.8〜1.0 と PG 30 前後の組み合わせは、正常の流量でも普通に起こる。 研修医レクチャー | Suzuki 7",
+   "notes": "Minners 2008（EHJ）：正常 EF の患者で、AVA 1.0 cm² は平均 PG 21 mmHg・Vmax 3.3 m/s に相当した。逆に平均 PG 40 mmHg は AVA 0.75 cm² に相当。基準そのものが整合していない。"
+  },
+  {
+   "img": "s08.webp",
+   "thumb": "t08.webp",
+   "text": "PA R T 1 · M E A S U R E M E N T 連続波ドプラで PG を測るときの落とし穴 確かめること • ビームと血流の角度がずれると速度は低く出る → PG の過小評価 • 拡張期の AR ジェットを AS の計測に含めない • MR ジェットを AS ジェットと取り違えない（ど ちらも収縮期で LV から離れる向き） 上図は概念図 Unger 2016 [5]（Table 1）; Baumgartner 2017 [1] → PG の値そのものも、測り方しだいで過小評価される。 研修医レクチャー | Suzuki 8",
+   "notes": ""
+  },
+  {
+   "img": "s09.webp",
+   "thumb": "t09.webp",
+   "text": "PA R T 2 AR と MR は、流量を逆向きに動かす AR は弁を通る量を増やし、MR は前へ出る量を減らす。 → LVOT-VTI で測る SV は、どちらの影響も受ける。 研修医レクチャー | Suzuki 9",
+   "notes": ""
+  },
+  {
+   "img": "s10.webp",
+   "thumb": "t10.webp",
+   "text": "PA R T 2 · V O L U M E S 左室から出た血液の行き先を分けて考える EF 60% は「左室から出た量」の割合。MR で左房へ戻る分も含むので、前方への拍出が保たれているとは限らない。 容量の数値は説明のための例。平均 PG は Gorlin の式による概算。Gorlin 1951 [3] → LVOT-VTI で測る SV ＝ 前方 SV ＋ AR の逆流量。前方への拍出そのものではない。 研修医レクチャー | Suzuki 10",
+   "notes": ""
+  },
+  {
+   "img": "s11.webp",
+   "thumb": "t11.webp",
+   "text": "PA R T 2 · A O R T I C R E G U R G I TAT I O N AR：PG は AVA のわりに高く出る “When severe AR accompanies AS, measures of AS severity remain accurate including maximum velocity, mean gradient, and valve area. However, because of the high transaortic volume flow rate, maximum velocity, and mean gradient will be higher than expected for a given valve area.” 重症 AR があっても測定は正確。ただし流量が多いので、Vmax と平均 PG は AVA のわりに高く出る ASE/EACVI 2017（Baumgartner）[1] 連続の式は使える 中等度でも侮れない • LVOT と弁の両方に同じ（逆流を含む）血流が通る • AR 合併でも連続の式の AVA は適用できる（Unger 2016, Table 1） • 「中等度 AS＋中等度 AR は重症の複合弁膜症に相当」（ASE/EACVI 2017） • 有意な AR は AS の PG を上げる（ASE 2017 逆流評価 Table 17） Baumgartner 2017 [1]; Unger 2016 [5]; Zoghbi 2017 [6] → 重症 AR があるのに PG が低いなら、それ自体が違和感のサイン。 研修医レクチャー | Suzuki 11",
+   "notes": ""
+  },
+  {
+   "img": "s12.webp",
+   "thumb": "t12.webp",
+   "text": "PA R T 2 · M I T R A L R E G U R G I TAT I O N MR：前へ出る量が減り、PG は低く出る “associated mitral regurgitation may lead to underestimation of the severity of aortic stenosis, as decreased stroke volume due to mitral regurgitation lowers the flow across the aortic valve and hence the aortic gradient.” MR は大動脈弁を通る流量を減らし、AS の重症度を過小評価させうる ESC/EACTS 2021 [2] ESC が挙げる low-flow の原因 DAHAN 2025 ・ paradoxical LFLG AS • 中等度〜重度 MR、重度 TR、重度 MS、大きな VSD、重度の右 室機能不全 • 負荷条件に依存しにくい方法（planimetry など）を組み合わせ る HR 1.43 重度 MR の合併と全死亡（重度 MR 80 例 vs 非重度 1109 例） ESC/EACTS 2021 [2]; Unger 2016 [5]; Dahan 2025 [10] → MR があると、重症 AS でも PG が 40 に届かないことがある。 研修医レクチャー | Suzuki 12",
+   "notes": ""
+  },
+  {
+   "img": "s13.webp",
+   "thumb": "t13.webp",
+   "text": "PA R T 2 · F L O W S TAT E S EF が保たれた low-gradient AS は、流量で 2 つに分かれる 低流量・低圧較差（paradoxical LFLG） 正常流量・低圧較差（NFLG） AVA ≤ 1、平均 PG < 40、EF ≥ 50%、SVi ≤ 35 mL/m² AVA ≤ 1、平均 PG < 40、EF ≥ 50%、SVi > 35 mL/m² • 小さく肥大した左室、または MR などで SV が少ない • 真の重症 AS がありうる（Hachicha 2007：3 年生存 76% vs 86%） • ESC 2021：“usually have only moderate aortic stenosis” • ASE/EACVI 2017：“should not be diagnosed to have severe AS” • Doppler と CT の fusion で NFLG の 52% が中等度に再分類 （Kamperidis 2015） SVi は LVOT-VTI から求める。重症 AR があると SVi には逆流量が入るので、「前方への流量が少ない」ことを SVi で示すのは 難しい。 ESC/EACTS 2021 [2]; Baumgartner 2017 [1]; Hachicha 2007 [7]; Dumesnil 2010 [8]; Clavel 2016 [9]; Kamperidis 2015 [14] → 流量が正常なのに PG が低いなら、多くは中等度 AS。 研修医レクチャー | Suzuki 13",
+   "notes": ""
+  },
+  {
+   "img": "s14.webp",
+   "thumb": "t14.webp",
+   "text": "PA R T 2 · T H E T R A P この症例の落とし穴：「SVi < 35 なら真の重症」をそのまま使わない よくある推論 重症 AR があると • EF は保たれている・MR がある • だから前方への流量が少ない • LVOT-VTI の SV には AR の逆流量が入る • PG を決めるのは弁を通る流量（前方＋逆流） • → SVi < 35 なら paradoxical LFLG の真の重症 AS • → SVi は低くなりにくく、流量は「正常〜多い」側 ガイドラインに沿った読み AVA < 1.0・平均 PG < 40・流量は正常以上 → NFLG に近い形。ガイドラインは「多くは中等度」「重症と診断すべきでない」とす る。ただし流量に依存しない指標（DVI・CT 石灰化スコア）で確かめるまでは結論を急がない。 Baumgartner 2017 [1]; ESC/EACTS 2021 [2]; Unger 2016 [5] → 重症 AR があると、弁を通る流量は低くならない。paradoxical LFLG の枠組みは当てはめにくい。 研修医レクチャー | Suzuki 14",
+   "notes": "ChatGPT との議論で出た『MR による前方低流量を伴う真の重症 low-gradient AS』の見立ては、AR がない、または軽度なら妥当。しかし重症 AR では、弁を通る流量は前方 SV＋逆流量なので低くならず、PG を下げる方向の説明になりにくい。"
+  },
+  {
+   "img": "s15.webp",
+   "thumb": "t15.webp",
+   "text": "PA R T 3 流量にだまされない指標 面積の比、石灰化の量、弁口の実測。 → それぞれに弱点があるので、組み合わせる。 研修医レクチャー | Suzuki 15",
+   "notes": ""
+  },
+  {
+   "img": "s16.webp",
+   "thumb": "t16.webp",
+   "text": "PA R T 3 · C O N T I N U I T Y E Q U AT I O N 連続の式の AVA ― LVOT の測り方に弱い LVOT は楕円 → AVA は小さく出る でも閾値ごと変わる TTE 0.66 vs MDCT 0.87 cm²（De Vecchi 2014）。円と仮定すると 15% 過小（Doddamani 2007） CT の AVA は大きく出るが予後予測は改善せず。死亡が増える閾値は エコー ≤1.0、CT ≤1.2 cm²（Clavel 2015） De Vecchi 2014 [11]; Doddamani 2007 [12]; Clavel 2015 [13]; Baumgartner 2017 [1] → LVOT の過小評価は食い違いの理由の 1 つ。ただし CT で測り直して 1.0 で判定し直さない。 研修医レクチャー | Suzuki 16",
+   "notes": ""
+  },
+  {
+   "img": "s17.webp",
+   "thumb": "t17.webp",
+   "text": "PA R T 3 · D V I DVI ― 同じ血流の比なので、流量にだまされにくい DVI ＝ LVOT-VTI ／ AV-VTI 弱点 LVOT 径を使わないので、径の測定誤差を受けない。重症の目安 < 0.25（ASE/EACVI 2017） LVOT が大きい・小さい患者では、同じ AVA でも DVI が変わる 上図は概念図。Baumgartner 2017 [1] → DVI < 0.25 は重症を支持する。AR も MR も分子と分母に同じように効く。 研修医レクチャー | Suzuki 17",
+   "notes": ""
+  },
+  {
+   "img": "s18.webp",
+   "thumb": "t18.webp",
+   "text": "PA R T 3 · C T C A L C I U M S C O R E CT の石灰化スコア ― 流量と無関係に弁を見る PAWADE 2018 ・ 重症 AS の判別 0.92 / 0.89 C 統計量（女性 / 男性）。閾値は女性 1377・男性 2062 AU 使い方と弱点 • AVA < 1.0 かつ平均 PG < 40・EF 保持のときに重症の 可能性を上げる材料 • 石灰化の少ない AS（若年・二尖弁・リウマチ性） では低く出る 左図の閾値は ASE/EACVI 2017 の Table 5（ESC 2021 もほぼ同じ）。Baumgartner 2017 [1]; ESC/EACTS 2021 [2]; Clavel 2014 [15]; Pawade 2018 [16] → エコーの指標が食い違うときは、石灰化スコアで AS 自体の重症度を確かめる。 研修医レクチャー | Suzuki 18",
+   "notes": ""
+  },
+  {
+   "img": "s19.webp",
+   "thumb": "t19.webp",
+   "text": "PA R T 4 この症例を読む 3 つの数字は、同時には成り立ちにくい。 → どれかが違う。何を測れば見分けられるか。 研修医レクチャー | Suzuki 19",
+   "notes": ""
+  },
+  {
+   "img": "s20.webp",
+   "thumb": "t20.webp",
+   "text": "PA R T 4 · C O N S I S T E N C Y AVA 0.97・平均 PG 30・重症 AR は、同時には成り立ちにくい 概算で考えると • 重症 AR なら、弁を通る量は前方＋逆流で多いはず • その流量で PG 30 になるには、AVA は 1.2〜1.4 程度 ガイドラインの言葉では • 重症 AR では PG は AVA のわりに高く出るはず（ASE/EACVI 2017） • PG が低いのは「予想と逆」 左図は Gorlin の式による概算（仮定しだいで数値は動く）。Gorlin 1951 [3]; Baumgartner 2017 [1] → 数字の組み合わせに違和感を持つこと自体が、測り直す理由になる。 研修医レクチャー | Suzuki 20",
+   "notes": ""
+  },
+  {
+   "img": "s21.webp",
+   "thumb": "t21.webp",
+   "text": "PA R T 4 · D I F F E R E N T I A L S どの数字が違うのか ― 見分け方 可能性 こうなっているかも 見分け方 AS は中等度 AVA が過小評価（LVOT）、または基準の食い違 いの帯 DVI > 0.25、CT 石灰化スコアが閾値未満 AR は重症でない 逆流量が少なく、弁を通る流量は正常 AR の定量：RVol ≥ 60 mL、RF ≥ 50%、EROA ≥ 0.30 cm²、VC > 0.6 cm、下行大動脈の全拡張期逆流 PG の過小評価 ドプラの角度、窓の選び方 複数の窓から測り直す（MR ジェットとの取り違えも確認） AS は本当に重症 上の 3 つが否定される DVI < 0.25、CT 石灰化スコアが very likely の範囲 AR の重症基準は ASE 2017 逆流評価の Table 11。Zoghbi 2017 [6]; Baumgartner 2017 [1]; Unger 2016 [5] → AR の定量・PG の測り直し・DVI・CT 石灰化スコアで、4 つの可能性を絞る。 研修医レクチャー | Suzuki 21",
+   "notes": ""
+  },
+  {
+   "img": "s22.webp",
+   "thumb": "t22.webp",
+   "text": "PA R T 4 · W H Y I T S T I L L M AT T E R S AS が中等度でも、この弁は安心できない EGBE 2016 ・ 混合大動脈弁膜症 213 例 ZILBERSZAC 2013 ・ 中等度以上の AS＋AR 71 例 42% → 30% 82% → 19% 有害事象のない割合（3 年 → 5 年）。有害事象の 69% は中等度 （peak velocity 3〜3.9 m/s）で起きた 無症状・EF 保持例の event-free 生存（1 年 → 6 年）。peak velocity が独立した予測因子 “When the severity of both stenosis and regurgitation is balanced, indications for interventions should be based on symptoms and objective consequences rather than on the indices of severity … Doppler pressure gradient reflects the global haemodynamic burden.” 狭窄と逆流が拮抗するときは、症状と客観的な影響（左室の拡大・機能）で判断する ESC/EACTS 2021 [2] Egbe 2016 [17]; Zilberszac 2013 [18]; ESC/EACTS 2021 [2] → AS 単独の重症度ではなく、弁全体の負荷を症状と左室への影響で判断する。 研修医レクチャー | Suzuki 22",
+   "notes": ""
+  },
+  {
+   "img": "s23.webp",
+   "thumb": "t23.webp",
+   "text": "PA R T 4 · T O M O R R O W 明日のカンファレンスまでに確かめること 1 AR を定量する RVol・RF・EROA・VC・下行大動脈の全拡張期逆流。本当に重症か 2 PG を測り直す 複数の窓から Vmax・平均 PG。MR ジェットと取り違えていないか 3 DVI を出す LVOT-VTI ／ AV-VTI。0.25 より小さいか 4 CT で石灰化スコア 男女別の閾値と比べる（重症の可能性を上げる・下げる材料） 5 左室と症状を見る LV の拡大・EF の推移・症状。弁全体の負荷として介入を考える Baumgartner 2017 [1]; Zoghbi 2017 [6]; ESC/EACTS 2021 [2] → PG 30 の一点で決めず、流量・AR・AS 自体・左室の 4 方向から詰める。 研修医レクチャー | Suzuki 23",
+   "notes": ""
+  },
+  {
+   "img": "s24.webp",
+   "thumb": "t24.webp",
+   "text": "CLOSING Take-home message PG 狭さ × 流量。流量が変われば PG は 2 乗で変わる AR / MR AR は PG を上げ、MR は下げる。重症 AR なのに PG が低いのは違和感のサイン 指標 DVI と CT 石灰化スコアで AS 自体を確かめる。SVi は AR で当てにならない 判断 AS が中等度でも、AS＋AR は症状と左室への影響で介入を考える → PG にだまされない。流量を考え、流量に依存しない指標で確かめる。 研修医レクチャー | Suzuki 24",
+   "notes": ""
+  },
+  {
+   "img": "s25.webp",
+   "thumb": "t25.webp",
+   "text": "REFERENCES References（1/2） [1] Baumgartner H, Hung J, Bermejo J, et al. Recommendations on the echocardiographic assessment of aortic valve stenosis: a focused update from the European Association of Cardiovascular Imaging and the American Society of Echocardiography. J Am Soc Echocardiogr. 2017;30(4):372-392. PMID 28385280 [2] Vahanian A, Beyersdorf F, Praz F, et al. 2021 ESC/EACTS Guidelines for the management of valvular heart disease. Eur Heart J. 2022;43(7):561-632. PMID 34453165 [3] Gorlin R, Gorlin SG. Hydraulic formula for calculation of the area of the stenotic mitral valve, other cardiac valves, and central circulatory shunts. I. Am Heart J. 1951;41(1):1-29. PMID 14799435 [4] Minners J, Allgeier M, Gohlke-Baerwolf C, et al. Inconsistencies of echocardiographic criteria for the gr",
+   "notes": ""
+  },
+  {
+   "img": "s26.webp",
+   "thumb": "t26.webp",
+   "text": "REFERENCES References（2/2） [11] De Vecchi C, Caudron J, Dubourg B, et al. Effect of the ellipsoid shape of the left ventricular outflow tract on the echocardiographic assessment of aortic valve area in aortic stenosis. J Cardiovasc Comput Tomogr. 2014;8(1):52-57. PMID 24582043 [12] Doddamani S, Bello R, Friedman MA, et al. Demonstration of left ventricular outflow tract eccentricity by real time 3D echocardiography: implications for the determination of aortic valve area. Echocardiography. 2007;24(8):860-866. PMID 17767537 [13] Clavel MA, Malouf J, Messika-Zeitoun D, et al. Aortic valve area calculation in aortic stenosis by CT and Doppler echocardiography. JACC Cardiovasc Imaging. 2015;8(3):248-257. PMID 25772832 [14] Kamperidis V, van Rosendael PJ, Katsanos S, et al. Low gradient severe ",
+   "notes": ""
+  }
+ ]
+}

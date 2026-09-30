@@ -1,6 +1,16 @@
 {
   "decks": [
     {
+      "id": "as-ar-mr-gradient",
+      "title": "PG にだまされない",
+      "subtitle": "重症 AR・中等度 MR を合併した AS の重症度をどう読むか",
+      "date": "2026-09-30",
+      "slides": 26,
+      "thumb": "t01.webp",
+      "aspect": 1.7778,
+      "rev": "a740370409"
+    },
+    {
       "id": "peep-heart-lung",
       "title": "PEEP は「循環治療」でもある",
       "subtitle": "Severe MR ＋ Severe TR ＋ 急性肺水腫に対する PEEP と循環管理",
