@@ -1,0 +1,172 @@
+{
+ "id": "sbt-extubation",
+ "title": "SBT ― 抜管できるかを確かめる",
+ "subtitle": "自発呼吸トライアルの始め方・やり方・読み方（呼吸器シリーズ #2）",
+ "date": "2026-09-30",
+ "rev": "ebbfedbacc",
+ "aspect": 1.7778,
+ "slides": [
+  {
+   "img": "s01.webp",
+   "thumb": "t01.webp",
+   "text": "研修医向けレクチャー SBT ― 抜管できるかを確かめる 自発呼吸トライアルの始め方・やり方・読み方 呼吸器シリーズ #2 Yasuyuki Suzuki, MD, PhD Dept. of Anaesthesiology, Saiseikai Matsuyama Hospital",
+   "notes": ""
+  },
+  {
+   "img": "s02.webp",
+   "thumb": "t02.webp",
+   "text": "WHY 抜管は「遅すぎ」も「早すぎ」も害になる 遅すぎる ― ELY 1996 早すぎる ― 再挿管の予後 4.5 日 vs 6 日 43% vs 12% 毎日のスクリーニング＋2 時間の SBT で人工呼吸期間（中央値） が短縮 院内死亡：再挿管あり vs なし（Epstein 1997） 20% vs 41% OR 5.18 合併症（自己抜管・再挿管・気管切開・21 日を超える人工呼吸） 再挿管と死亡の関連（95%CI 3.38–7.94、Frutos-Vivar 2011） 再挿管の死亡が多いのは、再挿管そのものの害だけでなく、再挿管が必要になる患者の重さも反映している。 Ely 1996 [1]; Epstein 1997 [2]; Frutos-Vivar 2011 [3] → 毎日 SBT の候補かを確かめ、試して、合格した人を抜管する。 研修医レクチャー | Suzuki 2",
+   "notes": "Ely 1996（NEJM）：毎日スクリーニングして SBT を行う群で人工呼吸期間が短く（中央値 4.5 日 vs 6 日）、合併症も少なかった（20% vs 41%）。Epstein 1997（Chest）：抜管失敗で再挿管された患者の院内死亡 43% vs 12%。観察研究なので因果は慎重に。"
+  },
+  {
+   "img": "s03.webp",
+   "thumb": "t03.webp",
+   "text": "ROADMAP 離脱は 5 つのステップで考える 1 2 3 4 5 毎日のスクリーニ ング 鎮静を切る SBT 抜管の判断 抜管後のサポート SAT：覚醒・協力を確か める 陽圧の補助を減らして試 す 気道を守れるか・上気道 HFNC・NIV・再挿管の判 断 PART 2：ステップ 3 PART 3：ステップ 3 の失敗 SBT に進める状態か この講義では PART 1：ステップ 1・2 PART 4：ステップ 4・5 Boles 2007 [7]; Thille 2013 [21] → SBT は真ん中のステップ。前後の判断と組み合わせて初めて意味がある。 研修医レクチャー | Suzuki 3",
+   "notes": ""
+  },
+  {
+   "img": "s04.webp",
+   "thumb": "t04.webp",
+   "text": "PA R T 1 SBT に進める患者を見つける 毎日確かめる。確かめなければ、抜管は遅れる。 → 開始基準・鎮静の中断・負荷と能力のバランス。 研修医レクチャー | Suzuki 4",
+   "notes": ""
+  },
+  {
+   "img": "s05.webp",
+   "thumb": "t05.webp",
+   "text": "PA R T 1 · R E A D I N E S S SBT の開始基準 ― RCT で使われた例 ① 原因 挿管の原因となった病態が改善している ② 循環 収縮期血圧 90〜160 mmHg、心拍数 < 140/分、昇圧薬なし（または少量） ③ 意識 GCS ≥ 13 ④ 呼吸 FiO₂ ≤ 0.4 で SpO₂ > 90%、呼吸数 < 35/分、自発 VT > 5 mL/kg、f/VT < 100、最大吸気圧 > 15 cmH₂O ⑤痰 多くない（直近 8 時間の吸引が 3 回未満） 除外：気管切開、再挿管しない方針（DNR）。基準の値は施設ごとに違う。施設の基準があればそれに従う。 Subirà 2019（JAMA, スペイン 18 ICU・1153 例の RCT）の weaning criteria [4] → 原因の改善・循環・意識・呼吸・痰の 5 項目を、毎日確かめる。 研修医レクチャー | Suzuki 5",
+   "notes": "Subirà 2019 の本文 Methods にある weaning criteria をそのまま載せた。挿管 24 時間以上の成人が対象。数値は試験のプロトコルであり、唯一の正解ではない。f/VT は PB980 の SPONT で画面に表示される。最大吸気圧（MIP）は前回の NIF にあたる。"
+  },
+  {
+   "img": "s06.webp",
+   "thumb": "t06.webp",
+   "text": "P A R T 1 · D A I LY 毎日 SBT を試す ― 鎮静を切ってから 1 日 1 回の SBT Esteban 1995 毎日のスクリーニング Ely 1996 鎮静の中断＋SBT Girard 2008（ABC 試験） weaning 成功の率比：IMV に対し 2.83（95%CI 1.36–5.89）、PSV の漸減に対 し 2.05（1.04–4.04） 人工呼吸期間 中央値 4.5 日 vs 6 日、合併症 20% vs 41% 人工呼吸なしの日数 14.7 日 vs 11.6 日、1 年死亡 HR 0.68（95%CI 0.50–0.92） Esteban 1995 [6]; Ely 1996 [1]; Girard 2008 [5]; Ouellette 2017 [12] → スクリーニング→鎮静の中断→SBT を、毎日プロトコルとして回す。 研修医レクチャー | Suzuki 6",
+   "notes": "Esteban 1995：1 日 1 回の SBT は IMV や PSV の漸減より weaning が速く成功した。Girard 2008（ABC 試験）：毎日の鎮静中断（SAT）と SBT を組み合わせると、人工呼吸なしの日数が増え、1 年死亡も減った（NNT 7.4）。ATS/ACCP 2017 も鎮静を最小にするプロトコルを推奨している。"
+  },
+  {
+   "img": "s07.webp",
+   "thumb": "t07.webp",
+   "text": "PA R T 1 · L O A D V S C A PA C I T Y SBT は「負荷」と「能力」の釣り合いを試している 概念図。前回（RM）の指標：P0.1＝駆動、NIF・VC＝筋力、Cstat・Rstat・PEEPi＝負荷。Boles 2007 [7] → 失敗したら、どちらが原因かを考える。負荷を減らすか、能力を上げるか。 研修医レクチャー | Suzuki 7",
+   "notes": ""
+  },
+  {
+   "img": "s08.webp",
+   "thumb": "t08.webp",
+   "text": "PA R T 2 SBT のやり方 T-piece か、PS か。何分か。 → 生理学と臨床試験で、答えが少し違う。 研修医レクチャー | Suzuki 8",
+   "notes": ""
+  },
+  {
+   "img": "s09.webp",
+   "thumb": "t09.webp",
+   "text": "PA R T 2 · M E T H O D S SBT の方法で、患者の呼吸努力は変わる SKLAR 2017 ・ 16 研究 239 例のメタ解析 0.70 T-piece に対する PS の吸気努力の比 （95%CI 0.60–0.82） CPAP 0（挿管のまま）の仕事量・努力・f/VT は抜管後と差がなかっ た。T-piece は抜管後より努力が小さかった。 方法の選択肢 • PS（5〜8 cmH₂O 程度）± PEEP • CPAP（PS 0）、T-piece • TC（チューブ抵抗だけを打ち消す） 左図は概念図。PS の値は各試験で使われた範囲（Haberthür 5、Esteban 7、Subirà 8）。Sklar 2017 [8] → PS は努力を 3 割減らす。T-piece と CPAP 0 は抜管後に近い。 研修医レクチャー | Suzuki 9",
+   "notes": "Sklar 2017（AJRCCM）のメタ解析：T-piece に比べ、PS は仕事量を 30%（RoM 0.70）、努力を 30%（RoM 0.70）、f/VT を 20% 減らした。抜管後と比べると、PS は努力と f/VT が有意に低く、T-piece は努力は低いが仕事量は同程度、CPAP 0 は仕事量・努力・f/VT とも差がなかった。結論は『CPAP 0 と T-piece が抜管後の生理をより正確に反映する』。"
+  },
+  {
+   "img": "s10.webp",
+   "thumb": "t10.webp",
+   "text": "PA R T 2 · T R I A L S 臨床試験：どの方法・何分で SBT をするか 試験 比較 結果 Esteban 1997 T-tube vs PS 7（各 2 時間） SBT 失敗 22% vs 14%。48 時間の抜管維持 63% vs 70%（有意差なし） Esteban 1999 30 分 vs 120 分 再挿管 13.5% vs 13.4%。48 時間の抜管維持 75.9% vs 73.0% Subirà 2019 PS 8・PEEP 0・30 分 vs T-piece 2 時間 抜管成功 82.3% vs 74.0%（差 8.2%、95%CI 3.4–13.0）。再挿管 11.1% vs 11.9% Thille 2022 PS vs T-piece 28 日時点の人工呼吸なし日数 27 日 vs 27 日（差なし） Subirà 2019 は方法（PS か T-piece か）と時間（30 分か 2 時間か）が同時に違う。どちらの効果かは分けられない。 Esteban 1997 [9]; Esteban 1999 [10]; Subirà 2019 [4]; Thille 2022 [11] → 30 分で十分なことが多い。短時間の PS は抜管の成績で T-piece に劣らない。 研修医レクチャー | Suzuki 10",
+   "notes": ""
+  },
+  {
+   "img": "s11.webp",
+   "thumb": "t11.webp",
+   "text": "PA R T 2 · T H E D E B AT E T-piece か PS か ― 生理学と臨床試験の食い違い 生理学：Sklar 2017 臨床試験：Subirà 2019 “Continuous positive airway pressure of 0 cm H2O and Tpiece more accurately reflect the physiologic conditions after extubation.” “the results of the present study suggest that a T-piece SBT is not the best way to check a patient’s ability to breathe.” → 抜管後に近い負荷で試すなら T-piece・CPAP 0 → 楽な条件（PS 8・30 分）の方が抜管成功が多く、再挿管 は増えなかった T-piece は PS よりきついが、抜管後よりはきつくない（Sklar）。問題は「きつすぎる」ことより、耐えられない患者を早めに振り落とすこ とかもしれない。 Sklar 2017 [8]; Subirà 2019 [4] → 「抜管後に近い負荷で試す」か「楽な条件で早く抜管する」か。考え方の違い。 研修医レクチャー | Suzuki 11",
+   "notes": "研修医に考えさせるスライド。生理学（Sklar）は T-piece と CPAP 0 が抜管後に近いと結論し、臨床試験（Subirà）は短時間の PS の方が抜管成功が多いと結論した。Thille 2022 では人工呼吸なし日数に差がなかった。『チューブの抵抗で T-piece が過大な負荷になる』という説明は、Sklar のメタ解析では支持されていない（T-piece の努力は抜管後より小さかった）。"
+  },
+  {
+   "img": "s12.webp",
+   "thumb": "t12.webp",
+   "text": "PA R T 2 · P S + P E E P PS＋PEEP の SBT は、抜管後より楽な試験 項目 根拠 PS 試験で使われた範囲は 5〜8 cmH₂O。ATS/ACCP 2017 は初回 SBT で吸気圧補助を条件付き推奨 PEEP Subirà 2019 の PS 群は PEEP 0。PEEP を残すと、さらに楽な条件になる FiO₂ Subirà 2019 は SBT 前から変えていない。高い FiO₂ から下げるときは SpO₂ の変化に注意 時間 30 分と 120 分で成績は同じ（Esteban 1999） PEEP が残ると胸腔内圧は陽圧のまま → LV 後負荷の軽減が続く。陽圧を外して初めて出る LV 不全（weaning-induced pulmonary edema）は、この SBT では見えにくい。 Subirà 2019 [4]; Esteban 1999 [10]; Ouellette 2017 [12]; Sklar 2017 [8]; Lemaire 1988 [18] → 低い PS の SBT は根拠の範囲内。ただし抜管後より楽な試験なので、心不全などは合格後も警戒する。 研修医レクチャー | Suzuki 12",
+   "notes": "PS＋PEEP の SBT を根拠と並べた。注意点は、抜管後より楽な試験であること。陽圧は LV 後負荷を下げている。心機能の悪い患者では、SBT に合格しても抜管後に肺水腫が出る可能性を想定し、抜管後の NIV などを準備する。設定と時間は各施設のプロトコルに従う。"
+  },
+  {
+   "img": "s13.webp",
+   "thumb": "t13.webp",
+   "text": "PA R T 2 · O N P B 9 8 0 PB980 で SBT をする PS TC T-piece SPONT ＋ Spont type：PS SPONT ＋ Spont type：TC 人工呼吸器から外す • PS と PEEP を設定 • PS 0 にすれば CPAP • チューブの抵抗で生じる圧差を 10〜 100% 打ち消す • チューブの種類・内径を正しく入れ る • 回路を外すので画面の値は見られな い • SpO₂・呼吸数はモニターで PB980 の取扱説明書（7.6.1.0 版）で確認したこと • SBT 専用の機能はない。「Start Weaning」は患者データに残す手入力イベントの 1 つ • TC で SBT を行った試験：ATC・PS 5・T-tube（各 2 時間）で抜管の成績に有意差なし（Haberthür 2002、90 例） PB980 Operator's Manual [13] 10-22; Haberthür 2002 [14]; Cohen 2002 [15] → SPONT で補助の種類を選ぶ。f/VT は画面に出る。RM の P0.1・NIF・VC も SPONT で測れる。 研修医レクチャー | Suzuki 13",
+   "notes": "PB980 の SPONT モードでは、自発呼吸の補助の種類（Spont type）として PS・TC・VS・PAV+ などを選ぶ。TC（tube compensation）はチューブの種類と内径から流量に応じた抵抗の圧差を計算し、設定した割合（10〜100%）だけ打ち消す。Haberthür 2002 では TC・PS 5・T-tube の 3 群で抜管の成績に有意差はなかった。"
+  },
+  {
+   "img": "s14.webp",
+   "thumb": "t14.webp",
+   "text": "PA R T 2 · M O N I T O R I N G SBT 中に見るもの ― 中止基準 系統 SBT を中止する基準（Subirà 2019） 呼吸 呼吸数 > 35/分 または呼吸補助筋の使用。FiO₂ > 0.5 で SpO₂ < 90% 循環 心拍数 > 140/分 または 20% を超える上昇、収縮期血圧 < 90 mmHg、不整脈の出現 意識 不穏・不安、GCS < 13 上図は概念図。Subirà 2019 [4]; Yang & Tobin 1991 [16] → 浅く速い呼吸・努力の増加・循環の変化が出たら、我慢させずに戻す。 研修医レクチャー | Suzuki 14",
+   "notes": "中止基準は Subirà 2019 の本文 Methods の記載。SBT に耐えられなかった患者は人工呼吸器に戻す。f/VT（浅く速い呼吸の指標）は PB980 の SPONT で画面に表示される。Yang & Tobin 1991 では f/VT の AUC は 0.89。"
+  },
+  {
+   "img": "s15.webp",
+   "thumb": "t15.webp",
+   "text": "PA R T 3 失敗の理由を探す 失敗は、次の SBT までに直すことのリスト。 → 駆動・筋力・負荷・心臓。 研修医レクチャー | Suzuki 15",
+   "notes": ""
+  },
+  {
+   "img": "s16.webp",
+   "thumb": "t16.webp",
+   "text": "PA R T 3 · W H Y I T FA I L E D SBT に失敗したら、どこが足りなかったのかを見る 考えること 見るもの（PB980 で測れるもの） 手を打つ例 駆動は適切か P0.1（高すぎ：過剰な努力、低すぎ：過鎮静） 鎮静・鎮痛の調整、代謝性アシドーシスの補正 筋力は足りるか NIF・VC、f/VT 栄養・リハビリ、原因（電解質・神経筋疾患）の評価 負荷は大きすぎないか Cstat・Rstat・PEEPi（吸気・呼気ポーズ） 痰の吸引・気管支拡張薬・除水・PEEPi への対応 心臓は耐えられるか SBT 中の心拍・血圧・SpO₂、心エコー、BNP 除水・後負荷の軽減（次のスライド） 意識・気道 指示に従えるか、咳の強さ、痰の量 せん妄の評価・鎮静の見直し Boles 2007 [7]; Vallverdú 1998 [17]; Thille 2013 [21] → 前回の RM の値は「失敗の理由探し」に使う。 研修医レクチャー | Suzuki 16",
+   "notes": ""
+  },
+  {
+   "img": "s17.webp",
+   "thumb": "t17.webp",
+   "text": "PA R T 3 · T H E H E A R T 陽圧を外すと、隠れていた LV 不全が出る LEMAIRE 1988 ・ COPD ＋ 心疾患 15 例 ・ 人工呼吸から 10 分間の自発呼吸へ +5 → −2 8 → 25 65 → 83 食道内圧（mmHg） transmural PAOP（mmHg） LVEDVI（mL/m²） 見つけ方 対応 • SBT 中の心エコーで LV 充満圧の指標が上がる • BNP の上昇 • 除水（BNP を指標にする報告がある） • 後負荷の軽減 • 血漿蛋白・ヘモグロビン濃度の上昇（血液濃縮） • 利尿後、15 例中 9 例が離脱できた（Lemaire 1988） Lemaire 1988 [18]; Teboul 2014 [19]; Dres 2014 [20] → 心不全の患者は、SBT の前に除水と後負荷の軽減を進めておく。 研修医レクチャー | Suzuki 17",
+   "notes": "PEEP の回（PART 4）の内容とつながる。自発呼吸に戻すと胸腔内圧が陰圧に振れ、LV の後負荷と静脈還流が同時に増える。Dres 2014 は、SBT 中の診断として心エコーの LV 充満圧の推定、BNP、血漿蛋白とヘモグロビンの上昇、肺血管外水分量を挙げている。"
+  },
+  {
+   "img": "s18.webp",
+   "thumb": "t18.webp",
+   "text": "PA R T 4 抜管の判断と、その後 SBT に合格しても、抜管できるとは限らない。 → 気道を守れるか、上気道は通るか、抜管後にどう支えるか。 研修医レクチャー | Suzuki 18",
+   "notes": ""
+  },
+  {
+   "img": "s19.webp",
+   "thumb": "t19.webp",
+   "text": "PA R T 4 · A I R W AY SBT 合格の後に、気道を確かめる 気道を守れるか 上気道は通るか：カフリークテスト • 意識・指示に従えるか • 咳の強さ • カフを抜いたときの漏れ量を見る • 漏れ < 110 mL：抜管後 stridor の陽性的中率 0.80 • 痰の量と吸引の回数 • 漏れ > 110 mL：stridor なしの予測値 0.98 FRANÇOIS 2007 ・ 抜管 12 時間前からのメチルプレ ドニゾロン 3% vs 22% 4% vs 8% 抜管後の喉頭浮腫（ステロイド vs プラセボ） 再挿管 ATS/ACCP 2017：抜管基準を満たし stridor の高リスクと判断した患者にカフリークテスト。Miller & Cole 1996 [22]; Girard 2017 [23]; François 2007 [24] → 高リスク患者ではカフリークテスト。リークがなければ抜管の 4 時間以上前からステロイド。 研修医レクチャー | Suzuki 19",
+   "notes": "ATS/ACCP 2017：抜管基準を満たし、抜管後 stridor の高リスクと判断した患者にカフリークテストを行い、リークがなければ抜管の少なくとも 4 時間前から全身ステロイドを投与することを提案。Miller & Cole 1996：漏れ 110 mL 未満で stridor の陽性的中率 0.80。"
+  },
+  {
+   "img": "s20.webp",
+   "thumb": "t20.webp",
+   "text": "PA R T 4 · A F T E R E X T U B AT I O N 抜管後の呼吸サポートは、再挿管のリスクで選ぶ 対象 比較 再挿管 低リスク HFNC vs 通常の酸素（Hernández 2016a） 4.9% vs 12.2%（72 時間以内、差 7.2%、95%CI 2.5–12.2） 高リスク HFNC vs NIV（Hernández 2016b） 22.8% vs 19.1%。HFNC は NIV に対して非劣性 高リスク NIV＋HFNC vs HFNC 単独（Thille 2019） 11.8% vs 18.2%（7 日時点、差 −6.4%、95%CI −12.0 to −0.9） ATS/ACCP 2017 抜管失敗の高リスク患者には、抜管直後の予防的 NIV を強く推奨（strong recommendation）。「高リスク」の定義は試験ごとに違う （例：Thille 2019 は 65 歳超、または基礎に心疾患・呼吸器疾患）。 Hernández 2016a [25]; Hernández 2016b [26]; Thille 2019 [27]; Ouellette 2017 [12] → 低リスクは HFNC。高リスクは予防的 NIV（HFNC との併用も）。 研修医レクチャー | Suzuki 20",
+   "notes": ""
+  },
+  {
+   "img": "s21.webp",
+   "thumb": "t21.webp",
+   "text": "PA R T 4 · C L A S S I F I C AT I O N 離脱の経過で分類する ― WIND 研究 短い離脱 難しい離脱 長い離脱 割合 死亡 24 時間未満で終了 57% 6% 1 日を超え 1 週間未満 10% 17% 9% 29% 1 週間以上 残り 24% は、離脱の試みが始まらなかった群。死亡リスク（未調整）は初回の離脱の試みの後 19%、10 日後には 37%。 分類の定義の詳細は原著を参照。Béduneau 2017（WIND）[28]; Boles 2007 [7] → 離脱が長引くほど死亡が増える。長引く理由を早く探す。 研修医レクチャー | Suzuki 21",
+   "notes": "WIND 研究（Béduneau 2017）：離脱の試みが始まらなかった 24% を除き、group 1（短い）57%、group 2（難しい）10%、group 3（長い）9%、死亡はそれぞれ 6%、17%、29%。Boles 2007 の simple / difficult / prolonged の分類を改訂したもの。"
+  },
+  {
+   "img": "s22.webp",
+   "thumb": "t22.webp",
+   "text": "CASE PEEP の回の症例（Severe MR＋TR）なら、どう進めるか 1 PEEP を段階的に下げる 酸素化・VTI・RV サイズを見ながら（PEEP の回） 2 SBT の前に除水と後負荷の軽減 陽圧が支えていた LV 後負荷の軽減を、薬と体液管理で置き換える 3 PS＋PEEP の SBT 合格しても抜管後の肺水腫を警戒。心エコー・BNP を併せて見る 4 抜管後は高リスクとして扱う 予防的 NIV（HFNC との併用も）を準備 考え方の例（この順で進める有効性を直接示した試験はない）。Lemaire 1988 [18]; Dres 2014 [20]; Ouellette 2017 [12] → 陽圧に支えられている心臓は、陽圧を外す前に準備する。 研修医レクチャー | Suzuki 22",
+   "notes": ""
+  },
+  {
+   "img": "s23.webp",
+   "thumb": "t23.webp",
+   "text": "ALGORITHM SBT から抜管まで 1 毎朝のスクリーニング 開始基準（原因・循環・意識・呼吸・痰）を満たすか 2 鎮静を切る（SAT） 覚醒して指示に従えるか 3 SBT（施設のプロトコルで） 中止基準に当たれば戻して、失敗の理由を探す 4 気道の評価 咳・痰・意識。高リスクはカフリークテスト 5 抜管と抜管後のサポート 低リスクは HFNC、高リスクは予防的 NIV Boles 2007 [7]; Girard 2008 [5]; Girard 2017 [23]; Ouellette 2017 [12] → 毎日スクリーニングし、合格したら気道を確かめて抜管、リスクに応じて支える。 研修医レクチャー | Suzuki 23",
+   "notes": ""
+  },
+  {
+   "img": "s24.webp",
+   "thumb": "t24.webp",
+   "text": "CLOSING Take-home message 毎日 スクリーニング → 鎮静の中断 → SBT をプロトコルで回す 方法 30 分程度の低い PS で十分なことが多い。T-piece と CPAP 0 は抜管後に近い PEEP PS＋PEEP の SBT は抜管後より楽な試験。心不全は合格後も肺水腫を警戒 その後 気道の評価と、リスクに応じた抜管後のサポートまでが離脱 → SBT は「抜管できるか」を確かめる試験。合格の後の判断まで含めて離脱。 研修医レクチャー | Suzuki 24",
+   "notes": ""
+  },
+  {
+   "img": "s25.webp",
+   "thumb": "t25.webp",
+   "text": "REFERENCES References（1/3） [1] Ely EW, Baker AM, Dunagan DP, et al. Effect on the duration of mechanical ventilation of identifying patients capable of breathing spontaneously. N Engl J Med. 1996;335(25):1864-1869. PMID 8948561 [2] Epstein SK, Ciubotaru RL, Wong JB. Effect of failed extubation on the outcome of mechanical ventilation. Chest. 1997;112(1):186-192. PMID 9228375 [3] Frutos-Vivar F, Esteban A, Apezteguia C, et al. Outcome of reintubated patients after scheduled extubation. J Crit Care. 2011;26(5):502-509. PMID 21376523 [4] Subirà C, Hernández G, Vázquez A, et al. Effect of pressure support vs T-piece ventilation strategies during spontaneous breathing trials on successful extubation among patients receiving mechanical ventilation: a randomized clinical trial. JAMA. 2019;321(22)",
+   "notes": ""
+  },
+  {
+   "img": "s26.webp",
+   "thumb": "t26.webp",
+   "text": "REFERENCES References（2/3） [11] Thille AW, Gacouin A, Coudroy R, et al. Spontaneous-breathing trials with pressure-support ventilation or a T-piece. N Engl J Med. 2022;387(20):1843-1854. PMID 36286317 [12] Ouellette DR, Patel S, Girard TD, et al. Liberation from mechanical ventilation in critically ill adults: an official American College of Chest Physicians/American Thoracic Society clinical practice guideline: inspiratory pressure augmentation during spontaneous breathing trials, protocols minimizing sedation, and noninvasive ventilation immediately after extubation. Chest. 2017;151(1):166-180. PMID 27818331 [13] Medtronic. Puritan Bennett 980 Ventilator Series Operator's Manual. Part No. PT00101843 Rev A. 2019-04（ソフトウェア 7.6.1.0 以降） [14] Haberthür C, Mols G, Elsasser S, et al. Extubation",
+   "notes": ""
+  },
+  {
+   "img": "s27.webp",
+   "thumb": "t27.webp",
+   "text": "REFERENCES References（3/3） [21] Thille AW, Richard JC, Brochard L. The decision to extubate in the intensive care unit. Am J Respir Crit Care Med. 2013;187(12):1294-1302. PMID 23641924 [22] Miller RL, Cole RP. Association between reduced cuff leak volume and postextubation stridor. Chest. 1996;110(4):1035-1040. PMID 8874265 [23] Girard TD, Alhazzani W, Kress JP, et al. An official American Thoracic Society/American College of Chest Physicians clinical practice guideline: liberation from mechanical ventilation in critically ill adults. Rehabilitation protocols, ventilator liberation protocols, and cuff leak tests. Am J Respir Crit Care Med. 2017;195(1):120-133. PMID 27762595 [24] François B, Bellissant E, Gissot V, et al. 12-h pretreatment with methylprednisolone versus placebo for preventi",
+   "notes": ""
+  }
+ ]
+}

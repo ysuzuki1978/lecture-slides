@@ -21,6 +21,16 @@
       "rev": "6dea8f0ebe"
     },
     {
+      "id": "sbt-extubation",
+      "title": "SBT ― 抜管できるかを確かめる",
+      "subtitle": "自発呼吸トライアルの始め方・やり方・読み方（呼吸器シリーズ #2）",
+      "date": "2026-09-30",
+      "slides": 27,
+      "thumb": "t01.webp",
+      "aspect": 1.7778,
+      "rev": "ebbfedbacc"
+    },
+    {
       "id": "peep-heart-lung",
       "title": "PEEP は「循環治療」でもある",
       "subtitle": "Severe MR ＋ Severe TR ＋ 急性肺水腫に対する PEEP と循環管理",
