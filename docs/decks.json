@@ -11,6 +11,16 @@
       "rev": "a740370409"
     },
     {
+      "id": "ventilator-modes-basics",
+      "title": "モードは A/C と SPONT で足りる",
+      "subtitle": "人工呼吸の基本 ― モード・設定・波形を読む（呼吸器シリーズ #3）",
+      "date": "2026-09-30",
+      "slides": 43,
+      "thumb": "t01.webp",
+      "aspect": 1.7778,
+      "rev": "6dea8f0ebe"
+    },
+    {
       "id": "peep-heart-lung",
       "title": "PEEP は「循環治療」でもある",
       "subtitle": "Severe MR ＋ Severe TR ＋ 急性肺水腫に対する PEEP と循環管理",

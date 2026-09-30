@@ -1,0 +1,268 @@
+{
+ "id": "ventilator-modes-basics",
+ "title": "モードは A/C と SPONT で足りる",
+ "subtitle": "人工呼吸の基本 ― モード・設定・波形を読む（呼吸器シリーズ #3）",
+ "date": "2026-09-30",
+ "rev": "6dea8f0ebe",
+ "aspect": 1.7778,
+ "slides": [
+  {
+   "img": "s01.webp",
+   "thumb": "t01.webp",
+   "text": "研修医向けレクチャー モードは A/C と SPONT で足りる 人工呼吸の基本 ― モード・設定・波形を読む 呼吸器シリーズ #3 Yasuyuki Suzuki, MD, PhD Dept. of Anaesthesiology, Saiseikai Matsuyama Hospital",
+   "notes": ""
+  },
+  {
+   "img": "s02.webp",
+   "thumb": "t02.webp",
+   "text": "KEY MESSAGES 先に結論 ― 4 つ 1 ガス交換のつまみは 2 組 酸素化は FiO₂ と PEEP、CO₂ は分時換気量（呼吸回数 × 1 回換気量）。モード を変えても、この 2 組を動かさなければ血液ガスは変わらない。 2 モードは A/C と SPONT 呼吸器にまかせるなら A/C、患者が吸えるなら SPONT（PS＋PEEP）。SIMV は 2 種類の呼吸が混ざり、量も努力も揃わない。 3 吐き切りは流量波形で見る 呼気の流量がゼロに戻る前に次の吸気が始まっていたら、吐き切れていない。 閉塞性では呼気時間を確保する。 4 肺を守る指標は ΔP と経肺圧 ΔP ＝ Pplat − PEEP は「使える肺の大きさ」に対する 1 回換気量。経肺圧は胸 壁の影響を除いた肺そのものにかかる圧。 → モードの名前より、「何を決めて、何が患者まかせか」を見る。 研修医レクチャー | Suzuki 2",
+   "notes": ""
+  },
+  {
+   "img": "s03.webp",
+   "thumb": "t03.webp",
+   "text": "PA R T 1 何を動かすと、何が変わるか 酸素化と CO₂ は、別々のつまみで調節する。 → モードを変える前に、FiO₂・PEEP と 呼吸回数・1 回換気量 を見る。 研修医レクチャー | Suzuki 3",
+   "notes": ""
+  },
+  {
+   "img": "s04.webp",
+   "thumb": "t04.webp",
+   "text": "PA R T 1 · T W O K N O B S 酸素化と CO₂ は、別々のつまみで決まる O X Y G E N AT I O N V E N T I L AT I O N 酸素化 CO₂ の排出 FiO₂ と PEEP 呼吸回数 × 1 回換気量 • FiO₂：肺胞の酸素を増やす • PEEP：虚脱した肺胞を開いたまま保つ（シャントを減ら す） • 平均気道内圧を上げる設定（吸気時間を長くするなど） も酸素化に効く • 分時換気量で決まる。正確には死腔を除いた肺胞換気量 • PaCO₂ は肺胞換気量に反比例する • PEEP や FiO₂ を変えても、CO₂ は直接には変わらない → SpO₂ が低ければ FiO₂・PEEP、PaCO₂ が高ければ 呼吸回数・1 回換気量。 研修医レクチャー | Suzuki 4",
+   "notes": ""
+  },
+  {
+   "img": "s05.webp",
+   "thumb": "t05.webp",
+   "text": "PA R T 1 · S E T T I N G S B Y M O D E モードごとに設定する項目 モード 酸素化 CO₂（換気） FiO₂ PEEP TV （PC は吸気圧） 回数 PS A/C 設定 設定 設定 設定 ― SIMV 設定 設定 設定 （強制換気） 設定 （強制換気） 設定 （自発呼吸） SPONT 設定 設定 患者しだい 患者しだい 設定 A/C SPONT SIMV CO₂ は TV（または吸気圧）× 回数で決める CO₂ は PS で決める。量と回数は患者しだ い CO₂ の設定が 2 組。どちらが効いているか 分かりにくい PC では TV の代わりに吸気圧と吸気時間を設定する。PB980 Operator's Manual [5] 10-49 → 酸素化の列はどのモードでも同じ。違うのは CO₂ の列で、A/C は TV、SPONT は PS。 研修医レクチャー | Suzuki 5",
+   "notes": ""
+  },
+  {
+   "img": "s06.webp",
+   "thumb": "t06.webp",
+   "text": "PA R T 1 · O X Y G E N AT I O N シャントが大きいと、FiO₂ だけでは酸素化は上がらない iso-shunt 線の読み方 • シャント 30% を超えると、FiO₂ 1.0 でも PaO₂ は わずかしか上がらない • シャントを減らすのは PEEP（と体位・原因の治 療） PEEP は高いほど良い、ではない • 高 PEEP と低 PEEP の比較で死亡に差なし（24.9% vs 27.5%、ALVEOLI） • FiO₂ と PEEP は組にして調節する 左図は計算による概算（Hb 12 g/dL などを仮定）。考え方は Benatar 1973 [1]。Brower 2004 [3] → FiO₂ を上げても SpO₂ が上がらなければ、開いていない肺（シャント）を疑い PEEP を考える。 研修医レクチャー | Suzuki 6",
+   "notes": ""
+  },
+  {
+   "img": "s07.webp",
+   "thumb": "t07.webp",
+   "text": "PA R T 1 · C O 2 CO₂ は分時換気量で決まる ― ただし死腔の分は効かない PaCO₂ を下げたい 1 回換気量を減らすとき 呼吸回数を増やすか、1 回換気量を増やす 死腔の割合が増えるので、そのぶん回数を増やしても PaCO₂ は上 がりやすい → 浅く速い呼吸は、分時換気量が同じでも CO₂ を吐けない。 研修医レクチャー | Suzuki 7",
+   "notes": ""
+  },
+  {
+   "img": "s08.webp",
+   "thumb": "t08.webp",
+   "text": "PA R T 2 波形を読むための 1 本の式 気道内圧 ＝ 流量 × 抵抗 ＋ 量 ／ コンプライアンス ＋ PEEP → モードの違いは、この式のどれを呼吸器が決めるかの違い。 研修医レクチャー | Suzuki 8",
+   "notes": ""
+  },
+  {
+   "img": "s09.webp",
+   "thumb": "t09.webp",
+   "text": "PA R T 2 · E Q U AT I O N O F M O T I O N Ppeak と Pplat の差が抵抗、Pplat と PEEP の差が弾性 運動方程式 Paw ＋ Pmus ＝ 流量 × R ＋ VT ／ C ＋ PEEP 読み方 • 吸気ポーズで流量をゼロにすると、抵抗の 分が消えて Pplat が残る • Pmus は患者の吸う力。自発呼吸があると式 に加わり、Pplat は正しく測れない 波形は 1 コンパートメントモデルの計算（R・C は仮定値）。Pplat・Cstat の測り方はシリーズ #1。Chatburn 2014 [4] → Ppeak だけ高い → 抵抗（痰・チューブ・気管支攣縮）。Pplat も高い → 肺・胸郭が硬い。 研修医レクチャー | Suzuki 9",
+   "notes": ""
+  },
+  {
+   "img": "s10.webp",
+   "thumb": "t10.webp",
+   "text": "PA R T 2 · V O L U M E O R P R E S S U R E 量を決めるか、圧を決めるか ― 肺が硬くなったときの違い VC（量規定） • 1 回換気量は保証 • 肺が硬くなると圧が上がる → ↑Ppeak アラーム PC（圧規定） • 圧の上限は保証 • 肺が硬くなると量が減る → ↓VT・ ↓分時換気量 アラーム 左図は計算による schematic。PB980 の A/C では VC・PC・VC+ を選べる。PB980 Operator's Manual [5] 10-49 → VC は圧のアラーム、PC は換気量のアラームで、患者まかせの側を見張る。 研修医レクチャー | Suzuki 10",
+   "notes": ""
+  },
+  {
+   "img": "s11.webp",
+   "thumb": "t11.webp",
+   "text": "PA R T 3 モード ― A/C と SPONT で足りる モードは「強制換気」と「自発呼吸」の組み合わせ方。 → SIMV・BiLevel・APRV・PAV+ は、その上に何を足したかで理解する。 研修医レクチャー | Suzuki 11",
+   "notes": ""
+  },
+  {
+   "img": "s12.webp",
+   "thumb": "t12.webp",
+   "text": "PA R T 3 · B R E AT H T Y P E S モードを分ける前に、呼吸を 2 種類に分ける 呼吸の種類 始まり（トリガー） 吸気中に決めるもの 終わり（サイクル） PB980 での名前 強制換気（VC） 時間 または 患者 流量・1 回換気量 設定量を送ったら VC 強制換気（PC） 時間 または 患者 吸気圧 設定した吸気時間 PC・VC+ 自発呼吸（PS） 患者 吸気圧（上乗せ分） 流量が ESENS まで落ちたら PS・TC・VS・PAV+ モード 強制換気 自発呼吸 A/C 毎回（すべての呼吸が強制換気） なし SIMV 設定回数だけ その間に PS・TC SPONT なし（無呼吸時のバックアップのみ） 毎回（PS・TC・VS・PAV+） BiLevel PH と PL の切り替え（PC） PH でも PL でも自由に（PS・TC） 分類の考え方は Chatburn 2014 [4]。モードと呼吸の組み合わせは PB980 Operator's Manual [5] Table 10-8（10-49） → 吸気の終わりを呼吸器が決めれば強制換気、患者が決めれば自発呼吸。 研修医レクチャー | Suzuki 12",
+   "notes": ""
+  },
+  {
+   "img": "s13.webp",
+   "thumb": "t13.webp",
+   "text": "PA R T 3 · A / C A/C ― 患者が吸い始めても、送るのは同じ強制換気 決めるもの • 回数、1 回換気量（VC）または吸気圧 と吸気時間（PC） • 患者がトリガーすると回数は設定より 増える 使う場面 • 鎮静・筋弛緩下、ショック、重症の急 性期 • 呼吸を完全にまかせたいとき 左図は計算による schematic。\"only mandatory breaths are delivered\" PB980 Operator's Manual [5] 10-25〜10-26 → A/C は「毎回の呼吸を呼吸器が決める」。患者が決められるのは始まるタイミングだけ。 研修医レクチャー | Suzuki 13",
+   "notes": ""
+  },
+  {
+   "img": "s14.webp",
+   "thumb": "t14.webp",
+   "text": "PA R T 3 · S P O N T SPONT（PS＋PEEP）― 始まりも終わりも患者が決める 決めるもの • PS（上乗せ圧）、PEEP、FiO₂ • ESENS：最大流量の何 % で吸気を終える か。上げると吸気が早く終わる • Rise time：圧の立ち上がりの速さ バックアップ • 無呼吸になったら無呼吸換気（PC か VC）が入る 左図は計算による schematic（ESENS 25% は例）。ESENS 1〜80%、Rise time 1〜100% PB980 Operator's Manual [5] 10-20, 10-56〜10-57, 11-9 → SPONT では 1 回換気量と回数は患者しだい。だから VT・回数・分時換気量のアラームで見張る。 研修医レクチャー | Suzuki 14",
+   "notes": ""
+  },
+  {
+   "img": "s15.webp",
+   "thumb": "t15.webp",
+   "text": "PA R T 3 · S I M V SIMV ― 設定の違う 2 種類の呼吸が混ざる 設定が 2 組ある • 強制換気：回数・VT（または吸気圧・吸 気時間） • 自発呼吸：PS・ESENS • 強制換気の枠（Tm）で患者がトリガー しなければ機械が送る 強制換気の呼吸でも吸っている • 左図で強制換気の圧がへこむのは、患者 がまだ吸っているため 左図は計算による schematic。Tm・Ts と自発呼吸の設定は PB980 Operator's Manual [5] 10-28〜10-32 → どちらの呼吸に当たるかで 1 回換気量が変わる。設定も 2 組あり、どちらが効いているか分かりにくい。 研修医レクチャー | Suzuki 15",
+   "notes": ""
+  },
+  {
+   "img": "s16.webp",
+   "thumb": "t16.webp",
+   "text": "PA R T 3 · W H Y N O T S I M V SIMV を使わない理由 MARINI 1988 ・ IMSAND 1994 ESTEBAN 1995 ・ BROCHARD 1994 ESTEBAN 2008 ・ 国際観察研究 努力は減らない 離脱が遅い 11% → 1.6% 強制換気の呼吸でも患者の努力（圧時間 積）は自発呼吸とほぼ同じ。呼吸ごとには 調節されない（n = 12、n = 5） IMV は 4 つの離脱法で最も遅い（1 日 1 回 SBT との成功率比 2.83）。失敗率 SIMV 42% vs PS 23% SIMV の使用率（1998 年 vs 2004 年、同じ 107 ICU の比較） どう言えるか A/C にも弱点はある • SIMV は 1 回換気量も努力も揃わず、離脱も遅い • 死亡を増やすことを示した RCT はない。生理研究は少人数 • 二重トリガー（1 回の吸気で 2 回送る）は A/C で多い（Thille 2006） • モードを選んだ後も、波形で同調を見る Marini 1988 [7]; Imsand 1994 [8]; Leung 1997 [9]; Esteban 1995 [11]; Brochard 1994 [10]; Esteban 2008 [12]; Thille 2006 [6] → SIMV を使う利点は示されていない。A/C と SPONT の 2 つで、まかせるか、まかせないかを明確にする。 研修医レクチャー | Suzuki 16",
+   "notes": "Esteban 1995 の抄録の表記は IMV。Leung 1997 では、IMV に PS 10 を足すと強制換気の呼吸でも努力が減った。つまり SIMV で努力を減らすには結局 PS を足すことになり、それなら SPONT（PS）や A/C を選べばよい。「危険」と言い切れる転帰のデータはないので、講義では『利点がなく、揃わない』と説明する。"
+  },
+  {
+   "img": "s17.webp",
+   "thumb": "t17.webp",
+   "text": "PA R T 3 · T W O M O D E S A/C と SPONT の使い分け A/C SPONT（PS＋PEEP） 呼吸を呼吸器にまかせる 呼吸を患者にまかせる 場面 鎮静・筋弛緩、ショック、重症 ARDS の初 期、喘息の重積 場面 回復期、鎮静を浅くしたとき、SBT（シ リーズ #2） 決める VT（VC）または 吸気圧・吸気時間（PC）、 回数 決める PS・PEEP・FiO₂、ESENS 見張る VC なら Ppeak・Pplat、PC なら VT 見張る VT・回数・分時換気量、努力の強さ 注意 頻呼吸で過換気・吐き切れない 注意 駆動が強すぎると大きな VT（PART 5） → 迷ったら「今、呼吸を患者にまかせてよいか」を問う。 研修医レクチャー | Suzuki 17",
+   "notes": ""
+  },
+  {
+   "img": "s18.webp",
+   "thumb": "t18.webp",
+   "text": "PA R T 3 · B I L E V E L A N D A P R V BiLevel と APRV ― 2 つの圧を行き来する PB980 の BiLevel • PH・PL・TH・TL を設定。PH は PL より 5 cmH₂O 以上高く • PS は PL を基準にかかる • 切り替えは患者の呼吸に同期 APRV • TH:TL が 4:1 を超える設定。TL は通常 1 秒 未満（説明書 A-8） 左図は計算による schematic。PB980 Operator's Manual [5] A-3〜A-8 → APRV は BiLevel の時間設定の一つ。「吐き切らせない」ことを前提にした、設定の精度が要るモード。 研修医レクチャー | Suzuki 18",
+   "notes": ""
+  },
+  {
+   "img": "s19.webp",
+   "thumb": "t19.webp",
+   "text": "PA R T 3 · A P R V E V I D E N C E APRV のエビデンスは限られている PUTENSEN 2001 ・ 外傷 30 例 ZHOU 2017 ・ 単施設 138 例 MIRELES-CABODEVILA 2016 15 vs 21 日 VFD 19 vs 2 日 設定しだい 人工呼吸期間（APRV vs PCV）。対照群は筋 弛緩下で、「自発呼吸 vs 筋弛緩」の比較で もある ICU 死亡 19.7% vs 34.3%（P = 0.053、有意差 なし）。対照群の VFD が極端に少ない とても短い呼気時間に依存し、わずかなず れで虚脱や大きな VT が起こりうる。転帰改 善の証拠はない 推進派の総説も認めている • Habashi 2005：死亡率や人工呼吸離脱日数の改善を示すには、今後の RCT が必要 • 自発呼吸を残せることが利点とされるが、強い自発呼吸は肺傷害を悪化させうる（PART 5） Putensen 2001 [13]; Zhou 2017 [15]; Mireles-Cabodevila 2016 [16]; Habashi 2005 [14]; Brochard 2017 [30] → 研修医が最初に選ぶモードではない。使うときは指導医と設定と観察項目を決めてから。 研修医レクチャー | Suzuki 19",
+   "notes": ""
+  },
+  {
+   "img": "s20.webp",
+   "thumb": "t20.webp",
+   "text": "PA R T 3 · PAV + PAV+ ― 患者の吸う力に比例して支える しくみ PB980 での条件 R と C を 4〜10 呼吸ごとの短いポーズで推 定し、%Supp（5〜95%）の割合で支える SPONT 専用。PBW ≥ 25 kg、チューブ内径 6〜10 mm、NIV 不可 XIROUCHAKI 2008 ・ 208 例 失敗 11.1% vs 22.0% PAV+ vs PS。重大な非同調 5.6% vs 29.0% 上図は schematic。Younes 1992 [17]; Xirouchaki 2008 [18]; PB980 Operator's Manual [5] 付録 C（C-1〜C-15） → PAV+ は努力に合わせて支える。駆動そのものが強すぎる患者では、大きな VT もそのまま支える。 研修医レクチャー | Suzuki 20",
+   "notes": ""
+  },
+  {
+   "img": "s21.webp",
+   "thumb": "t21.webp",
+   "text": "PA R T 3 · S U M M A R Y モードの整理 ― 何を決め、何が患者まかせか モード 呼吸器が決める 患者まかせ 位置づけ A/C（VC） VT・流量・回数（下限） トリガーのタイミング、回数の上乗せ 基本。肺が硬くなると圧が上が る A/C（PC） 吸気圧・吸気時間・回数（下限） VT（肺の硬さと努力で変わる） 基本。VT のアラームが大事 SPONT（PS） 上乗せ圧・PEEP 回数・VT・吸気時間 基本。回復期と SBT SIMV 強制換気の回数・VT ＋ 自発の PS その間の呼吸 使わない BiLevel / APRV 2 つの圧と時間 その上の自発呼吸 目的があるときに PAV+ 支える割合（%） 努力に比例した VT・回数 目的があるときに → 日常は A/C と SPONT。ほかのモードは目的がはっきりしたときに、指導医と使う。 研修医レクチャー | Suzuki 21",
+   "notes": ""
+  },
+  {
+   "img": "s22.webp",
+   "thumb": "t22.webp",
+   "text": "PA R T 4 I:E と吐き切り 吸気は呼吸器が押し込む。呼気は肺が自分で戻る。 → 呼気に必要な時間は、抵抗 × コンプライアンス で決まる。 研修医レクチャー | Suzuki 22",
+   "notes": ""
+  },
+  {
+   "img": "s23.webp",
+   "thumb": "t23.webp",
+   "text": "PA R T 4 · I : E 呼気時間は「1 呼吸の時間 − 吸気時間」で決まる 回数（/分） 1 呼吸の時間 吸気時間 呼気時間 I:E 15 4.0 秒 1.0 秒 3.0 秒 1:3 20 3.0 秒 1.0 秒 2.0 秒 1:2 30 2.0 秒 1.0 秒 1.0 秒 1:1 呼気時間を一番大きく変えるのは回数 PB980 が受け付けない設定 • 吸気時間を 0.2 秒削るより、回数を減らすほうが呼気時間は 大きく延びる • SPONT では回数は患者が決める • I:E ≥ 4:1、TI ≥ 8 秒、TE ≤ 0.2 秒になる設定 • 吸気時間を決めるつまみは呼吸の種類で違う（次のスライ ド） PB980 Operator's Manual [5] 4-18, 10-50〜10-54 → 回数を増やすと、削られるのは呼気時間。 研修医レクチャー | Suzuki 23",
+   "notes": ""
+  },
+  {
+   "img": "s24.webp",
+   "thumb": "t24.webp",
+   "text": "PA R T 4 · I : E O N P B 9 8 0 PB980 で吸気時間を変えるつまみ 呼吸の種類 吸気時間を決めるもの 吸気時間を短くするには 注意 VC（量規定） VT・VMAX・流量波形・TPL （TI は直接設定できない） VMAX を上げる 矩形波にする（漸減波の約半分） TPL を 0 にする 流量を上げると Ppeak が上がる （流量 × R） PC・VC+（圧規定） TI を直接設定 （鍵のアイコンで TI・I:E・TE のどれを固定 するか選ぶ） TI を短くする 吸気が終わりきる前に切ると VT が減る PS（SPONT・SIMV の自 発） 患者の吸気 ＋ ESENS （最大流量の何 % で吸気を終えるか） ESENS を上げる （上げるほど吸気時間は短い） 患者の吸気の終わりに合わせる。 回数は患者が決める 閉塞性で吐き切れないとき：① 回数を減らす（分時換気量を下げる）→ ② VC なら VMAX↑・矩形波・TPL 0、PC なら TI↓、PS なら ESENS↑ \"The higher the ESENS setting, the shorter the inspiratory time\" PB980 Operator's Manual [5] 4-18, 10-51〜10-54, 10-57 → VC は VMAX、PC は TI、PS は ESENS。ただし吐き切れないときは、まず回数を減らす。 研修医レクチャー | Suzuki 24",
+   "notes": "取扱説明書の記載：VC では VT と VMAX と流量波形で TI・TE・I:E が決まり、TI は直接設定できない。VT と VMAX が同じなら、漸減波から矩形波に変えると TI はほぼ半分になる。TPL（プラトー時間）は I:E の計算上、吸気に含まれる。PC・VC+ では鍵のアイコンで、回数を変えたときに TI・I:E・TE のどれを保つかを選ぶ。PS・VS では ESENS が最大吸気流量の何 % で呼気に切り替えるかを決め、高いほど吸気時間が短い。ESENS は Rise time を先に合わせてから調整するよう書かれている。"
+  },
+  {
+   "img": "s25.webp",
+   "thumb": "t25.webp",
+   "text": "PA R T 4 · V C T I M I N G VC の吸気時間 ― 流量波形と TPL で決まる A. 矩形波か漸減波か • 同じ VT・VMAX なら、漸減波の TI は矩形波 の約 2 倍 • 矩形波は TI が短いが Ppeak は高い • Rstat は矩形波でしか出ない（シリーズ #1） B. TPL（プラトー時間、0〜2 秒） • 流量ゼロの保持も I:E では吸気に数える • Pplat は毎回見えるが、呼気を削る。閉塞性 では 0 に 左図は計算による schematic（R 10、C 0.05、VT 500 mL）。PB980 Operator's Manual [5] 6-40〜6-41, 10-51〜10-53 → VC で吸気時間を削るなら、VMAX を上げる・矩形波にする・TPL を 0 にする。 研修医レクチャー | Suzuki 25",
+   "notes": "取扱説明書：VC では VT と VMAX と流量波形で TI・TE・I:E が決まり、TI は直接設定できない。VT と VMAX が同じなら、漸減波から矩形波に変えると TI はほぼ半分になる（10-51〜10-52）。TPL は VC の強制換気だけで使え、I:E の計算では吸気に含まれる（10-51）。Rstat は VC・矩形波でだけ算出される（6-40〜6-41）。"
+  },
+  {
+   "img": "s26.webp",
+   "thumb": "t26.webp",
+   "text": "PA R T 4 · P C T I M I N G PC の TI ― 吸気流量がゼロに戻るまでが意味のある時間 TI が短すぎる • 吸気流量が残ったまま切れる → VT が減る • TI を延ばせば VT は増える TI が長すぎる 流量がゼロに戻った後の TI は、VT を増やさず呼気時間を削 るだけ 目安 約 3τ。PB980 の 3TauI 表示で確かめる 左図は計算による schematic（R 10、C 0.05、吸気圧 10 cmH₂O）。3TauI PB980 Operator's Manual [5] 6-42 → PC では吸気流量の波形を見る。ゼロに戻った後も続く TI は、VT を増やさず呼気時間を削るだけ。 研修医レクチャー | Suzuki 26",
+   "notes": "取扱説明書 6-42：3TauI は吸気時定数の 3 倍で、圧規定換気では設定した TI が適切かを判断するのに使う。例外として、ARDS で酸素化のために平均気道内圧を上げたいときは、あえて TI を長くすることがある（PART 1）。その場合も呼気流量がゼロに戻っているかは確かめる。"
+  },
+  {
+   "img": "s27.webp",
+   "thumb": "t27.webp",
+   "text": "PA R T 4 · T I M E C O N S TA N T 吐き切るには、時定数の 3 倍の時間が要る 臨床での意味 • 呼気は受動的。呼吸器は吐かせるこ とはできない • 呼気時間が 3τ より短いと、吐き残し が次の呼吸に積み重なる（dynamic hyperinflation） • 吐き残しの圧が PEEPi（auto-PEEP） 上図は指数関数による schematic。Marini 2011 [23] → τ ＝ R × C。抵抗が高い肺ほど、吐き切るのに時間がかかる。 研修医レクチャー | Suzuki 27",
+   "notes": ""
+  },
+  {
+   "img": "s28.webp",
+   "thumb": "t28.webp",
+   "text": "PA R T 4 · O B S T R U C T I V E V S R E S T R I C T I V E 閉塞性と拘束性では、足りなくなるものが違う 拘束性（ARDS・肺線維症など） 閉塞性（COPD・喘息） • τ が短く、呼気時間は足りやすい → 回数を増やせる • 問題は圧。VT 6 mL/kg（予測体重）、Pplat ≤ 30（ARDSNet） • τ が長く、呼気時間が足りない • 分時換気量を減らす、吸気時間を短くする、高 CO₂ を許容する 上図は計算による schematic。ARDSNet 2000 [2]; Tuxen 1987 [20]; Darioli 1984 [22] → 閉塞性は呼気時間、拘束性は肺にかかる圧が問題になる。 研修医レクチャー | Suzuki 28",
+   "notes": ""
+  },
+  {
+   "img": "s29.webp",
+   "thumb": "t29.webp",
+   "text": "PA R T 4 · WAV E F O R M S 吐き切れているかは、流量−時間波形で見る 流量−時間 圧で確かめる 自発呼吸では 呼気流量がゼロに戻る前に次の吸気 → 吐き 切れていない 呼気ポーズで PEEPi を測る（A/C・SIMV・ BiLevel、SPONT 不可） 吸おうとしてもトリガーされない呼吸（空 振り）が PEEPi のサイン 上図は計算による schematic。Laghi 2012 [24]; Pepe 1982 [19]; Marini 2011 [23]; PB980 Operator's Manual [5] 10-43〜10-44 → 呼気の流量が基線（ゼロ）に戻ってから次の吸気が始まっているか。毎回ここを見る。 研修医レクチャー | Suzuki 29",
+   "notes": ""
+  },
+  {
+   "img": "s30.webp",
+   "thumb": "t30.webp",
+   "text": "PA R T 4 · W H AT T O C H A N G E 吐き切れないとき、何を動かすか 効く順番 許容すること • ① 回数を減らす・VT を減らす（分時換気量を下げる） • ② 吸気時間を短くする（VC：VMAX↑・TPL 0、PC：TI↓、 PS：ESENS↑） • ③ 気管支拡張薬、痰の吸引、チューブの閉塞を解除 • 高 CO₂：酸素化を保ち、高い気道内圧を避ける（Darioli 1984） • 頻呼吸の原因（不穏・痛み・発熱）は鎮静と治療で下げる LEATHERMAN 2004 ・ 重症喘息 回数 18 → 12 → 6 で Pplat 25.4 → 23.3 → 21.3 分時換気量が 10 L/min 以下なら、呼気時間を延ばす効果は小さい（呼気終末の流量がすでに少ないため） Tuxen 1987 [20]; Leatherman 2004 [21]; Darioli 1984 [22]; Pepe 1982 [19] → まず分時換気量を下げる。分時換気量が十分低ければ、呼気時間をさらに延ばす効果は小さい。 研修医レクチャー | Suzuki 30",
+   "notes": ""
+  },
+  {
+   "img": "s31.webp",
+   "thumb": "t31.webp",
+   "text": "PA R T 5 肺を守る指標 ― ΔP と経肺圧 1 回換気量を「使える肺の大きさ」で割って考える。 → 肺にかかる圧は、気道内圧から胸壁の分を引いたもの。 研修医レクチャー | Suzuki 31",
+   "notes": ""
+  },
+  {
+   "img": "s32.webp",
+   "thumb": "t32.webp",
+   "text": "PA R T 5 · D R I V I N G P R E S S U R E ドライビングプレッシャー（ΔP）＝ Pplat − PEEP AMATO 2015 ・ ARDS の RCT 9 件 3562 例 ΔP 1 SD（約 7）↑ で死亡 RR 1.41 VT や PEEP の変更は、ΔP を下げたときだけ生存と関連 PB980 では ΔP を表示する機能はない。吸気ポーズの Pplat から PEEP を引いて計算 する（シリーズ #1） 上図は schematic。Amato 2015 [25]（観察研究の二次解析）; Laffey 2016 [26]; PB980 Operator's Manual [5] （記載なし） → 同じ 500 mL でも、使える肺が小さければ ΔP は大きい。ΔP は吸気ポーズで Pplat を測って計算する。 研修医レクチャー | Suzuki 32",
+   "notes": ""
+  },
+  {
+   "img": "s33.webp",
+   "thumb": "t33.webp",
+   "text": "PA R T 5 · S P O N TA N E O U S E F F O R T 自発呼吸があると、見えている圧は肺にかかる圧ではない 見えない圧 Pmus 強い自発呼吸の害（P-SILI） • 肺を広げる圧 ＝ 気道内圧 ＋ 患者の吸う力 • 吸う力は気道内圧の波形には出ない • 強い吸気努力と大きな経肺圧の振れが、肺傷害を進めうる （見解論文） • 背側の肺だけ強く引かれ、肺の中で空気が移動する （pendelluft、動物実験） • 吸気ポーズの Pplat も、努力があると正しく測れない 臨床で見ること SPONT で VT が大きい・回数が多い・呼吸補助筋を使っている → 支持を増やすだけでなく、駆動が強い原因（低酸素・アシドー シス・痛み・不安）を治療し、必要なら A/C と鎮静に戻す。 Brochard 2017 [30]; Yoshida 2013 [31]; 努力の指標 P0.1 はシリーズ #1 → SPONT で気道内圧が低くても、患者が強く吸っていれば肺は大きく引き伸ばされている。 研修医レクチャー | Suzuki 33",
+   "notes": ""
+  },
+  {
+   "img": "s34.webp",
+   "thumb": "t34.webp",
+   "text": "PA R T 5 · S T R O N G E F F O R T O N A / C A/C でも、強い吸気努力は設定を超えて肺に入る なぜ起こるか • PC・VC+：肺を広げる圧 ＝ 設定圧 ＋ 患者の吸う力 • VC：吸気が終わっても吸い続け、も う 1 回送られる POHLMAN 2008 ・ ALI 20 例 設定の 1.62 倍 低 VT 換気中の breath stacking は平均 2.3 回/分、VT は 10.1 mL/kg。鎮静は深め （RASS 中央値 −4）でも起きた 左図は計算による schematic。Pohlman 2008 [32]; Thille 2006 [6] → A/C は「量の上限」を保証しない。患者が強く吸えば、設定より大きな VT が肺に入る。 研修医レクチャー | Suzuki 34",
+   "notes": ""
+  },
+  {
+   "img": "s35.webp",
+   "thumb": "t35.webp",
+   "text": "PA R T 5 · S E D AT I O N A N D A N A L G E S I A 努力が強すぎるとき、設定では止められない ― 鎮痛・鎮静 1 原因を治す 低酸素・アシドーシス・発熱・ショック・痛み・不安・せん妄・痰 2 同調を合わせる トリガー感度、流量不足、吸気時間のずれ。VT を上げると stacking は減った（Pohlman） 3 鎮痛を先に 痛みを評価して鎮痛薬から。次に鎮静を目標の深さまで（PADIS） 4 それでも続けば 重症 ARDS では筋弛緩を検討。ただし routine には使わない PAPAZIAN 2010 ・ 重症 ARDS 340 例 ROSE 2019 ・ 中等症〜重症 ARDS 1006 例 筋弛緩 48 時間で補正後 90 日死亡 HR 0.68 対照は浅い鎮静。90 日死亡 42.5% vs 42.8% Devlin 2018（PADIS）[33]; Pohlman 2008 [32]; Papazian 2010 [34]; Moss 2019 [35]; Brochard 2017 [30] → まだ人工呼吸が必要で努力が強すぎるなら、設定ではなく鎮痛・鎮静で駆動を下げる。 研修医レクチャー | Suzuki 35",
+   "notes": "SPONT に移すのは、努力が適切な強さに落ち着いてから。強い努力のまま SPONT にすると VT も経肺圧も大きくなる（P-SILI）。鎮静を深くしても breath stacking は消えないことがある（Pohlman 2008 は RASS 中央値 −4）。その場合は同調の設定、筋弛緩も含めて指導医と相談する。"
+  },
+  {
+   "img": "s36.webp",
+   "thumb": "t36.webp",
+   "text": "PA R T 5 · T R A N S P U L M O N A R Y P R E S S U R E 経肺圧 ― 肺そのものにかかる圧 測り方 • 食道内圧を胸腔内圧の代わりに使う • 閉塞テストで比が 1 に近ければ測定 は妥当（Akoumianaki 2014） PB980 では • 食道内圧の入力はない（説明書に記 載なし）。別の測定系が要る 左図は schematic。Akoumianaki 2014 [27] → 同じ気道内圧でも、胸壁が硬ければ肺への圧は小さく、強く吸っていれば大きい。 研修医レクチャー | Suzuki 36",
+   "notes": ""
+  },
+  {
+   "img": "s37.webp",
+   "thumb": "t37.webp",
+   "text": "PA R T 5 · E S O P H A G E A L P R E S S U R E T R I A L S 食道内圧で PEEP を決めると、転帰は良くなるか TALMOR 2008 ・ EPVent ・ 61 例 BEITLER 2019 ・ EPVent-2 ・ 200 例 P/F ＋88 mmHg 差なし 72 時間後の酸素化が改善（主要評価項目は酸素化）。予定より早く中 止された pilot RCT 死亡と人工呼吸離脱日数の複合で差なし（P = .92）。28 日死亡 32.4% vs 30.6% 研修医として押さえること • 肥満・腹部膨満では Pplat が高くても肺への圧は高くないことがある（胸壁の分） • 逆に、自発呼吸が強いと Pplat が低くても肺への圧は高いことがある Talmor 2008 [28]; Beitler 2019 [29] → 経肺圧は「なぜ圧が高いか」を理解する道具。PEEP の決め方としての有効性は示されていない。 研修医レクチャー | Suzuki 37",
+   "notes": ""
+  },
+  {
+   "img": "s38.webp",
+   "thumb": "t38.webp",
+   "text": "CHECKLIST 設定の手順 ― 毎回この順で見る 1 モード まかせるなら A/C（VC か PC）、患者が吸えるなら SPONT（PS＋PEEP） 2 酸素化 FiO₂ と PEEP を組にして調節。FiO₂ で上がらなければシャントを疑う 3 CO₂ VT は予測体重で決め、PaCO₂ は回数で合わせる 4 呼気時間 流量−時間波形で、呼気流量がゼロに戻っているか 5 肺への圧 吸気ポーズで Pplat を測り、ΔP ＝ Pplat − PEEP を計算する 6 アラーム VC なら圧、PC・SPONT なら VT と分時換気量を見張る → モード → 酸素化 → CO₂ → 呼気時間 → 肺にかかる圧 → アラーム。 研修医レクチャー | Suzuki 38",
+   "notes": ""
+  },
+  {
+   "img": "s39.webp",
+   "thumb": "t39.webp",
+   "text": "CLOSING Take-home message つまみ 酸素化は FiO₂ と PEEP、CO₂ は回数 × 1 回換気量 モード A/C と SPONT で足りる。SIMV は量も努力も揃わない 呼気 流量がゼロに戻るまで待つ。閉塞性は分時換気量を下げる 肺への圧 ΔP ＝ Pplat − PEEP。強すぎる努力は設定でなく鎮痛・鎮静で → モードの名前より、何を呼吸器が決め、何が患者まかせかを見る。 研修医レクチャー | Suzuki 39",
+   "notes": ""
+  },
+  {
+   "img": "s40.webp",
+   "thumb": "t40.webp",
+   "text": "REFERENCES References（1/4） [1] Benatar SR, Hewlett AM, Nunn JF. The use of iso-shunt lines for control of oxygen therapy. Br J Anaesth. 1973;45(7):711-718. PMID 4581075 [2] Acute Respiratory Distress Syndrome Network; Brower RG, Matthay MA, Morris A, et al. Ventilation with lower tidal volumes as compared with traditional tidal volumes for acute lung injury and the acute respiratory distress syndrome. N Engl J Med. 2000;342(18):1301-1308. PMID 10793162 [3] Brower RG, Lanken PN, MacIntyre N, et al. Higher versus lower positive end-expiratory pressures in patients with the acute respiratory distress syndrome. N Engl J Med. 2004;351(4):327-336. PMID 15269312 [4] Chatburn RL, El-Khatib M, Mireles-Cabodevila E. A taxonomy for mechanical ventilation: 10 fundamental maxims. Respir Care. 2014;59(1",
+   "notes": ""
+  },
+  {
+   "img": "s41.webp",
+   "thumb": "t41.webp",
+   "text": "REFERENCES References（2/4） [12] Esteban A, Ferguson ND, Meade MO, et al. Evolution of mechanical ventilation in response to clinical research. Am J Respir Crit Care Med. 2008;177(2):170-177. PMID 17962636 [13] Putensen C, Zech S, Wrigge H, et al. Long-term effects of spontaneous breathing during ventilatory support in patients with acute lung injury. Am J Respir Crit Care Med. 2001;164(1):43-49. PMID 11435237 [14] Habashi NM. Other approaches to open-lung ventilation: airway pressure release ventilation. Crit Care Med. 2005;33(3 Suppl):S228-S240. PMID 15753733 [15] Zhou Y, Jin X, Lv Y, et al. Early application of airway pressure release ventilation may reduce the duration of mechanical ventilation in acute respiratory distress syndrome. Intensive Care Med. 2017;43(11):1648-1659. PMID 28936",
+   "notes": ""
+  },
+  {
+   "img": "s42.webp",
+   "thumb": "t42.webp",
+   "text": "REFERENCES References（3/4） [23] Marini JJ. Dynamic hyperinflation and auto-positive end-expiratory pressure: lessons learned over 30 years. Am J Respir Crit Care Med. 2011;184(7):756-762. PMID 21700908 [24] Laghi F, Goyal A. Auto-PEEP in respiratory failure. Minerva Anestesiol. 2012;78(2):201-221. PMID 21971439 [25] Amato MB, Meade MO, Slutsky AS, et al. Driving pressure and survival in the acute respiratory distress syndrome. N Engl J Med. 2015;372(8):747-755. PMID 25693014 [26] Laffey JG, Bellani G, Pham T, et al. Potentially modifiable factors contributing to outcome from acute respiratory distress syndrome: the LUNG SAFE study. Intensive Care Med. 2016;42(12):1865-1876. PMID 27757516 [27] Akoumianaki E, Maggiore SM, Valenza F, et al. The application of esophageal pressure measurement i",
+   "notes": ""
+  },
+  {
+   "img": "s43.webp",
+   "thumb": "t43.webp",
+   "text": "REFERENCES References（4/4） [34] Papazian L, Forel JM, Gacouin A, et al. Neuromuscular blockers in early acute respiratory distress syndrome. N Engl J Med. 2010;363(12):1107-1116. PMID 20843245 [35] National Heart, Lung, and Blood Institute PETAL Clinical Trials Network; Moss M, Huang DT, Brower RG, et al. Early neuromuscular blockade in the acute respiratory distress syndrome. N Engl J Med. 2019;380(21):1997-2008. PMID 31112383 43 研修医レクチャー | Suzuki",
+   "notes": ""
+  }
+ ]
+}
