@@ -3,12 +3,12 @@
     {
       "id": "vasopressin-vasspr",
       "title": "バソプレシンはいつ足すか",
-      "subtitle": "VASSPR 試験と、ノルアドレナリン・バソプレシンの使い方（論文紹介）",
+      "subtitle": "VASSPR 試験と、ノルアドレナリン・バソプレシンの使い方（論文紹介、SSC 2026 対応）",
       "date": "2026-10-29",
-      "slides": 25,
+      "slides": 26,
       "thumb": "t01.webp",
       "aspect": 1.7778,
-      "rev": "89da12c69e"
+      "rev": "581c60f5de"
     },
     {
       "id": "as-ar-mr-gradient",
