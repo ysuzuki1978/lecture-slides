@@ -1,4 +1,4 @@
-"""docs/ の PWA をヘッドレス Chrome で操作して確認する（decks.json の先頭のスライドを使う）。
+"""docs/ の PWA をヘッドレス Chrome で操作して確認する（decks.json のうち、ノートのある最初のデッキを使う）。
 
   ~/scratch/pwvenv/bin/python tests/e2e.py <スクリーンショットの出力先>
 """
@@ -16,14 +16,22 @@ DOCS = str(Path(__file__).resolve().parent.parent / "docs")
 OUT = Path(sys.argv[1])
 OUT.mkdir(parents=True, exist_ok=True)
 CHROME = glob.glob(os.path.expanduser("~/scratch/chrome/chrome-headless-shell/*/chrome-headless-shell-linux64/chrome-headless-shell"))[0]
-PORT = 8791
+def _free_port():
+    import socket
+    with socket.socket() as so:
+        so.bind(("127.0.0.1", 0))
+        return so.getsockname()[1]
+
+
+PORT = int(os.environ.get("E2E_PORT") or _free_port())  # 8791 などを他のプロセスが使っていても動くように
 CAT = json.loads(Path(DOCS, "decks.json").read_text(encoding="utf-8"))["decks"]
-D = json.loads(Path(DOCS, "decks", CAT[0]["id"], "deck.json").read_text(encoding="utf-8"))
+_ALL = [json.loads(Path(DOCS, "decks", c["id"], "deck.json").read_text(encoding="utf-8")) for c in CAT]
+D = next(d for d in _ALL if any(s["notes"] for s in d["slides"]))  # ノートの表示も試すため、ノートのあるデッキを使う
 ID, N, REV = D["id"], len(D["slides"]), D["rev"]
 NOTE_I = next(i for i, s in enumerate(D["slides"]) if s["notes"])  # ノートのある最初のスライド（0 始まり）
 BASE = f"http://localhost:{PORT}/"
 
-srv = subprocess.Popen([sys.executable, "-m", "http.server", str(PORT), "-d", DOCS], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
+srv = subprocess.Popen([sys.executable, "-m", "http.server", str(PORT), "-b", "127.0.0.1", "-d", DOCS], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL)
 time.sleep(1)
 results = []
 

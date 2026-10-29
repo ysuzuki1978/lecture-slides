@@ -1,0 +1,160 @@
+{
+ "id": "vasopressin-vasspr",
+ "title": "バソプレシンはいつ足すか",
+ "subtitle": "VASSPR 試験と、ノルアドレナリン・バソプレシンの使い方（論文紹介）",
+ "date": "2026-10-29",
+ "rev": "89da12c69e",
+ "aspect": 1.7778,
+ "slides": [
+  {
+   "img": "s01.webp",
+   "thumb": "t01.webp",
+   "text": "研修医向けレクチャー バソプレシンはいつ足すか VASSPR 試験と、ノルアドレナリン・バソプレシンの使い方 論文紹介 Yasuyuki Suzuki, MD, PhD Dept. of Anaesthesiology, Saiseikai Matsuyama Hospital",
+   "notes": ""
+  },
+  {
+   "img": "s02.webp",
+   "thumb": "t02.webp",
+   "text": "KEY MESSAGES 先に結論 ― 3 つ 1 ノルアドレナリンが第一選択 MAP 65 を目標に、早めに、末梢からでも始める。用量は「base か 塩か」を確認してから読む。 2 VASSPR：0.1 でも 0.4 でも同じ バソプレシン 0.03 単位/分の固定量を、ほかの昇圧薬が 0.1 で足す か 0.4 で足すか。28 日死亡 31.8% vs 33.0%（補正 OR 0.98）。 3 開始点は死亡以外の理由で選べる 死亡・腎代替療法・虚血・不整脈は同じ。心原性ショックがやや 多い可能性（探索的）。開始点は施設の取り決めで決めてよい。 → 早く足しても遅く足しても、28 日死亡は変わらなかった。 研修医レクチャー | Suzuki 2",
+   "notes": ""
+  },
+  {
+   "img": "s03.webp",
+   "thumb": "t03.webp",
+   "text": "PA R T 1 ノルアドレナリンの使い方 目標は MAP 65、始めるのは早めに。 → 用量の数字は、製剤の表示単位で 2 倍近く変わる。 研修医レクチャー | Suzuki 3",
+   "notes": ""
+  },
+  {
+   "img": "s04.webp",
+   "thumb": "t04.webp",
+   "text": "PA R T 1 · G U I D E L I N E 敗血症性ショックの昇圧薬 ― SSC 2021 の推奨 # 推奨 強さ・エビデンス 9 MAP の初期目標は 65 mmHg（高い目標より） 強い・中 37 第一選択はノルアドレナリン 強い 44 中心静脈路を待たず、末梢から昇圧薬を始める 弱い・非常に低い 38 ノルアドレナリンで MAP が足りなければ、増量よりバソプレシンを追加 弱い・中 39 ノルアドレナリン＋バソプレシンで足りなければアドレナリンを追加 弱い・低 58 昇圧薬が続くならステロイド静注（NE かアドレナリン ≥ 0.25 µg/kg/min が開始 4 時間以上続いたと き） 弱い・中 SSC 2026 が出ている（Prescott 2026）が全文は未確認。VASSPR の本文によれば、2026 年版のパネル委員自身もバソプレシンを足す量はばらばらだった Evans 2021 [3]。バソプレシンは「usually started when the dose of norepinephrine is in the range of 0.25–0.5 μg/kg/min」。Prescott 2026 [4]; Peltan 2026 [1] → ノルアドレナリンで始め、足りなければバソプレシンを足す。その先がアドレナリンとステロイド。 研修医レクチャー | Suzuki 4",
+   "notes": ""
+  },
+  {
+   "img": "s05.webp",
+   "thumb": "t05.webp",
+   "text": "PA R T 1 · M A P TA R G E T MAP の目標 ― 高くしても良くならない SEPSISPAM 2014 ・ MAP 80–85 vs 65–70 65 TRIAL 2020 ・ 65 歳以上、MAP 60–65 vs 通常 36.6% vs 34.0% 41.0% vs 43.8% 28 日死亡 HR 1.07（0.84–1.38）。高い目標で心房細動が多かった。慢性 高血圧では高い目標で腎代替療法が少なかった 90 日死亡 P = .15。補正 OR 0.82（0.68–0.98）。昇圧薬への曝露を減らし ても死亡は増えなかった 読み方 • MAP 65 を超えて昇圧薬を増やす理由は乏しい • 慢性高血圧の患者では、尿量・腎機能を見ながら個別に考える余地がある（SEPSISPAM のサブグループ） Asfar 2014 [6]; Lamontagne 2020 [7]; Evans 2021 [3] → MAP 65 で十分。高齢者では 60〜65 でも死亡は増えなかった。 研修医レクチャー | Suzuki 5",
+   "notes": ""
+  },
+  {
+   "img": "s06.webp",
+   "thumb": "t06.webp",
+   "text": "P A R T 1 · E A R LY N O R E P I N E P H R I N E ノルアドレナリンは早めに、末梢からでも CENSER 2019 ・ 早期の少量ノルアドレナリン vs 通常 SSC 2021 の推奨 44 76.1% vs 48.4% • 中心静脈路を待たずに末梢から始める（弱い・非常に低 い） • 開始を遅らせないことが目的 6 時間以内のショック離脱（118/155 vs 75/155）。肺水腫 14.4% vs 27.7%、不整脈 11% vs 20%。28 日死亡は 15.5% vs 21.9%（P = 0.15、差な し） 注意 • CENSER の主要評価項目は「ショックの離脱」で、死亡の差は示されていない • 単施設（タイ）の二重盲検試験、310 例 Permpikul 2019 [8]; Evans 2021 [3] → 輸液だけで粘らず、早めに少量のノルアドレナリンを始める。 研修医レクチャー | Suzuki 6",
+   "notes": ""
+  },
+  {
+   "img": "s07.webp",
+   "thumb": "t07.webp",
+   "text": "PA R T 1 · D O S E U N I T S その「0.1」は base か、塩か 表示単位 base に直すには base 0.1 µg/kg/min に相当する表示量 base（ノルアドレナリンそのもの） そのまま 0.10 酒石酸塩（tartrate） ÷2 0.20 重酒石酸塩（bitartrate） ÷ 1.89 約 0.19 塩酸塩（hydrochloride） ÷ 1.22 約 0.12 なぜ重要か VASSPR は base で数えている • 同じ「1 µg/kg/min」でも予測死亡は酒石酸塩 54%、base 83% （Morales 2024） • 小児 ICU の国際調査では 43.9% が自施設の製剤を知らなかった • 閾値は「norepinephrine base or equivalent」（本文） • SCCM/ESICM の声明も base への統一を提唱 換算係数は Morales 2024 [9]; Goyer 2025 [10]; Wieruszewski 2024 [5]; Peltan 2026 [1] → 論文の用量を自施設に当てはめる前に、製剤の表示単位を確かめる。 研修医レクチャー | Suzuki 7",
+   "notes": ""
+  },
+  {
+   "img": "s08.webp",
+   "thumb": "t08.webp",
+   "text": "PA R T 2 バソプレシンの、これまでのエビデンス 置き換えても、早く使っても、死亡は変わらなかった。 → 残った問いは「いつ足すか」。 研修医レクチャー | Suzuki 8",
+   "notes": ""
+  },
+  {
+   "img": "s09.webp",
+   "thumb": "t09.webp",
+   "text": "PA R T 2 · W H Y VA S O P R E S S I N バソプレシンを足す理由 作用 カテコラミンを増やし続ける問題 • V1 受容体を介して末梢血管を収縮させる • 敗血症性ショックでは内因性のバソプレシンが相対的に不 足している • カテコラミンとは別の経路で血圧を支える • 頻脈性不整脈、乳酸アシドーシス、心筋毒性 • 効きが落ちる（タキフィラキシー）、免疫抑制 使い方 0.03 単位/分の固定量で追加する（調整しない）。試験では 0.06 単位/分まで使われた（VANISH） VASSPR 試験計画書 [2]; Evans 2021 [3]; Gordon 2016 [12] → カテコラミンの量を抑えるために、作用の違う昇圧薬を足す。 研修医レクチャー | Suzuki 9",
+   "notes": ""
+  },
+  {
+   "img": "s10.webp",
+   "thumb": "t10.webp",
+   "text": "PA R T 2 · VA S S T A N D VA N I S H 2 つの大きな RCT ― 死亡は変わらなかった VASST 2008 ・ NE ≥ 5 µg /min に追加 VANISH 2016 ・ 早期にバソプレシン vs NE 35.4% vs 39.3% 腎不全なし 57.0% vs 59.2% 28 日死亡、P = 0.26。バソプレシン 0.01〜0.03 単位/分。軽症の層では 26.5% vs 35.7%（P = 0.05、交互作用 P = 0.10） 差 −2.3%（−13.0〜8.5）。腎代替療法は 25.4% vs 35.3%（−9.9%、−19.3〜 −0.6）。死亡に差なし ここから出てきた仮説 • VASST の軽症の層（ノルアドレナリンの量が少ない段階）で良かった → 早く足すほうが良いのでは • ただしサブグループ解析で、交互作用は有意ではない（P = 0.10） Russell 2008 [11]; Gordon 2016 [12] → バソプレシンは「死亡を減らす薬」ではなく「カテコラミンを減らす薬」。 研修医レクチャー | Suzuki 10",
+   "notes": ""
+  },
+  {
+   "img": "s11.webp",
+   "thumb": "t11.webp",
+   "text": "PA R T 2 · O B S E R VAT I O N A L 観察研究：遅く足すほど死亡が多い ― でも因果ではない SACHA 2022 ・ 1610 例 SACHA 2025 ・ 公開データベース 1409 例 aOR 1.21 / 10 µg/min aOR 1.90（28 µg/min） バソプレシン開始時の NE 換算量が 10 µg/min 多いごとに死亡が増える （60 µg/min まで）。開始時の乳酸も関連。開始までの時間は関連なし 9 µg/min と比べた値。72 µg/min では 3.93。開始までの時間も 1 時間ご とに aOR 1.03 限界 • 重症度による交絡：量が多い患者はもともと重症 • 時間との関連は 2 つの研究で食い違う → だから RCT（VASSPR）が必要だった Sacha 2022 [13]; Sacha 2025 [14] → 重症だから量が増え、重症だから死亡が多い。観察研究では順番を決められない。 研修医レクチャー | Suzuki 11",
+   "notes": ""
+  },
+  {
+   "img": "s12.webp",
+   "thumb": "t12.webp",
+   "text": "PA R T 3 VASSPR 試験 バソプレシンを足す開始点は、0.1 か 0.4 か。 → JAMA 2026 年 10 月 14 日オンライン掲載。 研修医レクチャー | Suzuki 12",
+   "notes": ""
+  },
+  {
+   "img": "s13.webp",
+   "thumb": "t13.webp",
+   "text": "PA R T 3 · D E S I G N 試験デザイン ― 病院ごとに方針を入れ替える 項目 内容 デザイン 多施設・オープンラベル・クラスター無作為化・クラスタークロスオーバー（月ごとに方針を入れ替え） 場所・期間 米国 Utah・Idaho の 13 病院、2024 年 2 月〜2025 年 7 月 対象 敗血症性ショックで昇圧薬を受けたすべての成人（除外基準なし、同意は免除）。3959 例 介入 バソプレシン 0.03 単位/分（固定量）を、ほかの昇圧薬の合計が NE 換算 0.1 µg/kg/min で開始 vs 0.4 で開始 実装 注文セットに組み込み、看護師が閾値に達したら開始。電子カルテのアラート 主要評価項目 28 日死亡。主な副次評価項目は 28 日までの腎代替療法なし日数 Peltan 2026 [1]; 試験計画書 [2] → 個々の患者ではなく、病院の方針（プロトコル）を比べた試験。 研修医レクチャー | Suzuki 13",
+   "notes": ""
+  },
+  {
+   "img": "s14.webp",
+   "thumb": "t14.webp",
+   "text": "PA R T 3 · S E PA R AT I O N 2 つの方針で、実際にどれだけ差がついたか 昇圧薬の最大量が 0.07 以上だった 3047 例での値。開始までの時間 1.4 vs 2.2 時間。登録後の昇圧薬の最大量は両群で同じ（0.30 vs 0.29）。厳密な遵守 45.1% vs 65.6% Peltan 2026 [1]（Table 2） → 差はついたが、きれいに分かれたわけではない（使用率 68% vs 43%、開始前の量 0.14 vs 0.34）。 研修医レクチャー | Suzuki 14",
+   "notes": ""
+  },
+  {
+   "img": "s15.webp",
+   "thumb": "t15.webp",
+   "text": "PA R T 3 · R E S U LT S 結果 ― 28 日死亡に差はなかった 主要評価項目 • 28 日死亡 31.8% vs 33.0% • 補正 OR 0.98（0.87〜1.06）、P = .62 副次・探索的評価項目 • 腎代替療法なし日数：両群 29 日 • 90 日死亡 37.9% vs 38.4% • 院内死亡 26.0% vs 26.5% • 昇圧薬なし日数：両群 26 日 Peltan 2026 [1]（Table 3）。想定効果は試験計画書 [2] → 計画で想定した 5.4% の差は否定された。小さな差（2〜3% 程度）までは否定できない。 研修医レクチャー | Suzuki 15",
+   "notes": ""
+  },
+  {
+   "img": "s16.webp",
+   "thumb": "t16.webp",
+   "text": "PA R T 3 · S A F E T Y 安全性 ― 心原性ショックがやや多い可能性（探索的） 事前に決めた安全性の評価項目 低い閾値 高い閾値 補正 OR（95%CI） 臨床的に問題となる不整脈 18.4% 18.1% 1.03（0.89〜1.42） 心原性ショック（新規または持続） 7.4% 6.3% 1.19（1.01〜1.42） 心停止 4.6% 4.4% 1.05（0.74〜1.31） 腸管虚血 ／ 軟部組織の虚血 1.1% ／ 0.8% 1.1% ／ 0.7% 1.00 ／ 1.12 急性冠症候群 0.7% 0.6% 1.32（0.17〜2.10） 昇圧薬の血管外漏出 2.1% 1.8% 1.21（0.66〜2.00） 重度の低ナトリウム血症（< 120） 0.4% 0.4% 1.03（0.37〜4.68） 心原性ショック：17 項目を同時に調べた探索的な解析で、多重比較の補正なし。感度分析では 95%CI が 1 をまたいだ Peltan 2026 [1]（Table 3、本文の考察）。ステロイドの使用は低い閾値の群でやや多かった → 早く足しても虚血・不整脈は増えなかった。心原性ショックの差は探索的で、慎重に読む。 研修医レクチャー | Suzuki 16",
+   "notes": ""
+  },
+  {
+   "img": "s17.webp",
+   "thumb": "t17.webp",
+   "text": "PA R T 3 · S U B G R O U P S サブグループ ― どの患者でも差は見えなかった Peltan 2026 [1]（Figure 2 の数値を抜粋して作図）。探索的な解析 → 年齢・感染源・臓器障害の重さで、効果の違いは示されなかった。 研修医レクチャー | Suzuki 17",
+   "notes": ""
+  },
+  {
+   "img": "s18.webp",
+   "thumb": "t18.webp",
+   "text": "PA R T 3 · C R I T I C A L A P P R A I S A L VASSPR をどう読むか 強み 限界（著者自身も挙げている） • 約 4000 例の大規模な実臨床の試験。試験計画と解析計画を事 前に公開 • 除外基準なし ― 実際の患者層にそのまま当てはまる • オープンラベル。方針の遵守は部分的で、軽症の患者も含むため差 が薄まる • 病院内の相関が想定より大きく（0.021 vs 計画 0.003）、検出力に影 響した可能性 • 統合された 1 つの医療グループ。0.4 よりずっと遅く足す施設には当 てはまらない • 時間で決める閾値や、個々の患者の予測は試していない • 主要評価項目は客観的な 28 日死亡 • 病院・季節の偏りを月ごとの入れ替えで減らした 95%CI（−2.7〜1.3%）は、VASST のサブグループで示唆された 9% の死亡減少を否定する。ただし小さな差は否定できない。 Peltan 2026 [1]; 試験計画書 [2] → 「早く足しても死亡は減らない」と言える。「どちらでも同じ」と言い切るには限界もある。 研修医レクチャー | Suzuki 18",
+   "notes": ""
+  },
+  {
+   "img": "s19.webp",
+   "thumb": "t19.webp",
+   "text": "PA R T 3 · P L A C E I N E V I D E N C E これまでの試験と合わせると 試験 問い 結果（死亡） VASST 2008 NE に追加するか（NE ≥ 5 µg/min） 差なし（35.4% vs 39.3%）。軽症の層で良い傾向 VANISH 2016 最初からバソプレシンにするか 差なし。腎代替療法は少なかった VASSPR 2026 早く足すか（0.1 vs 0.4） 差なし（31.8% vs 33.0%）。軽い段階で足しても益は示さ れなかった 研修医への伝え方 • バソプレシンは死亡を減らす薬ではない。ノルアドレナリンの量を抑える手段の一つ • 開始点は 0.1〜0.4（base）の範囲では死亡に差がない。施設の取り決めに従い、不整脈・副作用などの理由で早めることもある Russell 2008 [11]; Gordon 2016 [12]; Peltan 2026 [1] → バソプレシンを「いつ・どう」使っても、死亡は大きくは変わらない ― 3 つの RCT が同じ方向。 研修医レクチャー | Suzuki 19",
+   "notes": ""
+  },
+  {
+   "img": "s20.webp",
+   "thumb": "t20.webp",
+   "text": "PA R T 4 実践の手順 MAP 65 → ノルアドレナリン → バソプレシン → ステロイド・アドレナリン。 → 各段階で、輸液と心機能を見直す。 研修医レクチャー | Suzuki 20",
+   "notes": ""
+  },
+  {
+   "img": "s21.webp",
+   "thumb": "t21.webp",
+   "text": "PA R T 4 · A L G O R I T H M 敗血症性ショックの昇圧薬 ― 手順 1 ノルアドレナリンを開始 MAP 65 を目標。輸液と並行して早めに、末梢からでもよい 2 バソプレシンを追加 0.03 単位/分の固定量。開始点は NE 換算 0.1〜0.4（base）の範囲で施設ごとに 決める 3 ステロイドを追加 NE かアドレナリン ≥ 0.25 µg/kg/min が 4 時間以上続くとき 4 アドレナリンを追加 ノルアドレナリン＋バソプレシンで足りないとき 5 各段階で見直す 心エコーで心機能（敗血症性心筋症）、輸液反応性、感染源のコントロール Evans 2021（SSC）[3]; Peltan 2026 [1]。SSC 2026 [4] で変わった点（ステロイドの開始条件など）は全文で確認する → 段階を上げるたびに、「輸液は足りているか」「心臓は動いているか」を確かめる。 研修医レクチャー | Suzuki 21",
+   "notes": ""
+  },
+  {
+   "img": "s22.webp",
+   "thumb": "t22.webp",
+   "text": "CLOSING Take-home message NE MAP 65 を目標に、早めに、末梢からでも始める 単位 用量は base か塩かで 2 倍近く違う。自施設の製剤を確認 VASSPR バソプレシンを 0.1 で足しても 0.4 で足しても、28 日死亡は同じ 使い方 0.03 単位/分の固定量。死亡を減らす薬ではなく、カテコラミンを抑える手段 → いつ足すかより、足す前に輸液・心機能・感染源を見直す。 研修医レクチャー | Suzuki 22",
+   "notes": ""
+  },
+  {
+   "img": "s23.webp",
+   "thumb": "t23.webp",
+   "text": "REFERENCES References（1/3） [1] Peltan ID, Groat D, Jacobs JR, et al. Effect of vasopressin initiation threshold on septic shock mortality: the VASSPR cluster crossover randomized strategy trial. JAMA. Published online October 14, 2026. doi:10.1001/jama.2026.21333. PMID 42872917 [2] Peltan ID, Groat D, Jacobs JR, et al. Protocol and statistical analysis plan for the Vasopressin for Septic Shock Pragmatic (VASSPR) cluster-crossover randomized trial. CHEST Crit Care. 2025;3(4):100178. PMID 41552411 [3] Evans L, Rhodes A, Alhazzani W, et al. Surviving sepsis campaign: international guidelines for management of sepsis and septic shock 2021. Intensive Care Med. 2021;47(11):1181-1247. PMID 34599691 [4] Prescott HC, Antonelli M, Alhazzani W, et al. Surviving Sepsis Campaign: international guidelin",
+   "notes": ""
+  },
+  {
+   "img": "s24.webp",
+   "thumb": "t24.webp",
+   "text": "REFERENCES References（2/3） [7] Lamontagne F, Richards-Belle A, Thomas K, et al. Effect of reduced exposure to vasopressors on 90-day mortality in older critically ill patients with vasodilatory hypotension: a randomized clinical trial. JAMA. 2020;323(10):938-949. PMID 32049269 [8] Permpikul C, Tongyoo S, Viarasilpa T, et al. Early use of norepinephrine in septic shock resuscitation (CENSER). A randomized trial. Am J Respir Crit Care Med. 2019;199(9):1097-1105. PMID 30704260 [9] Morales S, Wendel-Garcia PD, Ibarra-Estrada M, et al. The impact of norepinephrine dose reporting heterogeneity on mortality prediction in septic shock patients. Crit Care. 2024;28(1):216. PMID 38961499 [10] Goyer I, Thibault C, Marquis C, et al. Use of norepinephrine in the pediatric intensive care unit: an interna",
+   "notes": ""
+  },
+  {
+   "img": "s25.webp",
+   "thumb": "t25.webp",
+   "text": "REFERENCES References（3/3） [13] Sacha GL, Lam SW, Wang L, et al. Association of catecholamine dose, lactate, and shock duration at vasopressin initiation with mortality in patients with septic shock. Crit Care Med. 2022;50(4):614-623. PMID 34582425 [14] Sacha GL, Duggal A, Reddy AJ, et al. Vasopressin initiation timing and in-hospital mortality in septic shock: an observational study of large public databases. Crit Care Explor. 2025;7(9):e1284. PMID 40844800 25 研修医レクチャー | Suzuki",
+   "notes": ""
+  }
+ ]
+}
