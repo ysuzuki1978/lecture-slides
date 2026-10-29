@@ -11,6 +11,16 @@
       "rev": "581c60f5de"
     },
     {
+      "id": "ssc2026-digest",
+      "title": "SSC 2026 ダイジェスト",
+      "subtitle": "敗血症・敗血症性ショックの国際ガイドライン 2026 ― 研修医が押さえる要点",
+      "date": "2026-10-29",
+      "slides": 22,
+      "thumb": "t01.webp",
+      "aspect": 1.7778,
+      "rev": "7d77e59c69"
+    },
+    {
       "id": "as-ar-mr-gradient",
       "title": "PG にだまされない",
       "subtitle": "重症 AR・中等度 MR を合併した AS の重症度をどう読むか",
