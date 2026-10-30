@@ -1,0 +1,148 @@
+{
+ "id": "pc-co2-rate-or-pressure",
+ "title": "回数か、圧か",
+ "subtitle": "PC 換気で CO₂ を下げるとき ― 時定数で考える（呼吸器シリーズ #4）",
+ "date": "2026-10-30",
+ "rev": "d831025a4c",
+ "aspect": 1.7778,
+ "slides": [
+  {
+   "img": "s01.webp",
+   "thumb": "t01.webp",
+   "text": "研修医向けレクチャー 回数か、圧か PC 換気で CO₂ を下げるとき ― 時定数で考える 呼吸器シリーズ #4 Yasuyuki Suzuki, MD, PhD Dept. of Anaesthesiology, Saiseikai Matsuyama Hospital",
+   "notes": ""
+  },
+  {
+   "img": "s02.webp",
+   "thumb": "t02.webp",
+   "text": "CASE 気腹中に EtCO₂ が 48 に上がった PC（圧規定） 指導医：PC 圧を上げる 設定 吸気圧 14・PEEP 6（ΔP 8） • 圧を少し上げるのは問題ない • 回数を上げると呼気時間が短くなり、CO₂ が吐けない 回数 12 /分 モード VT 経過 450 mL（予測体重 50 kg → 9 mL/kg） 研修医：回数だけ上げる EtCO₂ 48、やや頻脈 • ΔP を上げると肺障害のリスクがある • ΔP を変えずに分時換気量を増やしたい → どちらも理屈はある。決め手は時定数と、1 回換気量の大きさ。 研修医レクチャー | Suzuki 2",
+   "notes": ""
+  },
+  {
+   "img": "s03.webp",
+   "thumb": "t03.webp",
+   "text": "KEY MESSAGES 先に結論 ― 3 つ 1 PC の VT は時定数で決まる VT ＝ C × ΔP ×（1 − e^(−TI/τ)）。TI が 3τ より短いと吸い切れない。回数を 上げて I:E が同じなら TI も縮む。 2 この症例では圧のほうが効く I:E 1:2 で ΔP +2 は肺胞換気 3.6 → 4.9 L/min、回数 +4 は 4.3 L/min（計算）。 回数の側は VT が落ち、死腔換気も増える。 3 ΔP 8 → 10 は許容範囲 ただし VT は 11 mL/kg になる。害は示されていないが推奨の範囲外。流 量波形と mL/kg を見て、両方を少しずつ使う手もある。 → 回数を上げて効かないのは「吐けない」より先に「吸い切れない」から。 研修医レクチャー | Suzuki 3",
+   "notes": ""
+  },
+  {
+   "img": "s04.webp",
+   "thumb": "t04.webp",
+   "text": "PA R T 1 CO₂ は肺胞換気量で決まる 分時換気量のうち、死腔の分は CO₂ を運ばない。 → 回数を増やすと、死腔換気も回数ぶん増える。 研修医レクチャー | Suzuki 4",
+   "notes": ""
+  },
+  {
+   "img": "s05.webp",
+   "thumb": "t05.webp",
+   "text": "PA R T 1 · A LV E O L A R V E N T I L AT I O N 肺胞換気量 ＝ 回数 ×（VT − 死腔） PaCO₂ ∝ CO₂ 産生 ／ 肺胞換気量 分時換気量が同じでも 肺胞換気量 ＝ 回数 ×（VT − 死腔） VT を上げる方が肺胞換気量は大きい（死腔 150 mL を仮定、VT が落 ちない場合） 回数 VT 分時換気量 死腔換気 肺胞換気量 現在 12 450 mL 5.4 L 1.8 L 3.6 L VT を +100 mL 12 550 mL 6.6 L 1.8 L 4.8 L 回数を +3 15 450 mL 6.75 L 2.25 L 4.5 L この表は VT が設定どおり入る前提。PC で回数を上げると VT が落ちる ― それが PART 3。 → VT を増やした分はすべて肺胞へ、回数を増やした分は一部が死腔へ。 研修医レクチャー | Suzuki 5",
+   "notes": ""
+  },
+  {
+   "img": "s06.webp",
+   "thumb": "t06.webp",
+   "text": "PA R T 1 · P N E U M O P E R I T O N E U M 気腹中の EtCO₂ 上昇と頻脈 ― 設定を触る前に確かめること 想定内の上昇 見逃したくない原因 • 腹腔の CO₂ が吸収される（CO₂ 産生が増えたのと同じ） • 腹圧で胸壁が硬くなり、同じ圧でも VT が減りやすい • 皮下気腫、気胸（capnothorax） • 頭低位での片肺挿管 • 麻酔深度・鎮痛の不足（頻脈の原因として） 確かめる順番 • 皮下の捻髪音・気道内圧・SpO₂・両側の呼吸音（片肺挿管・気胸） • 麻酔深度と鎮痛、血圧（頻脈の原因） • EtCO₂ 48 は軽度。原因を確かめながら、換気を少し増やす → 設定で CO₂ を追う前に、上がった理由を確かめる。 研修医レクチャー | Suzuki 6",
+   "notes": ""
+  },
+  {
+   "img": "s07.webp",
+   "thumb": "t07.webp",
+   "text": "PA R T 2 PC の VT は時定数で決まる τ ＝ 抵抗 R × コンプライアンス C → 吸気にも呼気にも、およそ 3τ の時間が要る。 研修医レクチャー | Suzuki 7",
+   "notes": ""
+  },
+  {
+   "img": "s08.webp",
+   "thumb": "t08.webp",
+   "text": "PA R T 2 · T I M E C O N S TA N T PC の吸気：流量は指数関数的に減り、VT は頭打ちになる PC の 1 回換気量 VT ＝ C × ΔP ×（1 − e^(−TI/τ)） 読み方 • 1τ で 63%、2τ で 86%、3τ で 95% • TI を 3τ 以上にしても VT はほとんど増えな い • 呼気も同じ τ で吐き出される 左図は計算による概算（1 コンパートメントモデル、C 59 mL/cmH₂O、死腔 150 mL を仮定）。τ 0.56 秒 → TI が 3τ あれば VT はほぼ C × ΔP。足りなければ吸い切れない。 研修医レクチャー | Suzuki 8",
+   "notes": ""
+  },
+  {
+   "img": "s09.webp",
+   "thumb": "t09.webp",
+   "text": "PA R T 2 · T H I S PAT I E N T この症例の時定数を見積もる 値 根拠 コンプライアンス C 約 56〜59 mL/cmH₂O VT 450 ÷ ΔP 8（吸気流量がゼロに戻っている場合） 抵抗 R 約 10〜15 cmH₂O/L/s 気管チューブを含む仮定値 時定数 τ 約 0.56〜0.84 秒 R×C 3τ 約 1.7〜2.5 秒 吸い切る・吐き切るのに要る時間の目安 吸気の終わりの流量 呼気の終わりの流量 ゼロに戻っていれば TI は足りている。残っていれば吸い切れてい ない ゼロに戻っていれば TE は足りている。残っていれば吐き切れて いない（PEEPi） 呼気終末の流量がゼロでなければ PEEPi を疑う。Laghi 2012 [8]; Marini 2011 [7] → 吸気流量が TI の終わりにゼロ近くまで戻っていれば、τ は短い。 研修医レクチャー | Suzuki 9",
+   "notes": ""
+  },
+  {
+   "img": "s10.webp",
+   "thumb": "t10.webp",
+   "text": "PA R T 3 回数を上げると何が起こるか 1 呼吸の時間が縮み、I:E が同じなら TI も TE も縮む。 → 先に足りなくなるのは、TE より TI のことが多い。 研修医レクチャー | Suzuki 10",
+   "notes": ""
+  },
+  {
+   "img": "s11.webp",
+   "thumb": "t11.webp",
+   "text": "PA R T 3 · T I M I N G 回数を上げると、TI も TE も縮む（I:E 1:2 の場合） 回数 1 呼吸 TI TE TI と 3τ（1.7 秒） TE と 3τ（1.7 秒） 12 5.0 秒 1.67 秒 3.33 秒 ほぼ足りる 足りる 14 4.3 秒 1.43 秒 2.86 秒 やや短い 足りる 16 3.75 秒 1.25 秒 2.50 秒 短い 足りる 20 3.0 秒 1.00 秒 2.00 秒 短い ぎりぎり 24 2.5 秒 0.83 秒 1.67 秒 短い 足りない I:E 固定のとき TI 固定にすると 回数を上げると TI も一緒に縮む → VT が落ちる 縮むのは TE だけ。τ が短ければ回数 18〜20 まで余裕がある τ 0.56 秒の場合。τ 0.84 秒なら 3τ は 2.5 秒になり、TI はどの回数でも足りない → τ 0.56 秒なら、回数 16 で TE は足りるが TI は 3τ を下回る。 研修医レクチャー | Suzuki 11",
+   "notes": ""
+  },
+  {
+   "img": "s12.webp",
+   "thumb": "t12.webp",
+   "text": "PA R T 3 · WAV E F O R M S 流量波形で見る ― 回数 12 と 20 計算による概算（1 コンパートメントモデル、C 59 mL/cmH₂O、死腔 150 mL を仮定）。I:E 1:2。● 吸気の終わり、■ 呼気の終わり → 回数 20 では吸気流量がゼロに戻る前に切れる。τ が長いと回数 12 でも吸い切れていない。 研修医レクチャー | Suzuki 12",
+   "notes": ""
+  },
+  {
+   "img": "s13.webp",
+   "thumb": "t13.webp",
+   "text": "PA R T 3 · V T A N D V E N T I L AT I O N 回数を上げると VT は落ちる ― それでも換気は増えるか τ 0.56・I:E 固定 τ 0.84・I:E 固定 TI 固定にすると 回数 12 → 16 で VT 447 → 417 mL、肺胞換気 3.6 → 4.3 L 回数 12 → 16 で肺胞換気 3.0 → 3.2 L。ほとん ど増えない τ 0.56 なら回数 20 前後まで肺胞換気は増え 続ける 計算による概算（1 コンパートメントモデル、C 59 mL/cmH₂O、死腔 150 mL を仮定）。PEEPi を含む定常状態 → τ が短ければ肺胞換気は増える。τ が長いと回数を上げても増えない。 研修医レクチャー | Suzuki 13",
+   "notes": ""
+  },
+  {
+   "img": "s14.webp",
+   "thumb": "t14.webp",
+   "text": "PA R T 4 圧を上げると何が起こるか TI が足りていれば、VT は ΔP にほぼ比例して増える。 → 増えた VT はすべて肺胞換気になる。 研修医レクチャー | Suzuki 14",
+   "notes": ""
+  },
+  {
+   "img": "s15.webp",
+   "thumb": "t15.webp",
+   "text": "PA R T 4 · O P T I O N S この症例で 4 つの選択肢を比べる 計算による概算（1 コンパートメントモデル、C 59 mL/cmH₂O、死腔 150 mL を仮定）。τ 0.56 秒、I:E 1:2、予測体重 50 kg。EtCO₂ 予測は CO₂ 産生が一定と仮定した目安 → I:E 1:2 のままなら、ΔP +2 は回数 +4 より肺胞換気を増やす。代わりに VT は 11 mL/kg。 研修医レクチャー | Suzuki 15",
+   "notes": ""
+  },
+  {
+   "img": "s16.webp",
+   "thumb": "t16.webp",
+   "text": "PA R T 4 · E V I D E N C E 術中の ΔP と 1 回換気量 ― どこまで分かっているか 文献 対象・方法 結果 この症例への示唆 Neto 2016 術中換気の RCT 17 件、2250 例の個別 データ解析 ΔP 1 cmH₂O ↑ ごとに術後肺合併症 OR 1.16。VT は関連なし（OR 1.05、有意差な し） ΔP は低いほど良い傾向。ただし観察 的な関連 Karalapillai 2020 RCT 1206 例。VT 6 vs 10 mL/kg、PEEP は 両群 5 術後肺合併症 38% vs 39%（差なし） PEEP をそろえれば 10 mL/kg でも差は 出なかった Futier 2013 RCT 400 例。肺保護換気 vs 非保護換気 合併症 10.5% vs 27.5% 組み合わせの効果。VT だけの効果は 分けられない Young 2019 専門家のコンセンサス 初期設定は VT 6〜8 mL/kg（予測体重）、 PEEP 5 から個別化 推奨の範囲は 8 mL/kg まで Neto 2016 [1]; Karalapillai 2020 [2]; Futier 2013 [3]; Young 2019 [4] → ΔP 8 → 10 で肺障害とは言えない。VT 11 mL/kg も短時間なら害は示されていない。 研修医レクチャー | Suzuki 16",
+   "notes": ""
+  },
+  {
+   "img": "s17.webp",
+   "thumb": "t17.webp",
+   "text": "PA R T 4 · C H E S T WA L L 気腹中の ΔP には、硬くなった胸壁の分が含まれる 気道の ΔP ＝ 肺の分 ＋ 胸壁の分 ただし • 腹圧が上がると胸壁（腹部）が硬くなる • 同じ ΔP のうち、胸壁にかかる割合が増える • これは生理学からの推論で、気腹中の ΔP と転帰を直接調べ たデータではない • Neto 2016 の ΔP も気道の ΔP（胸壁込み） • 肺を広げる圧（経肺圧）はその分小さい（シリーズ #3） 実務で見る 2 つの数字 ① VT ÷ 予測体重（mL/kg）：推奨は 6〜8。この症例は今 9、ΔP +2 で 11 ② ΔP：今 8、+2 で 10。Amato の ARDS の解析と同じく、低いほど良い傾向 Akoumianaki 2014 [6]; Neto 2016 [1]; Amato 2015 [5]; Young 2019 [4] → 気腹中に ΔP が 2 上がっても、肺そのものにかかる圧の上昇はそれより小さい（推論）。 研修医レクチャー | Suzuki 17",
+   "notes": ""
+  },
+  {
+   "img": "s18.webp",
+   "thumb": "t18.webp",
+   "text": "PA R T 5 どちらが正しいか 指導医の結論は支持できる。ただし理由は「吐けない」ではない。 → 研修医の判断も、VT を増やさないという点で理にかなう。 研修医レクチャー | Suzuki 18",
+   "notes": ""
+  },
+  {
+   "img": "s19.webp",
+   "thumb": "t19.webp",
+   "text": "PA R T 5 · W H O I S R I G H T 指導医と研修医、それぞれの言い分を検証する 言い分 検証 判定 回数を上げると呼気時間が短くなって CO₂ が吐けない（指導医） τ 0.56 秒なら回数 16 でも TE 2.5 秒 ＞ 3τ。吐けなくなるのは回数 20 以上か、 τ が長い（閉塞性・細いチューブ）とき この症例では起こりにくい 圧を上げる方が効く（指導医） I:E 固定だと回数を上げても TI が縮み VT が落ちる。死腔換気も増える。計 算では ΔP +2 の方が肺胞換気が多い 支持できる ΔP を上げると肺障害（研修医） ΔP と術後肺合併症の関連はある（OR 1.16 / cmH₂O）が観察研究。8 → 10 は 低い範囲 心配しすぎ 回数だけ上げる（研修医） τ が短ければ効く。VT を 9 mL/kg より増やさずに済む 理にかなう 計算による概算（1 コンパートメントモデル、C 59 mL/cmH₂O、死腔 150 mL を仮定）。Neto 2016 [1] → 回数を上げて効きが悪いのは「吸い切れない」と「死腔」のため。「吐けない」は τ が長いときの話。 研修医レクチャー | Suzuki 19",
+   "notes": ""
+  },
+  {
+   "img": "s20.webp",
+   "thumb": "t20.webp",
+   "text": "PA R T 5 · C O M PA R I S O N 選択肢の比較と推奨 案 強み 弱み 推奨 A：PC 圧 +1〜2 効率が良い（死腔が増えない）。TI は変わ らない VT 10〜11 mL/kg。ΔP と術後肺合併症の関連（観 察研究） ○ B：回数 +3〜4（I:E 固定） ΔP も VT/kg も増えない TI が縮み VT が落ちる。τ が長いとほとんど効かな い ○ B'：回数 +4（TI 固定） VT がほとんど落ちない TE だけ縮む。τ が長いと PEEPi ○ C：回数 +2 ＋ 圧 +1 両方の弱みが小さい。VT 約 10 mL/kg 一手増える ◎ 計算による概算（1 コンパートメントモデル、C 59 mL/cmH₂O、死腔 150 mL を仮定）。案 C は回数 14・ΔP 9 で肺胞換気 4.7 L/min（τ 0.56、I:E 1:2） → 第一歩はどちらでもよい。流量波形と mL/kg で、次の一手を決める。 研修医レクチャー | Suzuki 20",
+   "notes": ""
+  },
+  {
+   "img": "s21.webp",
+   "thumb": "t21.webp",
+   "text": "PA R T 5 · H O W T O D E C I D E 流量波形で次の一手を決める 1 吸気の終わりに流量が残っている TI が足りない。回数を上げると VT がさらに落ちる → 圧を上げるか、TI を 確保（I:E を変える・TI 固定） 2 呼気の終わりに流量が残っている TE が足りない（PEEPi）。回数を上げない → 圧で VT を増やす 3 どちらもゼロに戻っている τ は短い。回数でも圧でも効く。VT/kg が 8 を超えるなら回数から 4 変更後に確かめる 実測の VT・分時換気量、EtCO₂ の推移、Ppeak Laghi 2012 [8]; Marini 2011 [7] → 吸気の流量が残る → 回数より圧（または TI）。呼気の流量が残る → 回数を上げない。 研修医レクチャー | Suzuki 21",
+   "notes": ""
+  },
+  {
+   "img": "s22.webp",
+   "thumb": "t22.webp",
+   "text": "CLOSING Take-home message 時定数 PC の VT は ΔP と TI/τ で決まる。吸い切る・吐き切るのに約 3τ 回数 I:E 固定で回数を上げると TI も縮み、VT が落ちる。死腔換気も増える 圧 ΔP 8 → 10 は許容範囲。ただし VT/予測体重は見る 決め方 吸気・呼気の流量がゼロに戻っているかで、次の一手を選ぶ → 回数か圧かは、時定数と流量波形で決める。 研修医レクチャー | Suzuki 22",
+   "notes": ""
+  },
+  {
+   "img": "s23.webp",
+   "thumb": "t23.webp",
+   "text": "REFERENCES References（1/1） [1] Neto AS, Hemmes SN, Barbas CS, et al. Association between driving pressure and development of postoperative pulmonary complications in patients undergoing mechanical ventilation for general anaesthesia: a meta-analysis of individual patient data. Lancet Respir Med. 2016;4(4):272-280. PMID 26947624 [2] Karalapillai D, Weinberg L, Peyton P, et al. Effect of intraoperative low tidal volume vs conventional tidal volume on postoperative pulmonary complications in patients undergoing major surgery: a randomized clinical trial. JAMA. 2020;324(9):848-858. PMID 32870298 [3] Futier E, Constantin JM, Paugam-Burtz C, et al. A trial of intraoperative low-tidal-volume ventilation in abdominal surgery. N Engl J Med. 2013;369(5):428-437. PMID 23902482 [4] Young CC, Harris EM",
+   "notes": ""
+  }
+ ]
+}

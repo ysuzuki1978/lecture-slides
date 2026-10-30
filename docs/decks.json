@@ -11,6 +11,16 @@
       "rev": "beda275c8e"
     },
     {
+      "id": "pc-co2-rate-or-pressure",
+      "title": "回数か、圧か",
+      "subtitle": "PC 換気で CO₂ を下げるとき ― 時定数で考える（呼吸器シリーズ #4）",
+      "date": "2026-10-30",
+      "slides": 23,
+      "thumb": "t01.webp",
+      "aspect": 1.7778,
+      "rev": "d831025a4c"
+    },
+    {
       "id": "ssc2026-digest",
       "title": "SSC 2026 ダイジェスト",
       "subtitle": "敗血症・敗血症性ショックの国際ガイドライン 2026 ― 研修医が押さえる要点",
